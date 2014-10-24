@@ -1,0 +1,1039 @@
+id,Status,DteGranted,Code,LayerName,OBJECTID,AreaUnit,LayerID,Resources,Parties,DteExpires,AreaValue,Type,StatusGrp,DteApplied
+1,Active,2005-11-21T00:00:00,ML0061,Active ML Licenses,147,Hectare,1,Pozzolana ,Tororo Cement Limited (100%),2026-11-20T00:00:00,9.239,Mining lease,Active,
+2,Active,2006-04-06T01:00:00,ML0112,Active ML Licenses,148,Square Kilometre,1,,V.E.K Global Mining Limited (100%),2027-04-05T01:00:00,0.1534,Mining lease,Active,
+3,Active,2006-08-30T01:00:00,ML0127,Active ML Licenses,149,Square Kilometre,1,Limestone ,Tororo Cement Limited (100%),2027-08-29T01:00:00,8.8547,Mining lease,Active,
+4,Active,2007-10-02T01:00:00,ML0248,Active ML Licenses,150,Hectare,1,Limestone ,Hima Cement  Limited (100%),2028-10-01T01:00:00,536.3932,Mining lease,Active,
+5,Active,2010-04-16T01:00:00,ML0593,Active ML Licenses,151,Square Kilometre,1,Limestone ,Tororo Cement Limited (100%),2031-04-15T01:00:00,51.8175,Mining lease,Active,
+6,Active,2011-06-13T01:00:00,ML0594,Active ML Licenses,152,Square Kilometre,1,Iron Ore ,Kigezi Steel Company Limited (100%),2032-06-12T01:00:00,3.0617,Mining lease,Active,
+7,Active,2010-11-08T00:00:00,ML0702,Active ML Licenses,153,Square Kilometre,1,Iron Ore ,Great Lakes Iron and Steel Company Limited (100%),2031-11-07T00:00:00,4.525,Mining lease,Active,
+8,Active,2010-12-01T00:00:00,ML0706,Active ML Licenses,154,Square Kilometre,1,Limestone ,Hima Cement  Limited (100%),2031-11-30T00:00:00,0.5411,Mining lease,Active,
+9,Active,1994-01-03T00:00:00,ML4063,Active ML Licenses,156,Square Kilometre,1,Gold ,AUC Mining (U) Limited (100%),2015-01-02T00:00:00,5.8068,Mining lease,Active,
+10,Active,1994-05-05T01:00:00,ML4064,Active ML Licenses,157,Hectare,1,,Muhindo Enterprises (100%),2015-05-04T01:00:00,421.5782,Mining lease,Active,
+11,Active,1994-12-12T00:00:00,ML4128,Active ML Licenses,158,Square Kilometre,1,Gold ,GREENSTONE RESOURCES LIMITED (100%),2015-12-11T00:00:00,0.561,Mining lease,Active,
+12,Active,2009-12-02T00:00:00,ML4227,Active ML Licenses,159,Square Kilometre,1,Gypsum ,Ataco Services Limited (100%),2030-12-01T00:00:00,3.5046,Mining lease,Active,
+13,Active,1999-05-03T01:00:00,ML4474,Active ML Licenses,160,Square Kilometre,1,,Tororo Cement Limited (100%),2020-05-02T01:00:00,0.4052,Mining lease,Active,
+14,Active,1999-02-08T00:00:00,ML4478,Active ML Licenses,161,Square Kilometre,1,Wolfram ,Krone Uganda Limited (100%),2035-02-07T00:00:00,1.7678,Mining lease,Active,
+15,Active,2002-08-06T01:00:00,ML4603,Active ML Licenses,162,Square Kilometre,1,Gold ,Kisita Mining Company Limited (100%),2023-08-05T01:00:00,8.716,Mining lease,Active,
+16,Active,2003-08-15T01:00:00,ML4623,Active ML Licenses,163,Square Kilometre,1,,Marubeg Company Limited (100%),2024-08-14T01:00:00,0.1242,Mining lease,Active,
+17,Active,2003-05-15T01:00:00,ML4651,Active ML Licenses,450,Square Kilometre,1,Vermiculite ,Gulf Resources Limited (100%),2024-05-14T01:00:00,17.2498,Mining lease,Active,
+18,Active,2011-05-17T01:00:00,ML0762,Active ML Licenses,451,Hectare,1,,Zarnack Holdings (U) Limited (100%),2032-05-16T01:00:00,202.2,Mining lease,Active,
+19,Active,2011-09-16T01:00:00,ML0842,Active ML Licenses,452,Square Kilometre,1,Wolfram ,Berkeley Reef Limited (100%),2032-09-15T01:00:00,4.8435,Mining lease,Active,
+20,Active,2011-10-28T01:00:00,ML0886,Active ML Licenses,453,Square Kilometre,1,,Simba Mines and Mineral Resources Limited (100%),2032-10-27T01:00:00,4.5131,Mining lease,Active,
+21,Active,1974-01-01T00:00:00,ML2151,Active ML Licenses,456,Hectare,1,Base Metals ,Kilembe Mines Limited (100%),2017-12-31T00:00:00,3249.4711,Mining lease,Active,
+22,Active,2002-12-20T00:00:00,ML4622,Active ML Licenses,457,Square Kilometre,1,Limestone ,Tororo Cement Limited (100%),2023-12-19T00:00:00,20.0191,Mining lease,Active,
+23,Active,2004-03-26T00:00:00,ML4684,Active ML Licenses,458,Square Kilometre,1,Limestone ,Tororo Cement Limited (100%),2025-03-25T00:00:00,0.69,Mining lease,Active,
+24,Active,2013-04-19T01:00:00,ML1117,Active ML Licenses,769,Hectare,1,Dimension Stone ,Building  Majesties Limited (100%),2034-04-18T01:00:00,47.2024,Mining lease,Active,
+25,Active,2013-03-13T00:00:00,ML1110,Active ML Licenses,784,Square Kilometre,1,Limestone ,Hima Cement  Limited (100%),2034-03-12T00:00:00,4.1221,Mining lease,Active,
+26,Active,2012-09-03T01:00:00,ML1047,Active ML Licenses,822,Hectare,1,Cassiterite ,First Mining Company Limited (100%),2033-09-02T01:00:00,2915.3972,Mining lease,Active,
+27,Active,2013-04-18T01:00:00,ML1129,Active ML Licenses,949,Square Kilometre,1,Gold ,Jan Mangal (U) Limited (100%),2034-04-17T01:00:00,74.0314,Mining lease,Active,
+28,Active,,ML2433,Active ML Licenses,995,Hectare,1,Limestone ,Kilembe Mines Limited (100%),,34.53,Mining lease,Active,
+29,Active,2014-03-14T00:00:00,ML1297,Active ML Licenses,1043,Hectare,1,Iron Ore ,Sino Minerals Investments Company Limited (100%),2035-03-13T00:00:00,4.494,Mining lease,Active,
+30,Active,2013-06-20T01:00:00,ML1170,Active ML Licenses,1122,Square Kilometre,1,Iron Ore ,Uganda International Mining Company Limited (100%),2034-06-19T01:00:00,1.0552,Mining lease,Active,
+31,Active,2014-02-25T00:00:00,ML1291,Active ML Licenses,1214,Square Kilometre,1,Marble ,Dao Marble Limited (100%),2035-02-24T00:00:00,4.0,Mining lease,Active,
+32,Pending Renewal,2010-02-01T00:00:00,EL0568,Active EL Licenses,7,Square Kilometre,0,Gold ,Budha Mining & Exploration (2009) Limited (100%),2013-01-31T00:00:00,34.325,Exploration license,Active,
+33,Pending Renewal,2010-02-15T00:00:00,EL0570,Active EL Licenses,9,Square Kilometre,0,"Coltan , Tungsten ",Heer Distributors Limited (100%),2013-02-14T00:00:00,3.0,Exploration license,Active,
+34,Pending Renewal,2010-02-15T00:00:00,EL0571,Active EL Licenses,10,Square Kilometre,0,"Coltan , Tungsten ",Heer Distributors Limited (100%),2013-02-14T00:00:00,58.7323,Exploration license,Active,
+35,Pending Renewal,2010-02-25T00:00:00,EL0572,Active EL Licenses,11,Square Kilometre,0,"Base Metals , Gold ",Nelvo International Limited (100%),2013-02-24T00:00:00,128.0,Exploration license,Active,
+36,Pending Renewal,2010-02-25T00:00:00,EL0573,Active EL Licenses,12,Square Kilometre,0,"Base Metals , Gold ",Nelvo International Limited (100%),2013-02-24T00:00:00,200.0,Exploration license,Active,
+37,Pending Renewal,2010-03-05T00:00:00,EL0574,Active EL Licenses,13,Square Kilometre,0,"Base Metals , Gold ",Mineral Research & Mines Limited (100%),2013-03-04T00:00:00,93.759,Exploration license,Active,
+38,Pending Renewal,2010-02-18T00:00:00,EL0575,Active EL Licenses,14,Square Kilometre,0,"Berrylium , Columbite , Tantalite , Tin ",Megha  Minerals & Mines Limited  (100%),2013-02-17T00:00:00,329.85,Exploration license,Active,
+39,Active,2010-03-09T00:00:00,EL0576,Active EL Licenses,15,Square Kilometre,0,"Columbite , Tantalite , Tin ",Rare Earth Minerals (U) Limited (100%),2015-03-08T00:00:00,15.0,Exploration license,Active,
+40,Pending Renewal,2010-03-05T00:00:00,EL0578,Active EL Licenses,17,Square Kilometre,0,"Base Metals , Gold ",Blue Earth Refinaries Uganda (100%),2013-03-04T00:00:00,50.0,Exploration license,Active,
+41,Pending Renewal,2010-03-23T00:00:00,EL0583,Active EL Licenses,21,Square Kilometre,0,Iron Ore ,Kigezi Steel Company Limited (100%),2013-03-22T00:00:00,1.5,Exploration license,Active,
+42,Active,2010-03-26T00:00:00,EL0587,Active EL Licenses,24,Square Kilometre,0,"Base Metals , Gold ",Mate Mines Limited (100%),2015-03-25T00:00:00,20.0436,Exploration license,Active,
+43,Active,2010-04-16T01:00:00,EL0596,Active EL Licenses,29,Square Kilometre,0,"Base Metals , Gold ",Mate Mines Limited (100%),2015-04-15T01:00:00,35.4592,Exploration license,Active,
+44,Active,2010-04-22T01:00:00,EL0597,Active EL Licenses,30,Square Kilometre,0,"Base Metals , Gold ",Doher Industries Limited (100%),2013-04-21T01:00:00,404.988,Exploration license,Active,
+45,Pending Renewal,2010-04-16T01:00:00,EL0598,Active EL Licenses,31,Square Kilometre,0,"Base Metals , Gold , PGM ",Budha Mining & Exploration (2009) Limited (100%),2013-04-15T01:00:00,171.5,Exploration license,Active,
+46,Pending Renewal,2010-04-16T01:00:00,EL0599,Active EL Licenses,32,Square Kilometre,0,"Base Metals , Gold , PGM ",Zamani Mining Limited (100%),2013-04-15T01:00:00,462.55,Exploration license,Active,
+47,Pending Renewal,2010-04-16T01:00:00,EL0600,Active EL Licenses,33,Square Kilometre,0,"Base Metals , Gold ",Zamani Mining Limited (100%),2013-04-15T01:00:00,9.1695,Exploration license,Active,
+48,Active,2010-04-28T01:00:00,EL0601,Active EL Licenses,34,Square Kilometre,0,Limestone ,Fred Kasalirwe (100%),2013-04-27T01:00:00,4.0,Exploration license,Active,
+49,Active,2010-04-07T01:00:00,EL0602,Active EL Licenses,35,Square Kilometre,0,"Base Metals , Gold ",Elegant Resources Limited (100%),2013-04-06T01:00:00,20.25,Exploration license,Active,
+50,Pending Renewal,2010-04-30T01:00:00,EL0605,Active EL Licenses,38,Square Kilometre,0,"Base Metals , Coltan , PGM , Tin , Wolfram ",Saba Saba Mining Limited (100%),2013-04-29T01:00:00,116.1,Exploration license,Active,
+51,Pending Renewal,2010-04-29T01:00:00,EL0606,Active EL Licenses,39,Square Kilometre,0,"Base Metals , Gold , PGM ",Saba Saba Mining Limited (100%),2013-04-28T01:00:00,6.0,Exploration license,Active,
+52,Pending Renewal,2010-04-29T01:00:00,EL0609,Active EL Licenses,41,Square Kilometre,0,"Base Metals , Coltan , Gold ",Saba Saba Mining Limited (100%),2013-04-28T01:00:00,60.0,Exploration license,Active,
+53,Pending Renewal,2010-04-30T01:00:00,EL0610,Active EL Licenses,42,Square Kilometre,0,"Base Metals , Coltan , Gold , PGM , Tin ",Saba Saba Mining Limited (100%),2013-04-29T01:00:00,6.0,Exploration license,Active,
+54,Pending Renewal,2010-04-29T01:00:00,EL0611,Active EL Licenses,43,Square Kilometre,0,"Base Metals , Coltan , Gold , PGM , Tin ",Saba Saba Mining Limited (100%),2013-04-28T01:00:00,99.0,Exploration license,Active,
+55,Pending Renewal,2010-04-29T01:00:00,EL0612,Active EL Licenses,44,Square Kilometre,0,"Base Metals , Coltan , Gold , PGM , Tin ",Saba Saba Mining Limited (100%),2013-04-28T01:00:00,6.0,Exploration license,Active,
+56,Active,2010-05-05T01:00:00,EL0614,Active EL Licenses,46,Square Kilometre,0,"Berrylium , Bismuth , Gold , Tin ",Beta Minerals Limited (100%),2015-05-04T01:00:00,36.0,Exploration license,Active,
+57,Pending Renewal,2010-05-14T01:00:00,EL0615,Active EL Licenses,47,Square Kilometre,0,Gypsum ,Gids Consults Limited (100%),2013-05-13T01:00:00,55.0,Exploration license,Active,
+58,Active,2010-05-13T01:00:00,EL0617,Active EL Licenses,48,Square Kilometre,0,"Base Metals , Gold , PGM ",Pearl Mining (U) Limited (100%),2015-05-12T01:00:00,229.9674,Exploration license,Active,
+59,Active,2010-05-24T01:00:00,EL0619,Active EL Licenses,49,Square Kilometre,0,"Base Metals , Gold ",Simba Mines and Mineral Resources Limited (100%),2015-05-23T01:00:00,53.0375,Exploration license,Active,
+60,Active,2009-01-09T00:00:00,EL0416,Active EL Licenses,51,Square Kilometre,0,Gold ,Gold Search Technical Services (Private) Limited (100%),2014-01-08T00:00:00,95.543,Exploration license,Active,
+61,Pending Renewal,2009-01-09T00:00:00,EL0422,Active EL Licenses,55,Square Kilometre,0,Gold ,Budha Mining & Exploration (2009) Limited (100%),2012-01-08T00:00:00,209.4,Exploration license,Active,
+62,Pending Renewal,2009-01-09T00:00:00,EL0423,Active EL Licenses,56,Square Kilometre,0,Gold ,Elegant Resources Limited (100%),2018-01-08T00:00:00,3.9078,Exploration license,Active,
+63,Active,2009-02-20T00:00:00,EL0425,Active EL Licenses,58,Square Kilometre,0,"Base Metals , Iron Ore ",AVR Engineering & Infrastructure Limited (100%),2014-02-19T00:00:00,10.0,Exploration license,Active,
+64,Active,2009-02-20T00:00:00,EL0426,Active EL Licenses,59,Square Kilometre,0,"Base Metals , Gold ",AVR Engineering & Infrastructure Limited (100%),2016-02-19T00:00:00,2.0,Exploration license,Active,
+65,Pending Renewal,2010-04-30T01:00:00,EL0607,Active EL Licenses,67,Square Kilometre,0,"Base Metals , Copper , Gold , Nickel , PGM ",Saba Saba Mining Limited (100%),2013-04-29T01:00:00,168.8,Exploration license,Active,
+66,Pending Renewal,2009-07-22T01:00:00,EL0457,Active EL Licenses,78,Square Kilometre,0,"Base Metals , Gold ",Simba Mines and Mineral Resources Limited (100%),2014-07-21T01:00:00,34.3006,Exploration license,Active,
+67,Pending Renewal,2009-07-30T01:00:00,EL0500,Active EL Licenses,79,Square Kilometre,0,"Base Metals , Gold ",Saba Saba Mining Limited (100%),2012-07-29T01:00:00,156.0,Exploration license,Active,
+68,Active,2009-09-23T01:00:00,EL0506,Active EL Licenses,82,Square Kilometre,0,"Base Metals , Gold ",Oli Gold Muruli Limited (100%),2014-09-22T01:00:00,65.7922,Exploration license,Active,
+69,Active,2009-09-23T01:00:00,EL0507,Active EL Licenses,83,Square Kilometre,0,"Base Metals , Gold ",Yamashita Resources Limited (100%),2014-09-22T01:00:00,89.0866,Exploration license,Active,
+70,Active,2009-09-23T01:00:00,EL0508,Active EL Licenses,84,Square Kilometre,0,"Base Metals , Gold ",Oli Gold Muruli Limited (100%),2014-09-22T01:00:00,67.7875,Exploration license,Active,
+71,Active,2009-10-08T01:00:00,EL0509,Active EL Licenses,85,Square Kilometre,0,"Base Metals , Gold ",Oryx Minerals Limited (100%),2014-10-07T01:00:00,19.2394,Exploration license,Active,
+72,Active,2009-09-18T01:00:00,EL0510,Active EL Licenses,86,Square Kilometre,0,"Base Metals , Gold ",Uganda Mining Prospecting & Development Company Limited (100%),2014-09-17T01:00:00,35.1,Exploration license,Active,
+73,Active,2009-09-18T01:00:00,EL0511,Active EL Licenses,87,Square Kilometre,0,"Base Metals , Gold ",Uganda Mining Prospecting & Development Company Limited (100%),2014-09-17T01:00:00,17.1,Exploration license,Active,
+74,Active,2009-10-02T01:00:00,EL0517,Active EL Licenses,93,Square Kilometre,0,"Base Metals , Gold ",Simba Mines and Mineral Resources Limited (100%),2014-10-01T01:00:00,95.056,Exploration license,Active,
+75,Pending Renewal,2009-10-08T01:00:00,EL0518,Active EL Licenses,94,Square Kilometre,0,"Base Metals , Gold ",Saba Saba Mining Limited (100%),2012-10-07T01:00:00,117.0,Exploration license,Active,
+76,Pending Renewal,2009-10-08T01:00:00,EL0519,Active EL Licenses,95,Square Kilometre,0,"Base Metals , Gold ",Zamani Mining Limited (100%),2012-10-07T01:00:00,44.0,Exploration license,Active,
+77,Pending Renewal,2009-10-12T01:00:00,EL0525,Active EL Licenses,100,Square Kilometre,0,"Base Metals , Gold ",Krishna Mining Limited (100%),2012-10-11T01:00:00,78.8,Exploration license,Active,
+78,Active,2009-10-12T01:00:00,EL0529,Active EL Licenses,104,Square Kilometre,0,"Base Metals , Gold ",Krishna Mining Limited (100%),2012-10-11T01:00:00,6.5,Exploration license,Active,
+79,Active,2009-11-02T00:00:00,EL0533,Active EL Licenses,108,Square Kilometre,0,"Base Metals , Gold , Tin ",Elegant Resources Limited (100%),2012-11-01T00:00:00,29.6,Exploration license,Active,
+80,Active,2011-03-10T00:00:00,EL0729,Active EL Licenses,164,Square Kilometre,0,Iron Ore ,AVR Engineering & Infrastructure Limited (100%),2014-03-09T00:00:00,318.0,Exploration license,Active,
+81,Active,2011-03-23T00:00:00,EL0731,Active EL Licenses,165,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Berkeley Reef Limited (100%),2014-03-22T00:00:00,225.0,Exploration license,Active,
+82,Active,2011-03-22T00:00:00,EL0732,Active EL Licenses,166,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Berkeley Reef Limited (100%),2014-03-21T00:00:00,15.0,Exploration license,Active,
+83,Active,2011-03-25T00:00:00,EL0735,Active EL Licenses,168,Square Kilometre,0,"Limestone , Marble ",Great Lakes Cement Limited (100%),2014-03-24T00:00:00,11.0,Exploration license,Active,
+84,Pending Renewal,2011-03-23T00:00:00,EL0737,Active EL Licenses,170,Square Kilometre,0,"Base Metals , Coltan , Gold , Zircon ",Beta Minerals Limited (100%),2014-03-22T00:00:00,54.0,Exploration license,Active,
+85,Pending Renewal,2011-03-23T00:00:00,EL0738,Active EL Licenses,171,Square Kilometre,0,"Base Metals , Coltan , Gold , Zircon ",Beta Minerals Limited (100%),2014-03-22T00:00:00,72.0,Exploration license,Active,
+86,Pending Renewal,2011-03-23T00:00:00,EL0739,Active EL Licenses,172,Square Kilometre,0,"Base Metals , Gold ",Beta Minerals Limited (100%),2014-03-22T00:00:00,66.0,Exploration license,Active,
+87,Pending Renewal,2011-03-23T00:00:00,EL0740,Active EL Licenses,173,Square Kilometre,0,"Base Metals , Gold ",Beta Minerals Limited (100%),2014-03-22T00:00:00,30.0,Exploration license,Active,
+88,Active,2011-04-15T01:00:00,EL0760,Active EL Licenses,187,Square Kilometre,0,Bentonite ,Joyce Lucia Buringi (100%),2014-04-14T01:00:00,104.3,Exploration license,Active,
+89,Active,2011-06-27T01:00:00,EL0772,Active EL Licenses,194,Square Kilometre,0,Geothermal ,Katwe Geothermal Power Project Limited (100%),2014-06-26T01:00:00,152.0,Exploration license,Active,
+90,Active,2011-07-06T01:00:00,EL0774,Active EL Licenses,195,Square Kilometre,0,Iron Ore ,Geo Resources Limited (100%),2014-07-05T01:00:00,35.0,Exploration license,Active,
+91,Active,2011-07-15T01:00:00,EL0777,Active EL Licenses,196,Square Kilometre,0,"Base Metals , Gold ",Pramukh Steel Limited (100%),2014-07-14T01:00:00,8.5,Exploration license,Active,
+92,Active,2011-07-19T01:00:00,EL0786,Active EL Licenses,200,Square Kilometre,0,"Berrylium , Cobalt , Tin ",Euro Minerals Limited (100%),2014-07-18T01:00:00,21.5,Exploration license,Active,
+93,Active,2011-07-25T01:00:00,EL0790,Active EL Licenses,201,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,100.0,Exploration license,Active,
+94,Active,2011-09-22T01:00:00,EL0854,Active EL Licenses,202,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,80.0,Exploration license,Active,
+95,Active,2011-09-22T01:00:00,EL0855,Active EL Licenses,203,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,77.0,Exploration license,Active,
+96,Active,2011-09-22T01:00:00,EL0856,Active EL Licenses,204,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,88.0,Exploration license,Active,
+97,Active,2011-09-22T01:00:00,EL0857,Active EL Licenses,205,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,30.0,Exploration license,Active,
+98,Active,2011-09-22T01:00:00,EL0858,Active EL Licenses,206,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,49.0,Exploration license,Active,
+99,Active,2011-09-22T01:00:00,EL0859,Active EL Licenses,207,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,84.0,Exploration license,Active,
+100,Active,2011-09-22T01:00:00,EL0860,Active EL Licenses,208,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,44.0,Exploration license,Active,
+101,Active,2011-09-22T01:00:00,EL0861,Active EL Licenses,209,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,70.0,Exploration license,Active,
+102,Active,2013-06-13T01:00:00,EL1165,Active EL Licenses,210,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble ",Dao Marble Limited (100%),2016-06-12T01:00:00,124.239,Exploration license,Active,
+103,Active,2012-12-21T00:00:00,EL1059,Active EL Licenses,212,Square Kilometre,0,"Base Metals , Gold ",Rift Valley Investments Limited (100%),2015-12-20T00:00:00,90.0,Exploration license,Active,
+104,Active,2010-05-25T01:00:00,EL0620,Active EL Licenses,213,Square Kilometre,0,Iron Ore ,Gulf Resources Limited (100%),2015-05-24T01:00:00,15.16,Exploration license,Active,
+105,Active,2010-06-08T01:00:00,EL0622,Active EL Licenses,215,Square Kilometre,0,"Base Metals , Gold , Rare Earth Elements ",Esimo Industries Limited (100%),2013-06-07T01:00:00,63.0,Exploration license,Active,
+106,Active,2010-06-17T01:00:00,EL0637,Active EL Licenses,230,Square Kilometre,0,"Base Metals , Gold ",Milu (U) Limited (100%),2015-06-16T01:00:00,34.145,Exploration license,Active,
+107,Pending Renewal,2010-06-28T01:00:00,EL0649,Active EL Licenses,242,Square Kilometre,0,Gold ,Zhong Hua Exploration and Mineral Development Company Limited (100%),2013-06-27T01:00:00,101.75,Exploration license,Active,
+108,Active,2010-06-18T01:00:00,EL0652,Active EL Licenses,245,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Hard Rock Engineering Limited (100%),2013-06-17T01:00:00,117.8,Exploration license,Active,
+109,Active,2010-07-12T01:00:00,EL0653,Active EL Licenses,246,Square Kilometre,0,"Berrylium , Tin ",First Mining Company Limited (100%),2015-07-11T01:00:00,15.0,Exploration license,Active,
+110,Active,2010-07-22T01:00:00,EL0665,Active EL Licenses,258,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",AVR Engineering & Infrastructure Limited (100%),2013-07-21T01:00:00,130.0,Exploration license,Active,
+111,Pending Renewal,2010-07-15T01:00:00,EL0666,Active EL Licenses,259,Square Kilometre,0,Vermiculite ,Gulf Resources Limited (100%),2013-07-14T01:00:00,1.1004,Exploration license,Active,
+112,Active,2010-07-21T01:00:00,EL0667,Active EL Licenses,260,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Kweri Limited (100%),2015-07-20T01:00:00,96.279,Exploration license,Active,
+113,Active,2010-07-30T01:00:00,EL0668,Active EL Licenses,261,Square Kilometre,0,"Base Metals , Gold ",Sunder Wallia Kaka (100%),2013-07-29T01:00:00,160.0,Exploration license,Active,
+114,Active,2010-07-30T01:00:00,EL0669,Active EL Licenses,262,Square Kilometre,0,Gold ,Sunder Wallia Kaka (100%),2013-07-29T01:00:00,164.0,Exploration license,Active,
+115,Active,2010-07-30T01:00:00,EL0670,Active EL Licenses,263,Square Kilometre,0,"Base Metals , Gold ",Sunder Wallia Kaka (100%),2013-07-29T01:00:00,4.2,Exploration license,Active,
+116,Active,2010-07-30T01:00:00,EL0672,Active EL Licenses,265,Square Kilometre,0,"Base Metals , Gold ",Majoli Henry (100%),2015-07-29T01:00:00,120.0,Exploration license,Active,
+117,Active,2010-08-18T01:00:00,EL0682,Active EL Licenses,274,Square Kilometre,0,"Berrylium , Cobalt , Rare Earth Elements , Tin ",Gids Consults Limited (100%),2015-08-17T01:00:00,53.9,Exploration license,Active,
+118,Active,2010-08-23T01:00:00,EL0684,Active EL Licenses,276,Square Kilometre,0,"Base Metals , Gold ",Reef Gold Mining (U) Limited (100%),2013-08-22T01:00:00,4.6725,Exploration license,Active,
+119,Pending Renewal,2010-09-16T01:00:00,EL0690,Active EL Licenses,281,Square Kilometre,0,Cassiterite ,Sunder Wallia Kaka (100%),2013-09-15T01:00:00,21.7,Exploration license,Active,
+120,Active,2010-10-07T01:00:00,EL0692,Active EL Licenses,283,Square Kilometre,0,"Base Metals , Gold ",Gold Empire Limited (100%),2013-10-06T01:00:00,74.0,Exploration license,Active,
+121,Active,2010-09-27T01:00:00,EL0693,Active EL Licenses,284,Square Kilometre,0,"Base Metals , Gold , PGM ",Mwendo Enterprises Ltd (100%),2015-09-26T01:00:00,112.8,Exploration license,Active,
+122,Active,2010-09-27T01:00:00,EL0694,Active EL Licenses,285,Square Kilometre,0,"Base Metals , Gold , PGM ",Kito Resources Limited (100%),2013-09-26T01:00:00,335.2,Exploration license,Active,
+123,Active,2010-10-07T01:00:00,EL0696,Active EL Licenses,287,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2015-10-06T01:00:00,95.85,Exploration license,Active,
+124,Active,2010-10-15T01:00:00,EL0697,Active EL Licenses,288,Square Kilometre,0,"Base Metals , Gold , Tin ",SUN AND SAND MINES AND MINERALS LTD (100%),2013-10-14T01:00:00,20.3,Exploration license,Active,
+125,Active,2010-11-15T00:00:00,EL0701,Active EL Licenses,290,Square Kilometre,0,"Bentonite , Industrial Minerals , Kaolin ",Joyce Lucia Burungi (100%),2013-11-14T00:00:00,20.0,Exploration license,Active,
+126,Active,2010-11-29T00:00:00,EL0705,Active EL Licenses,293,Square Kilometre,0,Geothermal ,Cozumel Energy (U) Limited (100%),2015-11-28T00:00:00,407.9,Exploration license,Active,
+127,Active,2012-03-13T00:00:00,EL0961,Active EL Licenses,315,Square Kilometre,0,"Base Metals , Gold ",Steven  Banya (100%),2015-03-12T00:00:00,36.8085,Exploration license,Active,
+128,Active,2012-02-17T00:00:00,EL0942,Active EL Licenses,316,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Samaj (U) Limited (100%),2015-02-16T00:00:00,324.0,Exploration license,Active,
+129,Active,2012-02-17T00:00:00,EL0938,Active EL Licenses,317,Square Kilometre,0,"Base Metals , Gold , PGM ",Samaj (U) Limited (100%),2015-02-16T00:00:00,322.1025,Exploration license,Active,
+130,Active,2012-02-17T00:00:00,EL0941,Active EL Licenses,318,Square Kilometre,0,"Base Metals , Gold , PGM ",Samaj (U) Limited (100%),2015-02-16T00:00:00,204.0,Exploration license,Active,
+131,Active,2012-02-17T00:00:00,EL0939,Active EL Licenses,319,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Samaj (U) Limited (100%),2015-02-16T00:00:00,351.0,Exploration license,Active,
+132,Active,2012-03-19T00:00:00,EL0958,Active EL Licenses,320,Square Kilometre,0,"Base Metals , Gold ",Andrew Kabiito Rubuubi (100%),2015-03-18T00:00:00,15.0,Exploration license,Active,
+133,Active,2012-02-17T00:00:00,EL0940,Active EL Licenses,322,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Samaj (U) Limited (100%),2015-02-16T00:00:00,358.915,Exploration license,Active,
+134,Active,2012-03-20T00:00:00,EL0962,Active EL Licenses,323,Square Kilometre,0,"Base Metals , Gold ",Royalco Resources Limited (100%),2015-03-19T00:00:00,241.6417,Exploration license,Active,
+135,Active,2012-01-05T00:00:00,EL0924,Active EL Licenses,325,Square Kilometre,0,"Base Metals , Gold ",Mines Industry Services (U) Limited (100%),2015-01-04T00:00:00,22.067,Exploration license,Active,
+136,Active,2012-01-11T00:00:00,EL0916,Active EL Licenses,326,Square Kilometre,0,"Base Metals , Gold ",Aerial Resources Limited (100%),2015-01-10T00:00:00,110.1763,Exploration license,Active,
+137,Active,2013-02-27T00:00:00,EL1089,Active EL Licenses,327,Square Kilometre,0,Gold ,AUC Mining (U) Limited (100%),2016-02-26T00:00:00,201.7925,Exploration license,Active,
+138,Active,2012-03-19T00:00:00,EL0957,Active EL Licenses,328,Square Kilometre,0,"Base Metals , Gold , PGM ",Andrew Kabiito Rubuubi (100%),2015-03-18T00:00:00,60.0,Exploration license,Active,
+139,Active,2013-02-20T00:00:00,EL1088,Active EL Licenses,329,Square Kilometre,0,Gold ,Gemstones International Limited (100%),2016-02-19T00:00:00,20.8987,Exploration license,Active,
+140,Active,2012-01-31T00:00:00,EL0933,Active EL Licenses,332,Square Kilometre,0,"Base Metals , Gold ",Sombbs Mining Limited (100%),2015-01-30T00:00:00,110.1942,Exploration license,Active,
+141,Active,2012-01-11T00:00:00,EL0914,Active EL Licenses,333,Square Kilometre,0,"Base Metals , Gold ",Aerial Resources Limited (100%),2015-01-10T00:00:00,0.0,Exploration license,Active,
+142,Pending Renewal,2007-05-09T01:00:00,EL0187,Active EL Licenses,348,Square Kilometre,0,"Base Metals , Gold ",Elegant Resources Limited (100%),2012-05-08T01:00:00,41.082,Exploration license,Active,
+143,Pending Renewal,2007-08-06T01:00:00,EL0200,Active EL Licenses,356,Square Kilometre,0,"Base Metals , Gold , PGM ",Elegant Resources Limited (100%),2012-08-05T01:00:00,163.6981,Exploration license,Active,
+144,Active,2007-11-14T00:00:00,EL0218,Active EL Licenses,357,Square Kilometre,0,"Base Metals , Gold ",Oryx Minerals Limited (100%),2014-11-13T00:00:00,58.2574,Exploration license,Active,
+145,Active,2007-11-14T00:00:00,EL0225,Active EL Licenses,358,Square Kilometre,0,"Base Metals , Gold ",Oryx Minerals Limited (100%),2014-11-13T00:00:00,18.487,Exploration license,Active,
+146,Active,2007-09-28T01:00:00,EL0246,Active EL Licenses,359,Square Kilometre,0,"Berrylium , Coltan , Tin ",Borkraft (U) Limited (100%),2014-09-27T01:00:00,27.0,Exploration license,Active,
+147,Active,2008-02-18T00:00:00,EL0281,Active EL Licenses,364,Square Kilometre,0,Limestone ,African Minerals  Limited (100%),2013-02-17T00:00:00,28.2755,Exploration license,Active,
+148,Pending Renewal,2008-02-19T00:00:00,EL0287,Active EL Licenses,365,Square Kilometre,0,"Cobalt , Copper , Gold , Nickel ",Doher Industries Limited (100%),2013-02-18T00:00:00,198.0,Exploration license,Active,
+149,Active,2008-04-08T01:00:00,EL0296,Active EL Licenses,367,Square Kilometre,0,"Base Metals , Gold ",General Purpose Limited (100%),2015-04-07T01:00:00,23.08,Exploration license,Active,
+150,Active,2008-05-08T01:00:00,EL0303,Active EL Licenses,370,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Nelvo International Limited (100%),2013-05-07T01:00:00,118.35,Exploration license,Active,
+151,Active,2008-06-30T01:00:00,EL0309,Active EL Licenses,371,Square Kilometre,0,Gold ,African Mineral Fields Limited (100%),2013-06-29T01:00:00,240.0,Exploration license,Active,
+152,Active,2008-05-06T01:00:00,EL0319,Active EL Licenses,372,Square Kilometre,0,"Limestone , Marble ",Moroto Cement Industries (U) Limited (100%),2015-05-05T01:00:00,62.5228,Exploration license,Active,
+153,Pending Renewal,2008-05-23T01:00:00,EL0322,Active EL Licenses,375,Square Kilometre,0,"Tin , Wolfram ",China (U) Exploration & Mineral Development (100%),2013-05-22T01:00:00,41.1753,Exploration license,Active,
+154,Active,2008-07-09T01:00:00,EL0325,Active EL Licenses,376,Square Kilometre,0,"Base Metals , Gold ",Oryx Minerals Limited (100%),2015-07-08T01:00:00,24.5004,Exploration license,Active,
+155,Active,2008-07-01T01:00:00,EL0326,Active EL Licenses,377,Square Kilometre,0,,Oryx Minerals Limited (100%),2015-06-30T01:00:00,18.9775,Exploration license,Active,
+156,Active,2008-07-01T01:00:00,EL0327,Active EL Licenses,378,Square Kilometre,0,,Oryx Minerals Limited (100%),2015-06-30T01:00:00,25.468,Exploration license,Active,
+157,Active,2008-06-06T01:00:00,EL0332,Active EL Licenses,380,Square Kilometre,0,"Base Metals , Gold , Tin , Wolfram ",Majest-com Limited (100%),2015-06-05T01:00:00,0.2796,Exploration license,Active,
+158,Active,2008-06-25T01:00:00,EL0338,Active EL Licenses,381,Square Kilometre,0,,Nelvo International Limited (100%),2015-06-24T01:00:00,137.7,Exploration license,Active,
+159,Active,2008-06-12T01:00:00,EL0343,Active EL Licenses,385,Square Kilometre,0,"Base Metals , Gold ",Mwendo Enterprises Ltd (100%),2015-06-11T01:00:00,117.9,Exploration license,Active,
+160,Pending Renewal,2009-11-25T00:00:00,EL0540,Active EL Licenses,393,Square Kilometre,0,"Base Metals , Gold ",Saba Saba Mining Limited (100%),2012-11-24T00:00:00,216.125,Exploration license,Active,
+161,Active,2009-11-25T00:00:00,EL0541,Active EL Licenses,394,Square Kilometre,0,"Limestone , Marble ",XL Mining Limited (100%),2014-11-24T00:00:00,10.4664,Exploration license,Active,
+162,Pending Renewal,2009-11-12T00:00:00,EL0542,Active EL Licenses,395,Square Kilometre,0,Wolfram ,Kabale Diocese (100%),2012-11-11T00:00:00,4.7265,Exploration license,Active,
+163,Active,2009-11-25T00:00:00,EL0543,Active EL Licenses,396,Square Kilometre,0,"Columbite , Tantalite , Tin ",Coltan Mines (U) Limited (100%),2014-11-24T00:00:00,31.5,Exploration license,Active,
+164,Active,2009-12-07T00:00:00,EL0544,Active EL Licenses,397,Square Kilometre,0,"Base Metals , Gold ",Budha Mining & Exploration (2009) Limited (100%),2012-12-06T00:00:00,132.9407,Exploration license,Active,
+165,Active,2009-12-07T00:00:00,EL0545,Active EL Licenses,398,Square Kilometre,0,"Base Metals , Gold ",Saba Saba Mining Limited (100%),2012-12-06T00:00:00,27.88,Exploration license,Active,
+166,Active,2009-12-07T00:00:00,EL0546,Active EL Licenses,399,Square Kilometre,0,Hematite ,Blue Steel Uganda Limited (100%),2014-12-06T00:00:00,3.7743,Exploration license,Active,
+167,Pending Renewal,2009-12-14T00:00:00,EL0547,Active EL Licenses,400,Square Kilometre,0,"Berrylium , Columbite , Kaolin , Tantalite ",Kellen Kayonga (100%),2012-12-13T00:00:00,11.4759,Exploration license,Active,
+168,Active,2011-09-22T01:00:00,EL0862,Active EL Licenses,405,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,80.0,Exploration license,Active,
+169,Active,2011-09-22T01:00:00,EL0863,Active EL Licenses,406,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,100.0,Exploration license,Active,
+170,Active,2011-09-22T01:00:00,EL0864,Active EL Licenses,407,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,80.0,Exploration license,Active,
+171,Active,2011-09-22T01:00:00,EL0865,Active EL Licenses,408,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,50.0,Exploration license,Active,
+172,Active,2011-09-22T01:00:00,EL0866,Active EL Licenses,409,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,73.0,Exploration license,Active,
+173,Active,2011-09-22T01:00:00,EL0867,Active EL Licenses,410,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,75.0,Exploration license,Active,
+174,Active,2011-09-22T01:00:00,EL0868,Active EL Licenses,411,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,80.0,Exploration license,Active,
+175,Active,2011-09-29T01:00:00,EL0869,Active EL Licenses,412,Square Kilometre,0,"Base Metals , Gold ",Russian African Foundation for Science (100%),2014-09-28T01:00:00,54.0,Exploration license,Active,
+176,Active,2011-10-03T01:00:00,EL0870,Active EL Licenses,413,Square Kilometre,0,"Base Metals , Gold ",Amor Mines Limited (100%),2014-10-02T01:00:00,59.0,Exploration license,Active,
+177,Active,2011-10-18T01:00:00,EL0872,Active EL Licenses,414,Square Kilometre,0,"Base Metals , Gold , PGM ",Jo Santo Investments Limited (100%),2014-10-17T01:00:00,54.4,Exploration license,Active,
+178,Active,2011-10-18T01:00:00,EL0873,Active EL Licenses,415,Square Kilometre,0,"Berrylium , Coltan , Tin ",Russian African Foundation for Science (100%),2014-10-17T01:00:00,57.5,Exploration license,Active,
+179,Active,2011-10-20T01:00:00,EL0874,Active EL Licenses,416,Square Kilometre,0,"Base Metals , Iron Ore ",Pramukh Steel Limited (100%),2014-10-19T01:00:00,20.0,Exploration license,Active,
+180,Active,2011-10-20T01:00:00,EL0875,Active EL Licenses,417,Square Kilometre,0,"Base Metals , Gold ",Pramukh Steel Limited (100%),2014-10-19T01:00:00,5.0677,Exploration license,Active,
+181,Active,2011-10-20T01:00:00,EL0876,Active EL Licenses,418,Square Kilometre,0,"Limestone , Marble ",Pramukh Steel Limited (100%),2014-10-19T01:00:00,36.9,Exploration license,Active,
+182,Active,2011-10-24T01:00:00,EL0877,Active EL Licenses,419,Square Kilometre,0,"Base Metals , Iron Ore ",Sino Minerals Investments Company Limited (100%),2014-10-23T01:00:00,8.0525,Exploration license,Active,
+183,Active,2011-11-01T00:00:00,EL0879,Active EL Licenses,420,Square Kilometre,0,"Columbite , Gold , Tin ",Uganda International Mining Company Limited (100%),2014-10-31T00:00:00,58.5414,Exploration license,Active,
+184,Active,2011-10-31T00:00:00,EL0880,Active EL Licenses,421,Square Kilometre,0,"Base Metals , Coltan , Gold , Tin ",Ferro Minerals (U) Limited (100%),2014-10-30T00:00:00,107.35,Exploration license,Active,
+185,Active,2011-11-10T00:00:00,EL0881,Active EL Licenses,422,Square Kilometre,0,Limestone ,Zoek Limited (100%),2014-11-09T00:00:00,64.0,Exploration license,Active,
+186,Active,2011-11-10T00:00:00,EL0882,Active EL Licenses,423,Square Kilometre,0,Limestone ,Zoek Limited (100%),2014-11-09T00:00:00,40.0,Exploration license,Active,
+187,Active,2011-11-08T00:00:00,EL0883,Active EL Licenses,424,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2014-11-07T00:00:00,24.0,Exploration license,Active,
+188,Active,2011-11-08T00:00:00,EL0884,Active EL Licenses,425,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2014-11-07T00:00:00,51.4,Exploration license,Active,
+189,Active,2011-11-08T00:00:00,EL0885,Active EL Licenses,426,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2014-11-07T00:00:00,37.4,Exploration license,Active,
+190,Active,2011-11-16T00:00:00,EL0889,Active EL Licenses,427,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Mwendo Enterprises Ltd (100%),2014-11-15T00:00:00,147.5,Exploration license,Active,
+191,Active,2011-12-05T00:00:00,EL0890,Active EL Licenses,428,Square Kilometre,0,"Base Metals , Gold ",Gids Consults Limited (100%),2014-12-04T00:00:00,102.0,Exploration license,Active,
+192,Active,2011-11-07T00:00:00,EL0891,Active EL Licenses,429,Square Kilometre,0,"Base Metals , Gold ",Brothers Investments Limited (100%),2014-11-06T00:00:00,418.0,Exploration license,Active,
+193,Active,2011-11-08T00:00:00,EL0892,Active EL Licenses,430,Square Kilometre,0,Base Metals ,Sino Minerals Investments Company Limited (100%),2014-11-07T00:00:00,10.0,Exploration license,Active,
+194,Active,2011-11-08T00:00:00,EL0893,Active EL Licenses,431,Square Kilometre,0,Base Metals ,Sino Minerals Investments Company Limited (100%),2014-11-07T00:00:00,9.0,Exploration license,Active,
+195,Active,2011-11-14T00:00:00,EL0894,Active EL Licenses,432,Square Kilometre,0,Rare Earth Elements ,Frontier Exploration (U) Limited (100%),2014-11-13T00:00:00,340.0,Exploration license,Active,
+196,Active,2011-11-29T00:00:00,EL0897,Active EL Licenses,433,Square Kilometre,0,"Base Metals , Gold ",Aurua Green Metals Limited (100%),2014-11-28T00:00:00,231.5,Exploration license,Active,
+197,Active,2011-12-29T00:00:00,EL0898,Active EL Licenses,434,Square Kilometre,0,"Bismuth , Gold , Tin , Wolfram ",Namitala Irene S. (100%),2014-12-28T00:00:00,72.1,Exploration license,Active,
+198,Active,2011-11-29T00:00:00,EL0899,Active EL Licenses,435,Square Kilometre,0,"Berrylium , Coltan , Tin ",Russian African Foundation for Science (100%),2014-11-28T00:00:00,45.0,Exploration license,Active,
+199,Active,2011-12-09T00:00:00,EL0900,Active EL Licenses,436,Square Kilometre,0,"Base Metals , Gold , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,483.0,Exploration license,Active,
+200,Active,2011-12-09T00:00:00,EL0901,Active EL Licenses,437,Square Kilometre,0,"Base Metals , Gold , Limestone , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,426.0,Exploration license,Active,
+201,Active,2011-12-09T00:00:00,EL0902,Active EL Licenses,438,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble , Mica , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,476.0,Exploration license,Active,
+202,Active,2011-12-09T00:00:00,EL0903,Active EL Licenses,439,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble , Mica , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,329.6387,Exploration license,Active,
+203,Active,2011-12-09T00:00:00,EL0904,Active EL Licenses,440,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble , Mica , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,418.0,Exploration license,Active,
+204,Active,2011-12-09T00:00:00,EL0905,Active EL Licenses,441,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble , Mica , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,284.0,Exploration license,Active,
+205,Active,2011-12-09T00:00:00,EL0906,Active EL Licenses,442,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble , Mica , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,498.0,Exploration license,Active,
+206,Active,2011-12-09T00:00:00,EL0907,Active EL Licenses,443,Square Kilometre,0,"Base Metals , Gold , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,462.0,Exploration license,Active,
+207,Active,2011-12-09T00:00:00,EL0908,Active EL Licenses,444,Square Kilometre,0,"Base Metals , Gold , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,451.2,Exploration license,Active,
+208,Active,2011-12-09T00:00:00,EL0909,Active EL Licenses,445,Square Kilometre,0,"Base Metals , Gold , PGM ",Capital Ventures International Limited (100%),2014-12-08T00:00:00,486.0,Exploration license,Active,
+209,Active,2011-12-09T00:00:00,EL0910,Active EL Licenses,446,Square Kilometre,0,"Base Metals , Gold ",Rockmarks Limited (100%),2014-12-08T00:00:00,56.0,Exploration license,Active,
+210,Active,2011-12-28T00:00:00,EL0922,Active EL Licenses,447,Square Kilometre,0,"Base Metals , Iron Ore ",Universal Iron Ore Limited (100%),2014-12-27T00:00:00,12.0663,Exploration license,Active,
+211,Active,2007-08-09T01:00:00,EL0217,Active EL Licenses,462,Square Kilometre,0,"Base Metals , Gold ",Flemish Investments Limited (100%),2014-08-08T01:00:00,12.15,Exploration license,Active,
+212,Pending Renewal,2011-01-17T00:00:00,EL0713,Active EL Licenses,479,Square Kilometre,0,"Iron Ore , Phosphates , Vermiculite ",East African Industrial Minerals Limited (100%),2014-01-16T00:00:00,15.6706,Exploration license,Active,
+213,Active,2011-01-13T00:00:00,EL0714,Active EL Licenses,480,Square Kilometre,0,"Base Metals , Gold ",Whoword Investments Limited (100%),2014-01-12T00:00:00,97.0,Exploration license,Active,
+214,Pending Renewal,2011-01-13T00:00:00,EL0715,Active EL Licenses,481,Square Kilometre,0,"Base Metals , Berrylium , Coltan , Gold , Tin ",Megha  Minerals & Mines Limited  (100%),2014-01-12T00:00:00,40.0,Exploration license,Active,
+215,Pending Renewal,2011-01-13T00:00:00,EL0716,Active EL Licenses,482,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Megha  Minerals & Mines Limited  (100%),2014-01-12T00:00:00,160.0,Exploration license,Active,
+216,Pending Renewal,2011-01-13T00:00:00,EL0717,Active EL Licenses,483,Square Kilometre,0,"Base Metals , Coltan , Gold , Tin ",Megha  Minerals & Mines Limited  (100%),2014-01-12T00:00:00,40.0,Exploration license,Active,
+217,Active,2011-01-14T00:00:00,EL0719,Active EL Licenses,485,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2016-01-13T00:00:00,122.0,Exploration license,Active,
+218,Active,2011-01-19T00:00:00,EL0720,Active EL Licenses,486,Square Kilometre,0,"Base Metals , Berrylium , Gold , Kaolin , Tantalite ",BNT Mining Limited (100%),2016-01-18T00:00:00,12.5,Exploration license,Active,
+219,Active,2011-02-04T00:00:00,EL0721,Active EL Licenses,487,Square Kilometre,0,"Base Metals , Gold , Limestone ",Professional Associates Limited (100%),2014-02-03T00:00:00,294.5,Exploration license,Active,
+220,Active,2011-02-15T00:00:00,EL0723,Active EL Licenses,489,Square Kilometre,0,"Base Metals , Gold ",Krishna Mining Limited (100%),2016-02-14T00:00:00,14.999,Exploration license,Active,
+221,Active,2011-02-15T00:00:00,EL0724,Active EL Licenses,490,Square Kilometre,0,"Base Metals , Gold ",Krishna Mining Limited (100%),2014-02-14T00:00:00,35.0,Exploration license,Active,
+222,Pending Renewal,2011-02-10T00:00:00,EL0725,Active EL Licenses,491,Square Kilometre,0,Geothermal ,Gids Consults Limited (100%),2014-02-09T00:00:00,140.0319,Exploration license,Active,
+223,Active,2011-02-24T00:00:00,EL0726,Active EL Licenses,492,Square Kilometre,0,"Base Metals , Gold , PGM ",Krishna Mining Limited (100%),2016-02-23T00:00:00,26.75,Exploration license,Active,
+224,Pending Renewal,2011-02-24T00:00:00,EL0727,Active EL Licenses,493,Square Kilometre,0,"Base Metals , Gold , PGM ",Krishna Mining Limited (100%),2014-02-23T00:00:00,32.0,Exploration license,Active,
+225,Active,2011-02-24T00:00:00,EL0728,Active EL Licenses,494,Square Kilometre,0,"Base Metals , Gold , PGM ",Krishna Mining Limited (100%),2014-02-23T00:00:00,32.0,Exploration license,Active,
+226,Active,2011-07-25T01:00:00,EL0791,Active EL Licenses,495,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,50.0,Exploration license,Active,
+227,Active,2011-07-25T01:00:00,EL0792,Active EL Licenses,496,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,59.0,Exploration license,Active,
+228,Active,2011-07-25T01:00:00,EL0793,Active EL Licenses,497,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,70.0,Exploration license,Active,
+229,Active,2011-07-25T01:00:00,EL0794,Active EL Licenses,498,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,98.0,Exploration license,Active,
+230,Active,2011-07-25T01:00:00,EL0795,Active EL Licenses,499,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,50.0,Exploration license,Active,
+231,Active,2011-07-25T01:00:00,EL0796,Active EL Licenses,500,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,50.0,Exploration license,Active,
+232,Active,2011-07-25T01:00:00,EL0797,Active EL Licenses,501,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,100.0,Exploration license,Active,
+233,Active,2011-07-25T01:00:00,EL0798,Active EL Licenses,502,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,100.0,Exploration license,Active,
+234,Active,2011-07-25T01:00:00,EL0799,Active EL Licenses,503,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,100.0,Exploration license,Active,
+235,Active,2011-07-25T01:00:00,EL0800,Active EL Licenses,504,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,100.0,Exploration license,Active,
+236,Active,2011-07-25T01:00:00,EL0801,Active EL Licenses,505,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,100.0,Exploration license,Active,
+237,Active,2011-07-25T01:00:00,EL0802,Active EL Licenses,506,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,70.0,Exploration license,Active,
+238,Active,2011-07-25T01:00:00,EL0803,Active EL Licenses,507,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,48.0,Exploration license,Active,
+239,Active,2011-07-25T01:00:00,EL0804,Active EL Licenses,508,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,54.0,Exploration license,Active,
+240,Active,2011-07-25T01:00:00,EL0805,Active EL Licenses,509,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,54.0,Exploration license,Active,
+241,Active,2011-07-25T01:00:00,EL0806,Active EL Licenses,510,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,54.0,Exploration license,Active,
+242,Active,2011-07-25T01:00:00,EL0807,Active EL Licenses,511,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,48.0,Exploration license,Active,
+243,Active,2011-07-25T01:00:00,EL0808,Active EL Licenses,512,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,54.0,Exploration license,Active,
+244,Active,2011-07-25T01:00:00,EL0809,Active EL Licenses,513,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-24T01:00:00,54.0,Exploration license,Active,
+245,Active,2011-07-28T01:00:00,EL0810,Active EL Licenses,514,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-27T01:00:00,54.0,Exploration license,Active,
+246,Active,2011-07-28T01:00:00,EL0811,Active EL Licenses,515,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-27T01:00:00,94.5,Exploration license,Active,
+247,Active,2011-07-28T01:00:00,EL0812,Active EL Licenses,516,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-27T01:00:00,116.0,Exploration license,Active,
+248,Active,2011-07-28T01:00:00,EL0813,Active EL Licenses,517,Square Kilometre,0,"Base Metals , Gold ",Gold Hunters Limited (100%),2014-07-27T01:00:00,93.0,Exploration license,Active,
+249,Active,2011-07-29T01:00:00,EL0815,Active EL Licenses,518,Square Kilometre,0,"Base Metals , Gold ",Steven  Banya (100%),2014-07-28T01:00:00,21.92,Exploration license,Active,
+250,Active,2011-08-03T01:00:00,EL0816,Active EL Licenses,519,Square Kilometre,0,"Base Metals , Gold ",Red Apple Resources Limited (100%),2014-08-02T01:00:00,201.0,Exploration license,Active,
+251,Active,2011-08-09T01:00:00,EL0817,Active EL Licenses,520,Square Kilometre,0,Iron Ore ,Rift Valley Minerals Limited (100%),2014-08-08T01:00:00,6.26,Exploration license,Active,
+252,Active,2011-08-16T01:00:00,EL0819,Active EL Licenses,521,Square Kilometre,0,"Base Metals , Gold ",Sawa Mines Limited (100%),2014-08-15T01:00:00,0.9771,Exploration license,Active,
+253,Active,2011-08-12T01:00:00,EL0820,Active EL Licenses,522,Square Kilometre,0,"Base Metals , Gold ",Uganda Sino-Watson Minerals Company Limited (100%),2014-08-11T01:00:00,107.7,Exploration license,Active,
+254,Active,2011-08-18T01:00:00,EL0822,Active EL Licenses,523,Square Kilometre,0,"Base Metals , Gold ",Brothers Investments Limited (100%),2014-08-17T01:00:00,47.9,Exploration license,Active,
+255,Active,2011-08-29T01:00:00,EL0827,Active EL Licenses,524,Square Kilometre,0,"Base Metals , Iron Ore ",Sino Minerals Investments Company Limited (100%),2014-08-28T01:00:00,41.9551,Exploration license,Active,
+256,Active,2011-09-01T01:00:00,EL0828,Active EL Licenses,525,Square Kilometre,0,Limestone ,Saba Saba Mining Limited (100%),2014-08-31T01:00:00,91.0,Exploration license,Active,
+257,Active,2011-09-01T01:00:00,EL0829,Active EL Licenses,526,Square Kilometre,0,Limestone ,Saba Saba Mining Limited (100%),2014-08-31T01:00:00,70.0,Exploration license,Active,
+258,Active,2011-09-01T01:00:00,EL0830,Active EL Licenses,527,Square Kilometre,0,"Base Metals , Gold ",Aurua Green Metals Limited (100%),2014-08-31T01:00:00,130.1231,Exploration license,Active,
+259,Active,2011-09-01T01:00:00,EL0831,Active EL Licenses,528,Square Kilometre,0,"Base Metals , Gold ",Aurua Green Metals Limited (100%),2014-08-31T01:00:00,269.0,Exploration license,Active,
+260,Active,2011-09-01T01:00:00,EL0832,Active EL Licenses,529,Square Kilometre,0,"Base Metals , Gold ",Aurua Green Metals Limited (100%),2014-08-31T01:00:00,56.5,Exploration license,Active,
+261,Active,2011-09-05T01:00:00,EL0833,Active EL Licenses,530,Square Kilometre,0,"Base Metals , Gold , PGM ",Precious Mining (U) Limited (100%),2014-09-04T01:00:00,94.2,Exploration license,Active,
+262,Active,2011-09-05T01:00:00,EL0834,Active EL Licenses,531,Square Kilometre,0,"Base Metals , Gold , PGM ",Precious Mining (U) Limited (100%),2014-09-04T01:00:00,100.0,Exploration license,Active,
+263,Active,2011-09-05T01:00:00,EL0835,Active EL Licenses,532,Square Kilometre,0,"Base Metals , Gold , PGM ",Precious Mining (U) Limited (100%),2014-09-04T01:00:00,129.0,Exploration license,Active,
+264,Active,2011-09-08T01:00:00,EL0836,Active EL Licenses,533,Square Kilometre,0,Phosphates ,Bio Fertilizer (U) Limited (100%),2014-09-07T01:00:00,20.0,Exploration license,Active,
+265,Active,2011-09-13T01:00:00,EL0837,Active EL Licenses,534,Square Kilometre,0,"Base Metals , Gold ",African Metal Properties Limited (100%),2014-09-12T01:00:00,134.3,Exploration license,Active,
+266,Active,2011-09-14T01:00:00,EL0838,Active EL Licenses,535,Square Kilometre,0,"Base Metals , Gold ",African Metal Properties Limited (100%),2014-09-13T01:00:00,197.0,Exploration license,Active,
+267,Active,2011-09-15T01:00:00,EL0839,Active EL Licenses,536,Square Kilometre,0,"Base Metals , Gold ",African Metal Properties Limited (100%),2014-09-14T01:00:00,220.0,Exploration license,Active,
+268,Active,2011-09-16T01:00:00,EL0841,Active EL Licenses,538,Square Kilometre,0,Limestone ,Supercom Interantional Limited (100%),2014-09-15T01:00:00,9.4,Exploration license,Active,
+269,Active,2011-09-20T01:00:00,EL0844,Active EL Licenses,539,Square Kilometre,0,"Gold , Tin , Wolfram ",Mineral Exploration and Mining (PTY) Limited (100%),2014-09-19T01:00:00,6.0,Exploration license,Active,
+270,Active,2011-09-22T01:00:00,EL0845,Active EL Licenses,540,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,100.0,Exploration license,Active,
+271,Active,2011-09-22T01:00:00,EL0846,Active EL Licenses,541,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,124.0,Exploration license,Active,
+272,Active,2011-09-22T01:00:00,EL0847,Active EL Licenses,542,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,55.2,Exploration license,Active,
+273,Active,2011-09-22T01:00:00,EL0848,Active EL Licenses,543,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,20.0,Exploration license,Active,
+274,Active,2011-09-22T01:00:00,EL0849,Active EL Licenses,544,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,51.0,Exploration license,Active,
+275,Active,2011-09-22T01:00:00,EL0850,Active EL Licenses,545,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,124.0,Exploration license,Active,
+276,Active,2011-09-22T01:00:00,EL0851,Active EL Licenses,546,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,72.0,Exploration license,Active,
+277,Active,2011-09-22T01:00:00,EL0852,Active EL Licenses,547,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,86.0,Exploration license,Active,
+278,Active,2011-09-22T01:00:00,EL0853,Active EL Licenses,548,Square Kilometre,0,"Base Metals , Gold , PGM ",East African Mining Limited (100%),2014-09-21T01:00:00,48.0,Exploration license,Active,
+279,Active,2012-02-22T00:00:00,EL0950,Active EL Licenses,553,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",United African Mines Company Limited (100%),2015-02-21T00:00:00,39.0,Exploration license,Active,
+280,Active,2012-04-19T01:00:00,EL0980,Active EL Licenses,556,Square Kilometre,0,"Base Metals , PGM , Rare Earth Elements ",Africa Rare Earth and Metals (U) Limited (100%),2015-04-18T01:00:00,106.0895,Exploration license,Active,
+281,Active,2012-04-10T01:00:00,EL0973,Active EL Licenses,557,Square Kilometre,0,"Iron Ore , Wolfram ",Care Moving Investment Limited (100%),2015-04-09T01:00:00,10.9612,Exploration license,Active,
+282,Active,2012-04-23T01:00:00,EL0979,Active EL Licenses,558,Square Kilometre,0,"Base Metals , Coltan , Tin ",Jo Santo Investments Limited (100%),2015-04-22T01:00:00,39.0,Exploration license,Active,
+283,Active,2012-12-03T00:00:00,EL1065,Active EL Licenses,560,Square Kilometre,0,"Base Metals , Gold ",Kirabira Stephen (100%),2015-12-02T00:00:00,21.3,Exploration license,Active,
+284,Active,2012-07-30T01:00:00,EL1005,Active EL Licenses,561,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Oryx Minerals Limited (100%),2015-07-29T01:00:00,5.2,Exploration license,Active,
+285,Active,2013-05-22T01:00:00,EL1152,Active EL Licenses,572,Square Kilometre,0,"Base Metals , Gold , Tin , Wolfram ","Mining, Minerals and Metals Ltd (100%)",2016-05-21T01:00:00,0.4938,Exploration license,Active,
+286,Active,2012-08-23T01:00:00,EL1040,Active EL Licenses,575,Square Kilometre,0,"Base Metals , Iron Ore , Limestone ",Rift Valley Minerals Limited (100%),2015-08-22T01:00:00,72.0,Exploration license,Active,
+287,Active,2012-06-05T01:00:00,EL0988,Active EL Licenses,576,Square Kilometre,0,Limestone ,KASESE COBALT COMPANY LIMITED (100%),2015-06-04T01:00:00,0.5566,Exploration license,Active,
+288,Active,2012-08-10T01:00:00,EL1021,Active EL Licenses,577,Square Kilometre,0,Granite,Universal Granites and Marble Limited (100%),2015-08-09T01:00:00,10.0,Exploration license,Active,
+289,Active,2012-08-10T01:00:00,EL1019,Active EL Licenses,579,Square Kilometre,0,Granite,Universal Granites and Marble Limited (100%),2015-08-09T01:00:00,5.0,Exploration license,Active,
+290,Active,2012-08-10T01:00:00,EL1041,Active EL Licenses,581,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Great Lakes Mining Limited (100%),2015-08-09T01:00:00,60.0,Exploration license,Active,
+291,Active,2012-08-10T01:00:00,EL1018,Active EL Licenses,582,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Great Lakes Mining Limited (100%),2015-08-09T01:00:00,60.0,Exploration license,Active,
+292,Active,2012-08-09T01:00:00,EL1033,Active EL Licenses,584,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Ambrose Byona (100%),2015-08-08T01:00:00,5.78,Exploration license,Active,
+293,Active,2013-01-29T00:00:00,EL1077,Active EL Licenses,585,Square Kilometre,0,"Base Metals , Gold ",Royalco Resources Limited (100%),2016-01-28T00:00:00,117.6,Exploration license,Active,
+294,Active,2012-02-22T00:00:00,EL0951,Active EL Licenses,586,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",United African Mines Company Limited (100%),2015-02-21T00:00:00,1.05,Exploration license,Active,
+295,Active,2013-05-23T01:00:00,EL1153,Active EL Licenses,587,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Ronald Jarius Ssebunya (100%),2016-05-22T01:00:00,63.0,Exploration license,Active,
+296,Active,2012-11-14T00:00:00,EL1063,Active EL Licenses,589,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2015-11-13T00:00:00,47.9203,Exploration license,Active,
+297,Active,2012-08-13T01:00:00,EL1029,Active EL Licenses,590,Square Kilometre,0,"Base Metals , Gold ",GREENSTONE RESOURCES LIMITED (100%),2015-08-12T01:00:00,9.4157,Exploration license,Active,
+298,Active,2012-08-13T01:00:00,EL1030,Active EL Licenses,594,Square Kilometre,0,"Base Metals , Gold ",African Rift Mineral Limited (100%),2015-08-12T01:00:00,83.6,Exploration license,Active,
+299,Active,2012-09-19T01:00:00,EL1057,Active EL Licenses,595,Square Kilometre,0,"Base Metals , Gold ",Francis K. Mutungi (100%),2015-09-18T01:00:00,75.5,Exploration license,Active,
+300,Active,2012-08-06T01:00:00,EL1007,Active EL Licenses,599,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Sun and Sand Mining Limited (100%),2015-08-05T01:00:00,109.0,Exploration license,Active,
+301,Active,2013-10-23T01:00:00,EL1219,Active EL Licenses,600,Square Kilometre,0,"Base Metals , Gold ",ASKL MINERAL PROSPECTORS LTD (100%),2016-10-22T01:00:00,174.7194,Exploration license,Active,
+302,Active,2012-08-13T01:00:00,EL1032,Active EL Licenses,602,Square Kilometre,0,"Base Metals , Gold ",GREENSTONE RESOURCES LIMITED (100%),2015-08-12T01:00:00,4.7899,Exploration license,Active,
+303,Active,2013-02-05T00:00:00,EL1082,Active EL Licenses,604,Square Kilometre,0,"Base Metals , Gold ",Royalco Resources Limited (100%),2016-02-04T00:00:00,100.0,Exploration license,Active,
+304,Active,2012-02-17T00:00:00,EL0936,Active EL Licenses,605,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Samaj (U) Limited (100%),2015-02-16T00:00:00,492.0,Exploration license,Active,
+305,Active,2012-07-26T01:00:00,EL1006,Active EL Licenses,607,Square Kilometre,0,Pozzolana ,Birungi Cephas Kyagenda (100%),2015-07-25T01:00:00,11.9798,Exploration license,Active,
+306,Active,2012-07-30T01:00:00,EL1034,Active EL Licenses,611,Square Kilometre,0,"Base Metals , Copper , Gold , PGM , Zinc ",East African Mining Limited (100%),2015-07-29T01:00:00,170.0,Exploration license,Active,
+307,Active,2012-10-15T01:00:00,EL1060,Active EL Licenses,612,Square Kilometre,0,Geothermal ,Pawakom International Limited (100%),2015-10-14T01:00:00,91.8065,Exploration license,Active,
+308,Active,2012-09-04T01:00:00,EL1044,Active EL Licenses,613,Square Kilometre,0,"Base Metals , Columbite , Gold , Platinum , Tantalite ",Zhong Hua Exploration and Mineral Development Company Limited (100%),2015-09-03T01:00:00,257.15,Exploration license,Active,
+309,Active,2012-09-04T01:00:00,EL1043,Active EL Licenses,614,Square Kilometre,0,"Base Metals , Columbite , Gold , Platinum , Tantalite ",Zhong Hua Exploration and Mineral Development Company Limited (100%),2015-09-03T01:00:00,244.3311,Exploration license,Active,
+310,Active,2012-08-10T01:00:00,EL1020,Active EL Licenses,615,Square Kilometre,0,Granite,Universal Granites and Marble Limited (100%),2015-08-09T01:00:00,10.0,Exploration license,Active,
+311,Active,2013-02-19T00:00:00,EL1072,Active EL Licenses,616,Square Kilometre,0,"Base Metals , Gold ",WANANCHI MINING LIMITED (100%),2016-02-18T00:00:00,80.0,Exploration license,Active,
+312,Active,2013-11-19T00:00:00,EL1247,Active EL Licenses,618,Square Kilometre,0,"Base Metals , Gold ",WANANCHI MINING LIMITED (100%),2016-11-18T00:00:00,39.0,Exploration license,Active,
+313,Active,2012-04-02T01:00:00,EL0971,Active EL Licenses,619,Square Kilometre,0,"Base Metals , Gold , PGM ",Berkeley Reef Limited (100%),2015-04-01T01:00:00,176.091,Exploration license,Active,
+314,Active,2012-08-06T01:00:00,EL1017,Active EL Licenses,620,Square Kilometre,0,"Base Metals , Rare Earth Elements ",Great Lakes Mining Limited (100%),2015-08-05T01:00:00,104.5,Exploration license,Active,
+315,Active,2013-03-04T00:00:00,EL1092,Active EL Licenses,621,Square Kilometre,0,"Base Metals , Gold , PGM ",African Rift Mineral Limited (100%),2016-03-03T00:00:00,240.2505,Exploration license,Active,
+316,Active,2013-03-20T00:00:00,EL1107,Active EL Licenses,629,Square Kilometre,0,"Base Metals , Columbite , Gold , Platinum , Tantalite ",Zhong Hua Exploration and Mineral Development Company Limited (100%),2016-03-19T00:00:00,255.78,Exploration license,Active,
+317,Active,2013-05-23T01:00:00,EL1142,Active EL Licenses,630,Square Kilometre,0,Geothermal ,FCN ENERGY LIMITED (100%),2016-05-22T01:00:00,378.0,Exploration license,Active,
+318,Active,2013-01-29T00:00:00,EL1076,Active EL Licenses,634,Square Kilometre,0,"Base Metals , Gold ",Fulin Mines Limited (100%),2016-01-28T00:00:00,69.57,Exploration license,Active,
+319,Active,2012-08-20T01:00:00,EL1037,Active EL Licenses,635,Square Kilometre,0,Geothermal ,CLEAN SOURCE ENERGY PARTNER'S LIMITED (100%),2015-08-19T01:00:00,84.0,Exploration license,Active,
+320,Active,2013-02-18T00:00:00,EL1081,Active EL Licenses,637,Square Kilometre,0,"Base Metals , Gold ",RHINO UNITED AGENCIES LIMITED (100%),2016-02-17T00:00:00,,Exploration license,Active,
+321,Active,2013-02-18T00:00:00,EL1071,Active EL Licenses,638,Square Kilometre,0,"Base Metals , Gold ",ANGARO INVESTMENTS COMPANY LIMITED (100%),2016-02-17T00:00:00,102.0,Exploration license,Active,
+322,Active,2014-05-06T01:00:00,EL1310,Active EL Licenses,640,Square Kilometre,0,"Base Metals , Gold , Iron Ore , Uranium ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,364.0,Exploration license,Active,
+323,Active,2014-06-20T01:00:00,EL1341,Active EL Licenses,642,Square Kilometre,0,"Base Metals , Gold ",ANGARO INVESTMENTS COMPANY LIMITED (100%),2017-06-19T01:00:00,97.0,Exploration license,Active,
+324,Active,2013-10-23T01:00:00,EL1213,Active EL Licenses,643,Square Kilometre,0,Wolfram ,RUSLA MINING AND MINERALS LIMITED (100%),2016-10-22T01:00:00,6.6662,Exploration license,Active,
+325,Active,2013-02-27T00:00:00,EL1096,Active EL Licenses,645,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",RHINO UNITED AGENCIES LIMITED (100%),2016-02-26T00:00:00,100.0,Exploration license,Active,
+326,Active,2012-09-04T01:00:00,EL1046,Active EL Licenses,646,Square Kilometre,0,Geothermal ,CLEAN SOURCE ENERGY PARTNER'S LIMITED (100%),2015-09-03T01:00:00,58.2907,Exploration license,Active,
+327,Active,2014-06-19T01:00:00,EL1345,Active EL Licenses,647,Square Kilometre,0,"Base Metals , Gold ",Indiana Mining Limited (100%),2017-06-18T01:00:00,8.7385,Exploration license,Active,
+328,Active,2012-09-14T01:00:00,EL1056,Active EL Licenses,648,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Tin , Uranium , Wolfram ",SUN AND SAND MINES AND MINERALS LTD (100%),2015-09-13T01:00:00,23.03,Exploration license,Active,
+329,Active,2012-09-14T01:00:00,EL1054,Active EL Licenses,649,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Tin , Uranium , Wolfram ",SUN AND SAND MINES AND MINERALS LTD (100%),2015-09-13T01:00:00,8.7725,Exploration license,Active,
+330,Active,2012-05-21T01:00:00,EL0985,Active EL Licenses,650,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Samaj (U) Limited (100%),2015-05-20T01:00:00,167.125,Exploration license,Active,
+331,Active,2012-05-22T01:00:00,EL0987,Active EL Licenses,652,Square Kilometre,0,"Limestone , Pozzolana ",Hima Cement  Limited (100%),2015-05-21T01:00:00,4.2292,Exploration license,Active,
+332,Active,2008-05-12T01:00:00,EL0305,Active EL Licenses,654,Square Kilometre,0,"Base Metals , Gold ",Pearl Mining (U) Limited (100%),2015-05-11T01:00:00,45.15,Exploration license,Active,
+333,Active,2011-10-10T01:00:00,EL0824,Active EL Licenses,655,Square Kilometre,0,Gold ,Gemstones International Limited (100%),2014-10-09T01:00:00,153.0,Exploration license,Active,
+334,Active,2011-09-26T01:00:00,EL0823,Active EL Licenses,656,Square Kilometre,0,"Base Metals , Gold ",Some Graphics Limited (100%),2014-09-25T01:00:00,120.0,Exploration license,Active,
+335,Active,2012-04-24T01:00:00,EL0983,Active EL Licenses,657,Square Kilometre,0,"Base Metals , Iron Ore ",Pramukh Steel Limited (100%),2015-04-23T01:00:00,39.9751,Exploration license,Active,
+336,Active,2012-06-22T01:00:00,EL0993,Active EL Licenses,658,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",FLD Mining (U) Limited (100%),2015-06-21T01:00:00,8.08,Exploration license,Active,
+337,Active,2012-04-13T01:00:00,EL0976,Active EL Licenses,659,Square Kilometre,0,Dimension Stone ,Dimension Stones Investment Limited (100%),2015-04-12T01:00:00,8.4,Exploration license,Active,
+338,Active,2012-06-22T01:00:00,EL0992,Active EL Licenses,660,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",FLD Mining (U) Limited (100%),2015-06-21T01:00:00,9.0262,Exploration license,Active,
+339,Active,2012-04-24T01:00:00,EL0977,Active EL Licenses,661,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Kripto International Limited (100%),2015-04-23T01:00:00,10.0,Exploration license,Active,
+340,Active,2012-07-24T01:00:00,EL0998,Active EL Licenses,662,Square Kilometre,0,"Base Metals , Gold ",Moberge Finance Limited (100%),2015-07-23T01:00:00,16.2,Exploration license,Active,
+341,Active,2012-07-24T01:00:00,EL0999,Active EL Licenses,663,Square Kilometre,0,"Base Metals , Gold ",Moberge Finance Limited (100%),2015-07-23T01:00:00,59.0796,Exploration license,Active,
+342,Active,2008-10-06T01:00:00,EL0377,Active EL Licenses,665,Square Kilometre,0,"Base Metals , Limestone , Marble , Platinum , Pozzolana ",Supercom Interantional Limited (100%),2013-10-05T01:00:00,235.9875,Exploration license,Active,
+343,Active,2012-04-24T01:00:00,EL0978,Active EL Licenses,666,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Kripto International Limited (100%),2015-04-23T01:00:00,2.0,Exploration license,Active,
+344,Active,2012-08-06T01:00:00,EL1015,Active EL Licenses,667,Square Kilometre,0,"Base Metals , Iron Ore ",Great Lakes Mining Limited (100%),2015-08-05T01:00:00,36.0,Exploration license,Active,
+345,Active,2012-09-07T01:00:00,EL1053,Active EL Licenses,668,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Sipa Exploration (U) Limited (100%),2015-09-06T01:00:00,204.5,Exploration license,Active,
+346,Active,2012-01-30T00:00:00,EL0888,Active EL Licenses,669,Square Kilometre,0,"Tin , Wolfram ",Hilltop Minerals & Metals Limited (100%),2015-01-29T00:00:00,21.5,Exploration license,Active,
+347,Active,2012-01-31T00:00:00,EL0923,Active EL Licenses,670,Square Kilometre,0,"Base Metals , Gold , PGM ",Eco Technologies Limited (100%),2015-01-30T00:00:00,386.925,Exploration license,Active,
+348,Active,2012-01-11T00:00:00,EL0919,Active EL Licenses,671,Square Kilometre,0,"Base Metals , Gold ",Rift Valley Investments Limited (100%),2015-01-10T00:00:00,13.3,Exploration license,Active,
+349,Active,2012-01-11T00:00:00,EL0917,Active EL Licenses,672,Square Kilometre,0,"Base Metals , Tin ",Rift Valley Investments Limited (100%),2015-01-10T00:00:00,20.0,Exploration license,Active,
+350,Active,2012-02-21T00:00:00,EL0947,Active EL Licenses,673,Square Kilometre,0,"Gold , Precious Metals ",Universal Metals Limited (100%),2015-02-20T00:00:00,33.0,Exploration license,Active,
+351,Active,2012-02-22T00:00:00,EL0949,Active EL Licenses,674,Square Kilometre,0,"Base Metals , Gold ",Aurua Green Metals Limited (100%),2015-02-21T00:00:00,43.7885,Exploration license,Active,
+352,Active,2012-02-22T00:00:00,EL0948,Active EL Licenses,675,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Sun and Sand Mining Limited (100%),2015-02-21T00:00:00,405.0,Exploration license,Active,
+353,Active,2012-02-14T00:00:00,EL0943,Active EL Licenses,676,Square Kilometre,0,"Base Metals , Gold ",Hilltop Minerals & Metals Limited (100%),2015-02-13T00:00:00,10.0,Exploration license,Active,
+354,Active,2012-01-11T00:00:00,EL0918,Active EL Licenses,677,Square Kilometre,0,"Base Metals , Tin , Wolfram ",Rift Valley Investments Limited (100%),2015-01-10T00:00:00,14.76,Exploration license,Active,
+355,Active,2012-02-02T00:00:00,EL0925,Active EL Licenses,678,Square Kilometre,0,"Base Metals , Gold ",Moses Kamuntu (100%),2015-02-01T00:00:00,30.1,Exploration license,Active,
+356,Active,2012-01-31T00:00:00,EL0927,Active EL Licenses,679,Square Kilometre,0,Dimension Stone ,Building  Majesties Limited (100%),2015-01-30T00:00:00,67.5,Exploration license,Active,
+357,Active,2012-01-11T00:00:00,EL0921,Active EL Licenses,680,Square Kilometre,0,"Base Metals , Tin ",Rift Valley Investments Limited (100%),2015-01-10T00:00:00,19.8398,Exploration license,Active,
+358,Active,2012-01-11T00:00:00,EL0915,Active EL Licenses,681,Square Kilometre,0,"Base Metals , Gold ",Aerial Resources Limited (100%),2015-01-10T00:00:00,480.3,Exploration license,Active,
+359,Active,2012-01-12T00:00:00,EL0926,Active EL Licenses,682,Square Kilometre,0,"Base Metals , Gold , PGM ",Capital Ventures International Limited (100%),2015-01-11T00:00:00,382.0727,Exploration license,Active,
+360,Active,2008-11-12T00:00:00,EL0386,Active EL Licenses,683,Square Kilometre,0,"Base Metals , Gold ",Fergie Minerals and Metals Limited (100%),2013-11-11T00:00:00,10.0,Exploration license,Active,
+361,Active,2012-02-01T00:00:00,EL0928,Active EL Licenses,684,Square Kilometre,0,Dimension Stone ,Building  Majesties Limited (100%),2015-01-31T00:00:00,24.825,Exploration license,Active,
+362,Active,2011-11-21T00:00:00,EL0887,Active EL Licenses,685,Square Kilometre,0,"Base Metals , Coltan , Gold , PGM , Tin ",Nyabushenyi Twimukye Association Limited (100%),2014-11-20T00:00:00,36.0,Exploration license,Active,
+363,Active,2012-01-11T00:00:00,EL0825,Active EL Licenses,686,Square Kilometre,0,"Base Metals , Gold , Industrial Minerals ",Gimnat International (U) Limited (100%),2015-01-10T00:00:00,229.3038,Exploration license,Active,
+364,Active,2012-02-15T00:00:00,EL0946,Active EL Licenses,688,Square Kilometre,0,"EL/ML - Marble, Granite, Dimension Stone",Universal Granites and Marble Limited (100%),2015-02-14T00:00:00,5.4,Exploration license,Active,
+365,Active,2012-02-14T00:00:00,EL0934,Active EL Licenses,689,Square Kilometre,0,"Base Metals , Gold ",Rwiha Investment Services Limited  (100%),2015-02-13T00:00:00,126.1489,Exploration license,Active,
+366,Active,2012-02-14T00:00:00,EL0934,Active EL Licenses,690,Square Kilometre,0,"Base Metals , Gold ",Rwiha Investment Services Limited  (100%),2015-02-13T00:00:00,126.1489,Exploration license,Active,
+367,Active,2008-07-17T01:00:00,EL0304,Active EL Licenses,692,Square Kilometre,0,"Base Metals , Gold , PGM ",Pearl Mining (U) Limited (100%),2015-07-16T01:00:00,100.8831,Exploration license,Active,
+368,Active,2012-03-16T00:00:00,EL0956,Active EL Licenses,693,Square Kilometre,0,"Base Metals , Gold ",GREENSTONE RESOURCES LIMITED (100%),2015-03-15T00:00:00,4.3395,Exploration license,Active,
+369,Active,2012-02-14T00:00:00,EL0931,Active EL Licenses,694,Square Kilometre,0,Limestone ,Rift Valley Minerals Limited (100%),2015-02-13T00:00:00,8.0,Exploration license,Active,
+370,Active,2012-03-09T00:00:00,EL0955,Active EL Licenses,697,Square Kilometre,0,"Gold , Wolfram ",Steven  Banya (100%),2015-03-08T00:00:00,13.88,Exploration license,Active,
+371,Active,2012-09-07T01:00:00,EL1049,Active EL Licenses,698,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Sipa Exploration (U) Limited (100%),2015-09-06T01:00:00,486.88,Exploration license,Active,
+372,Active,2012-09-07T01:00:00,EL1050,Active EL Licenses,699,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Sipa Exploration (U) Limited (100%),2015-09-06T01:00:00,323.1646,Exploration license,Active,
+373,Active,2012-09-07T01:00:00,EL1051,Active EL Licenses,700,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Sipa Exploration (U) Limited (100%),2015-09-06T01:00:00,342.925,Exploration license,Active,
+374,Active,2012-08-15T01:00:00,EL1036,Active EL Licenses,702,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Milu (U) Limited (100%),2015-08-14T01:00:00,31.02,Exploration license,Active,
+375,Active,2012-08-06T01:00:00,EL1014,Active EL Licenses,703,Square Kilometre,0,"Base Metals , Gold ",Indiana Mining Limited (100%),2015-08-05T01:00:00,9.0,Exploration license,Active,
+376,Active,2012-08-13T01:00:00,EL1026,Active EL Licenses,704,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Oli Gold Muruli Limited (100%),2015-08-12T01:00:00,43.0,Exploration license,Active,
+377,Active,2012-07-26T01:00:00,EL1004,Active EL Licenses,705,Square Kilometre,0,"Base Metals , Iron Ore ",John Mary Muyambi (Jr) (100%),2015-07-25T01:00:00,7.9961,Exploration license,Active,
+378,Active,2012-08-13T01:00:00,EL1028,Active EL Licenses,706,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Oli Gold Muruli Limited (100%),2015-08-12T01:00:00,45.0,Exploration license,Active,
+379,Active,2012-08-13T01:00:00,EL1027,Active EL Licenses,707,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Oli Gold Muruli Limited (100%),2015-08-12T01:00:00,45.0,Exploration license,Active,
+380,Active,2012-07-24T01:00:00,EL1000,Active EL Licenses,711,Square Kilometre,0,Geothermal ,Moberge Finance Limited (100%),2015-07-23T01:00:00,133.0692,Exploration license,Active,
+381,Active,2013-03-25T00:00:00,EL1112,Active EL Licenses,712,Square Kilometre,0,Gypsum ,Great three (3) stars Limited (100%),2016-03-24T00:00:00,14.2194,Exploration license,Active,
+382,Active,2013-04-04T01:00:00,EL1123,Active EL Licenses,714,Square Kilometre,0,"Base Metals , Gold ",Marua Group  (100%),2016-04-03T01:00:00,15.15,Exploration license,Active,
+383,Active,2013-02-25T00:00:00,EL1099,Active EL Licenses,717,Square Kilometre,0,"Base Metals , Gold , Kaolin , Pozzolana ",Development Services Kigezi (DESK) Limited (100%),2016-02-24T00:00:00,40.0,Exploration license,Active,
+384,Active,2012-08-06T01:00:00,EL1013,Active EL Licenses,718,Square Kilometre,0,"Base Metals , Gold ",Indiana Mining Limited (100%),2015-08-05T01:00:00,39.0,Exploration license,Active,
+385,Active,2012-08-06T01:00:00,EL1011,Active EL Licenses,719,Square Kilometre,0,"Base Metals , Gold ",Indiana Mining Limited (100%),2015-08-05T01:00:00,15.6,Exploration license,Active,
+386,Active,2013-05-08T01:00:00,EL1146,Active EL Licenses,721,Square Kilometre,0,"Base Metals , Tantalite , Tin ",Mariam Mukalazi (100%),2016-05-07T01:00:00,19.585,Exploration license,Active,
+387,Active,2012-08-06T01:00:00,EL1012,Active EL Licenses,722,Square Kilometre,0,"Base Metals , Gold ",Indiana Mining Limited (100%),2015-08-05T01:00:00,20.0,Exploration license,Active,
+388,Active,2012-04-19T01:00:00,EL0981,Active EL Licenses,725,Square Kilometre,0,"Base Metals , PGM , Rare Earth Elements ",Africa Rare Earth and Metals (U) Limited (100%),2015-04-18T01:00:00,74.625,Exploration license,Active,
+389,Active,2012-03-19T00:00:00,EL0967,Active EL Licenses,726,Square Kilometre,0,"Iron Ore , Tantalite ",Tembo Steels (U) Limited (100%),2015-03-18T00:00:00,107.8,Exploration license,Active,
+390,Active,2012-03-20T00:00:00,EL0960,Active EL Licenses,727,Square Kilometre,0,"Base Metals , Gold , PGM ",Eco Technologies Limited (100%),2015-03-19T00:00:00,345.9125,Exploration license,Active,
+391,Active,2012-04-19T01:00:00,EL0982,Active EL Licenses,729,Square Kilometre,0,"Base Metals , PGM , Rare Earth Elements ",Africa Rare Earth and Metals (U) Limited (100%),2015-04-18T01:00:00,100.1,Exploration license,Active,
+392,Active,2012-03-20T00:00:00,EL0959,Active EL Licenses,730,Square Kilometre,0,"Base Metals , Gold , PGM ",Eco Technologies Limited (100%),2015-03-19T00:00:00,290.805,Exploration license,Active,
+393,Active,2012-03-19T00:00:00,EL0966,Active EL Licenses,733,Square Kilometre,0,"Base Metals , Gold ",Fulin Mines Limited (100%),2015-03-18T00:00:00,39.9,Exploration license,Active,
+394,Active,2012-04-12T01:00:00,EL0974,Active EL Licenses,734,Square Kilometre,0,"Industrial Minerals , Phosphates ",Ndovu Investments Limited (100%),2015-04-11T01:00:00,352.65,Exploration license,Active,
+395,Active,2012-09-14T01:00:00,EL1055,Active EL Licenses,735,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium , Wolfram ",SUN AND SAND MINES AND MINERALS LTD (100%),2015-09-13T01:00:00,21.6197,Exploration license,Active,
+396,Active,2014-05-06T01:00:00,EL1309,Active EL Licenses,736,Square Kilometre,0,"Base Metals , Gold ",Indiana Mining Limited (100%),2017-05-05T01:00:00,88.875,Exploration license,Active,
+397,Active,2014-05-06T01:00:00,EL1316,Active EL Licenses,737,Square Kilometre,0,"Base Metals , Nickel , PGM , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,36.0,Exploration license,Active,
+398,Active,2014-05-06T01:00:00,EL1313,Active EL Licenses,739,Square Kilometre,0,"Base Metals , Diamonds , Gold , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,130.515,Exploration license,Active,
+399,Active,2012-08-14T01:00:00,EL1035,Active EL Licenses,742,Square Kilometre,0,"Base Metals , Gold ",Indiana Investments Limited (100%),2015-08-13T01:00:00,100.0,Exploration license,Active,
+400,Active,2013-02-27T00:00:00,EL1102,Active EL Licenses,743,Square Kilometre,0,Base Metals ,Mineral Research & Mines Limited (100%),2016-02-26T00:00:00,21.395,Exploration license,Active,
+401,Active,2012-06-22T01:00:00,EL0994,Active EL Licenses,744,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Jiahao Mining (U) Limited (100%),2015-06-21T01:00:00,11.721,Exploration license,Active,
+402,Active,2012-08-06T01:00:00,EL1008,Active EL Licenses,745,Square Kilometre,0,"Base Metals , Columbite , Gold , PGM , Tantalite , Uranium ",Sun and Sand Mining Limited (100%),2015-08-05T01:00:00,5.7664,Exploration license,Active,
+403,Active,2012-08-06T01:00:00,EL1009,Active EL Licenses,746,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Sun and Sand Mining Limited (100%),2015-08-05T01:00:00,120.0,Exploration license,Active,
+404,Active,2012-08-06T01:00:00,EL1010,Active EL Licenses,747,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Sun and Sand Mining Limited (100%),2015-08-05T01:00:00,49.0,Exploration license,Active,
+405,Active,2012-03-01T00:00:00,EL0953,Active EL Licenses,748,Square Kilometre,0,Dimension Stone ,Mamuka Industries (U) Limited (100%),2015-02-28T00:00:00,3.875,Exploration license,Active,
+406,Active,2014-05-06T01:00:00,EL1312,Active EL Licenses,749,Square Kilometre,0,"Base Metals , Diamonds , Gold , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,202.5,Exploration license,Active,
+407,Active,2008-05-22T01:00:00,EL0302,Active EL Licenses,750,Square Kilometre,0,"Base Metals , Gold ",Geo Resources Limited (100%),2013-05-21T01:00:00,167.3055,Exploration license,Active,
+408,Active,2008-06-16T01:00:00,EL0301,Active EL Licenses,751,Square Kilometre,0,"Base Metals , Gold ",Geo Resources Limited (100%),2013-06-15T01:00:00,158.0089,Exploration license,Active,
+409,Active,2012-08-13T01:00:00,EL1031,Active EL Licenses,752,Square Kilometre,0,"Base Metals , Gold ",GREENSTONE RESOURCES LIMITED (100%),2015-08-12T01:00:00,402.8083,Exploration license,Active,
+410,Active,2013-06-27T01:00:00,EL1124,Active EL Licenses,756,Square Kilometre,0,"Base Metals , Gold ",Kimberlites Mining Ltd (100%),2016-06-26T01:00:00,3.2432,Exploration license,Active,
+411,Active,2013-05-28T01:00:00,EL1158,Active EL Licenses,758,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-05-27T01:00:00,112.0,Exploration license,Active,
+412,Active,2014-07-24T01:00:00,EL1360,Active EL Licenses,761,Square Kilometre,0,Limestone ,Fred Kasalirwe (100%),2017-07-23T01:00:00,6.6823,Exploration license,Active,
+413,Active,2013-05-28T01:00:00,EL1148,Active EL Licenses,763,Square Kilometre,0,"Coltan , Columbite , Gold , Tin ",Raremet (U) Ltd (100%),2016-05-27T01:00:00,27.9795,Exploration license,Active,
+414,Active,2013-04-25T01:00:00,EL1127,Active EL Licenses,764,Square Kilometre,0,"Base Metals , Gold ",GOLDSPY AFRICA LIMITED (100%),2016-04-24T01:00:00,65.026,Exploration license,Active,
+415,Active,2012-04-13T01:00:00,EL0975,Active EL Licenses,765,Square Kilometre,0,"Base Metals , Gold ",Utrack Africa (U) Limited (100%),2015-04-12T01:00:00,66.3,Exploration license,Active,
+416,Active,2012-12-19T00:00:00,EL1069,Active EL Licenses,767,Square Kilometre,0,"Coltan , Copper , Gold ",Mwendo Enterprises Ltd (100%),2015-12-18T00:00:00,30.0,Exploration license,Active,
+417,Active,2013-02-20T00:00:00,EL1093,Active EL Licenses,768,Square Kilometre,0,Gold ,Gemstones International Limited (100%),2016-02-19T00:00:00,207.3747,Exploration license,Active,
+418,Active,2014-02-13T00:00:00,EL1288,Active EL Licenses,771,Square Kilometre,0,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),2017-02-12T00:00:00,12.1555,Exploration license,Active,
+419,Active,2013-02-12T00:00:00,EL1086,Active EL Licenses,774,Square Kilometre,0,"Base Metals , Gold ",Budha Mining & Exploration (2009) Limited (100%),2016-02-11T00:00:00,35.35,Exploration license,Active,
+420,Active,2012-12-19T00:00:00,EL1068,Active EL Licenses,775,Square Kilometre,0,"Cobalt , Copper , Gold ",Mwendo Enterprises Ltd (100%),2015-12-18T00:00:00,102.2,Exploration license,Active,
+421,Active,2013-04-26T01:00:00,EL1135,Active EL Licenses,779,Square Kilometre,0,"Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),2016-04-25T01:00:00,51.9834,Exploration license,Active,
+422,Active,2013-03-20T00:00:00,EL1111,Active EL Licenses,780,Square Kilometre,0,"Cobalt , Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),2016-03-19T00:00:00,147.0,Exploration license,Active,
+423,Active,2013-01-18T00:00:00,EL1070,Active EL Licenses,782,Square Kilometre,0,"Base Metals , Gold , Granite, PGM , Rare Earth Elements ",Spencon (U) Limited (100%),2016-01-17T00:00:00,494.06,Exploration license,Active,
+424,Active,2013-01-28T00:00:00,EL1075,Active EL Licenses,787,Square Kilometre,0,"Coltan , Tin ",Tintan (U) Ltd (100%),2016-01-27T00:00:00,33.5,Exploration license,Active,
+425,Active,2013-10-25T01:00:00,EL1215,Active EL Licenses,790,Square Kilometre,0,"Base Metals , Gold ",Chezho Valley and Mining Ltd (100%),2016-10-24T01:00:00,82.39,Exploration license,Active,
+426,Active,2014-05-29T01:00:00,EL1339,Active EL Licenses,791,Square Kilometre,0,"Base Metals , Gold ",Chezho Valley and Mining Ltd (100%),2017-05-28T01:00:00,112.0,Exploration license,Active,
+427,Active,2013-10-25T01:00:00,EL1214,Active EL Licenses,800,Square Kilometre,0,"Base Metals , Gold ",Chezho Valley and Mining Ltd (100%),2016-10-24T01:00:00,150.6,Exploration license,Active,
+428,Active,2013-05-28T01:00:00,EL1157,Active EL Licenses,805,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-05-27T01:00:00,272.0,Exploration license,Active,
+429,Active,2013-05-30T01:00:00,EL1161,Active EL Licenses,806,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-05-29T01:00:00,131.6212,Exploration license,Active,
+430,Active,2013-02-27T00:00:00,EL1094,Active EL Licenses,807,Square Kilometre,0,Iron Ore ,Dagerton Geological Company Limited (100%),2016-02-26T00:00:00,36.5334,Exploration license,Active,
+431,Active,2012-08-10T01:00:00,EL1022,Active EL Licenses,808,Square Kilometre,0,Dimension Stone ,Universal Granites and Marble Limited (100%),2015-08-09T01:00:00,10.0,Exploration license,Active,
+432,Active,2012-08-10T01:00:00,EL1023,Active EL Licenses,809,Square Kilometre,0,Dimension Stone ,Universal Granites and Marble Limited (100%),2015-08-09T01:00:00,9.6,Exploration license,Active,
+433,Active,2012-08-10T01:00:00,EL1024,Active EL Licenses,810,Square Kilometre,0,Dimension Stone ,Universal Granites and Marble Limited (100%),2015-08-09T01:00:00,5.0,Exploration license,Active,
+434,Active,2012-07-03T01:00:00,EL0996,Active EL Licenses,811,Square Kilometre,0,"EL/ML - Marble, Granite, Dimension Stone",NDOVU INVESTMENTS LIMITED (100%),2015-07-02T01:00:00,332.5675,Exploration license,Active,
+435,Active,2012-07-03T01:00:00,EL0995,Active EL Licenses,812,Square Kilometre,0,"Gypsum , Marble ",Ndovu Investments Limited (100%),2015-07-02T01:00:00,7.0,Exploration license,Active,
+436,Active,2012-11-23T00:00:00,EL1064,Active EL Licenses,813,Square Kilometre,0,Geothermal ,Ascot Associates Ltd (100%),2015-11-22T00:00:00,117.0,Exploration license,Active,
+437,Active,2014-05-06T01:00:00,EL1314,Active EL Licenses,814,Square Kilometre,0,"Base Metals , Diamonds , Gold , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,200.0,Exploration license,Active,
+438,Active,2014-05-06T01:00:00,EL1311,Active EL Licenses,816,Square Kilometre,0,"Base Metals , Diamonds , Gold , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,204.8,Exploration license,Active,
+439,Active,2013-03-04T00:00:00,EL1104,Active EL Licenses,820,Square Kilometre,0,"Base Metals , Gold , Marble ",Nicobat interservices (U) Ltd (100%),2016-03-03T00:00:00,290.0,Exploration license,Active,
+440,Active,2013-03-04T00:00:00,EL1103,Active EL Licenses,821,Square Kilometre,0,"Base Metals , Gold , Marble ",Nicobat interservices (U) Ltd (100%),2016-03-03T00:00:00,290.0,Exploration license,Active,
+441,Active,2012-09-05T01:00:00,EL1045,Active EL Licenses,828,Square Kilometre,0,"Base Metals , Gold ",Irene Kinene Kambonesa (100%),2015-09-04T01:00:00,20.0,Exploration license,Active,
+442,Active,2012-09-13T01:00:00,EL1048,Active EL Licenses,829,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Sipa Exploration (U) Limited (100%),2015-09-12T01:00:00,464.975,Exploration license,Active,
+443,Active,2012-09-07T01:00:00,EL1052,Active EL Licenses,830,Square Kilometre,0,"Base Metals , EL/ML - Precious Metals",Sipa Exploration (U) Limited (100%),2015-09-06T01:00:00,345.6925,Exploration license,Active,
+444,Active,2012-07-26T01:00:00,EL1002,Active EL Licenses,831,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Oli Gold Muruli Limited (100%),2015-07-25T01:00:00,45.0,Exploration license,Active,
+445,Active,2014-05-06T01:00:00,EL1315,Active EL Licenses,834,Square Kilometre,0,"Base Metals , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,86.6959,Exploration license,Active,
+446,Active,2014-05-06T01:00:00,EL1315,Active EL Licenses,835,Square Kilometre,0,"Base Metals , Rare Earth Elements ",Great Lakes Mining Limited (100%),2017-05-05T01:00:00,86.6959,Exploration license,Active,
+447,Active,2012-08-10T01:00:00,EL1016,Active EL Licenses,836,Square Kilometre,0,"Base Metals , Rare Earth Elements ",Great Lakes Mining Limited (100%),2015-08-09T01:00:00,54.976,Exploration license,Active,
+448,Active,2013-03-25T00:00:00,EL1116,Active EL Licenses,838,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-03-24T00:00:00,385.0,Exploration license,Active,
+449,Active,2013-03-25T00:00:00,EL1113,Active EL Licenses,839,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-03-24T00:00:00,303.87,Exploration license,Active,
+450,Active,2013-05-28T01:00:00,EL1160,Active EL Licenses,840,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-05-27T01:00:00,260.0,Exploration license,Active,
+451,Active,2013-04-25T01:00:00,EL1134,Active EL Licenses,842,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-04-24T01:00:00,255.0,Exploration license,Active,
+452,Active,2013-03-20T00:00:00,EL1108,Active EL Licenses,845,Square Kilometre,0,Base Metals ,NYAMAGANA TRADERS COMPANY LIMITED (100%),2016-03-19T00:00:00,9.0,Exploration license,Active,
+453,Active,2014-07-24T01:00:00,EL1361,Active EL Licenses,849,Square Kilometre,0,Wolfram ,M/s ARRM Investments Ltd (100%),2017-07-23T01:00:00,5.89,Exploration license,Active,
+454,Active,2013-03-25T00:00:00,EL1115,Active EL Licenses,850,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-03-24T00:00:00,480.0,Exploration license,Active,
+455,Active,2013-03-25T00:00:00,EL1114,Active EL Licenses,851,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-03-24T00:00:00,240.0,Exploration license,Active,
+456,Active,2012-12-06T00:00:00,EL1067,Active EL Licenses,852,Square Kilometre,0,"Base Metals , Gold ",John Mary Muyambi (Jr) (100%),2015-12-05T00:00:00,4.0262,Exploration license,Active,
+457,Active,2012-11-06T00:00:00,EL1061,Active EL Licenses,853,Square Kilometre,0,"Base Metals , Gold ",Uganda Metal Recycling Limited (100%),2015-11-05T00:00:00,108.5678,Exploration license,Active,
+458,Active,2013-02-11T00:00:00,EL1083,Active EL Licenses,856,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-02-10T00:00:00,437.0,Exploration license,Active,
+459,Active,2014-06-04T01:00:00,EL1106,Active EL Licenses,857,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Sun and Sand Mining Limited (100%),2017-06-03T01:00:00,224.0,Exploration license,Active,
+460,Active,2012-08-09T01:00:00,EL1025,Active EL Licenses,858,Square Kilometre,0,"Gold , Mica , Zinc ",CONSOLIDATED AFRICAN RESOURCES LIMITED (100%),2015-08-08T01:00:00,323.0,Exploration license,Active,
+461,Active,2013-06-24T01:00:00,EL1166,Active EL Licenses,862,Square Kilometre,0,"Base Metals , Gold , Uranium ",Birungi Cephas Kyagenda (100%),2016-06-23T01:00:00,248.9,Exploration license,Active,
+462,Active,2013-03-27T00:00:00,EL1098,Active EL Licenses,863,Square Kilometre,0,"Gold , Limestone ",Mwendo Enterprises Ltd (100%),2016-03-26T00:00:00,24.0,Exploration license,Active,
+463,Active,2013-07-08T01:00:00,EL1173,Active EL Licenses,866,Square Kilometre,0,"Base Metals , Gold , Granite",Frontier Exploration (U) Limited (100%),2016-07-07T01:00:00,93.5,Exploration license,Active,
+464,Active,2013-12-13T00:00:00,EL1256,Active EL Licenses,867,Square Kilometre,0,"Base Metals , Gold , PGM ",Askar Investments (U) Limited (100%),2016-12-12T00:00:00,162.2036,Exploration license,Active,
+465,Active,2013-04-16T01:00:00,EL1128,Active EL Licenses,869,Square Kilometre,0,Coltan ,Askar Investments (U) Limited (100%),2016-04-15T01:00:00,11.65,Exploration license,Active,
+466,Active,2013-02-05T00:00:00,EL1080,Active EL Licenses,872,Square Kilometre,0,"Base Metals , Gold ",Blackstone Ichiban Limited (100%),2016-02-04T00:00:00,212.5,Exploration license,Active,
+467,Active,2013-02-05T00:00:00,EL1079,Active EL Licenses,873,Square Kilometre,0,"Base Metals , Gold ",Blackstone Ichiban Limited (100%),2016-02-04T00:00:00,411.0,Exploration license,Active,
+468,Active,2013-02-05T00:00:00,EL1078,Active EL Licenses,874,Square Kilometre,0,"Base Metals , Gold ",Blackstone Ichiban Limited (100%),2016-02-04T00:00:00,465.7953,Exploration license,Active,
+469,Active,2012-09-27T01:00:00,EL1058,Active EL Licenses,876,Square Kilometre,0,"Base Metals , Gold , Iron Ore , Tungsten ",Nile Exploration Company Limited (100%),2015-09-26T01:00:00,92.3125,Exploration license,Active,
+470,Active,2013-02-11T00:00:00,EL1084,Active EL Licenses,877,Square Kilometre,0,"Base Metals , Gold , Phosphates ",Infinity Minerals Limited (100%),2016-02-10T00:00:00,202.4405,Exploration license,Active,
+471,Active,2014-02-13T00:00:00,EL1289,Active EL Licenses,879,Square Kilometre,0,"Base Metals , Gold ",Gilter's Mines (U) Ltd (100%),2017-02-12T00:00:00,117.0,Exploration license,Active,
+472,Active,2013-05-08T01:00:00,EL1121,Active EL Licenses,885,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Jan Mangal (U) Limited (100%),2016-05-07T01:00:00,159.6227,Exploration license,Active,
+473,Active,2013-05-08T01:00:00,EL1122,Active EL Licenses,886,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Jan Mangal (U) Limited (100%),2016-05-07T01:00:00,50.835,Exploration license,Active,
+474,Active,2013-05-02T01:00:00,EL1137,Active EL Licenses,887,Square Kilometre,0,"Base Metals , Gold , PGM ",Pearl Mining (U) Limited (100%),2016-05-01T01:00:00,240.2582,Exploration license,Active,
+475,Active,2014-03-14T00:00:00,EL1296,Active EL Licenses,893,Square Kilometre,0,"Base Metals , Copper , Rare Earth Elements , Tungsten ",Mwendo Enterprises Ltd (100%),2017-03-13T00:00:00,350.4,Exploration license,Active,
+476,Active,2013-06-04T01:00:00,EL1164,Active EL Licenses,899,Square Kilometre,0,"Base Metals , Gold , Marble ",Sikander Meghani (100%),2016-06-03T01:00:00,2.0,Exploration license,Active,
+477,Active,2013-03-12T00:00:00,EL1105,Active EL Licenses,901,Square Kilometre,0,"Base Metals , Gold ",Development Services Kigezi (DESK) Limited (100%),2016-03-11T00:00:00,15.6835,Exploration license,Active,
+478,Active,2014-03-24T00:00:00,EL1298,Active EL Licenses,910,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Mechanised Agro (U) Limited (100%),2017-03-23T00:00:00,87.615,Exploration license,Active,
+479,Active,2013-05-02T01:00:00,EL1138,Active EL Licenses,912,Square Kilometre,0,Geothermal ,CLEAN SOURCE ENERGY PARTNER'S LIMITED (100%),2016-05-01T01:00:00,80.0,Exploration license,Active,
+480,Active,2013-08-12T01:00:00,EL1185,Active EL Licenses,918,Square Kilometre,0,"Base Metals , Gold ",Jiadao (U) Limited (100%),2016-08-11T01:00:00,99.5,Exploration license,Active,
+481,Active,2013-08-12T01:00:00,EL1184,Active EL Licenses,919,Square Kilometre,0,"Base Metals , Gold ",Jiadao (U) Limited (100%),2016-08-11T01:00:00,96.0,Exploration license,Active,
+482,Active,2013-08-12T01:00:00,EL1186,Active EL Licenses,920,Square Kilometre,0,"Base Metals , Gold ",Jiadao (U) Limited (100%),2016-08-11T01:00:00,87.0,Exploration license,Active,
+483,Active,2014-04-24T01:00:00,EL1302,Active EL Licenses,922,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2017-04-23T01:00:00,231.7,Exploration license,Active,
+484,Active,2013-05-28T01:00:00,El1156,Active EL Licenses,923,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-05-27T01:00:00,247.5,Exploration license,Active,
+485,Active,2013-07-04T01:00:00,EL1172,Active EL Licenses,924,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-07-03T01:00:00,224.0,Exploration license,Active,
+486,Active,2013-11-18T00:00:00,EL1232,Active EL Licenses,925,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-11-17T00:00:00,431.055,Exploration license,Active,
+487,Active,2013-05-28T01:00:00,EL1155,Active EL Licenses,926,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-05-27T01:00:00,270.0,Exploration license,Active,
+488,Active,2013-11-18T00:00:00,EL1233,Active EL Licenses,927,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-11-17T00:00:00,256.08,Exploration license,Active,
+489,Active,2013-08-30T01:00:00,EL1196,Active EL Licenses,928,Square Kilometre,0,"Coltan , Tin ",Double Black (U) Limited (100%),2016-08-29T01:00:00,11.95,Exploration license,Active,
+490,Active,2013-08-05T01:00:00,EL1177,Active EL Licenses,929,Square Kilometre,0,"Base Metals , Gold ",International University of East Africa (100%),2016-08-04T01:00:00,119.3835,Exploration license,Active,
+491,Active,2013-08-14T01:00:00,EL1189,Active EL Licenses,930,Square Kilometre,0,"Base Metals , Gold , Uranium ",Rakai Resources Limited (100%),2016-08-13T01:00:00,58.5,Exploration license,Active,
+492,Active,2013-12-09T00:00:00,EL1249,Active EL Licenses,931,Square Kilometre,0,"Base Metals , Gold ",Nawata Mines Limited (100%),2016-12-08T00:00:00,36.0431,Exploration license,Active,
+493,Active,2013-12-09T00:00:00,EL1249,Active EL Licenses,932,Square Kilometre,0,"Base Metals , Gold ",Nawata Mines Limited (100%),2016-12-08T00:00:00,36.0431,Exploration license,Active,
+494,Active,2013-10-30T00:00:00,EL1222,Active EL Licenses,933,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Farland Mines Limited (100%),2016-10-29T01:00:00,14.0974,Exploration license,Active,
+495,Active,2013-08-05T01:00:00,EL1180,Active EL Licenses,937,Square Kilometre,0,"Base Metals , Bismuth , Gold , Tin ",Elizabeth Karungi (100%),2016-08-04T01:00:00,27.7425,Exploration license,Active,
+496,Active,2013-08-05T01:00:00,EL1181,Active EL Licenses,939,Square Kilometre,0,"Base Metals , Gold , Tin ",Elizabeth Karungi (100%),2016-08-04T01:00:00,25.565,Exploration license,Active,
+497,Active,2013-08-14T01:00:00,EL1190,Active EL Licenses,940,Square Kilometre,0,"Base Metals , Gold ",CHENSHIA UGANDA (100%),2016-08-13T01:00:00,39.758,Exploration license,Active,
+498,Active,2013-10-23T01:00:00,EL1216,Active EL Licenses,941,Square Kilometre,0,Gold ,Mate Mines Limited (100%),2016-10-22T01:00:00,0.8996,Exploration license,Active,
+499,Active,2013-10-30T00:00:00,EL1221,Active EL Licenses,942,Square Kilometre,0,"Base Metals , PGM , Precious Metals ",Sipa Exploration (U) Limited (100%),2016-10-29T01:00:00,320.8616,Exploration license,Active,
+500,Active,2013-10-30T00:00:00,EL1220,Active EL Licenses,943,Square Kilometre,0,"Base Metals , PGM , Precious Metals ",Sipa Exploration (U) Limited (100%),2016-10-29T01:00:00,446.3345,Exploration license,Active,
+501,Active,2014-03-17T00:00:00,EL1300,Active EL Licenses,945,Square Kilometre,0,"Base Metals , Gold ",Oli Gold Muruli Limited (100%),2017-03-16T00:00:00,64.125,Exploration license,Active,
+502,Active,2014-07-22T01:00:00,EL1359,Active EL Licenses,946,Square Kilometre,0,"Base Metals , Gold ",Muwanguzi Johnson Kato (100%),2017-07-21T01:00:00,20.1031,Exploration license,Active,
+503,Active,2013-05-02T01:00:00,EL1139,Active EL Licenses,947,Square Kilometre,0,"Berrylium , Columbite , Tantalite ",Fang Min (100%),2016-05-01T01:00:00,160.6909,Exploration license,Active,
+504,Active,2014-05-06T01:00:00,EL1317,Active EL Licenses,948,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble ",Kimberlites Mining Ltd (100%),2017-05-05T01:00:00,238.0,Exploration license,Active,
+505,Active,2013-05-02T01:00:00,EL1140,Active EL Licenses,950,Square Kilometre,0,"Base Metals , Gold ",GOLDSPY AFRICA LIMITED (100%),2016-05-01T01:00:00,111.0,Exploration license,Active,
+506,Active,2012-02-17T00:00:00,EL0937,Active EL Licenses,951,Square Kilometre,0,"Base Metals , Gold , PGM ",Samaj (U) Limited (100%),2015-02-16T00:00:00,204.4198,Exploration license,Active,
+507,Active,2013-01-18T00:00:00,EL1073,Active EL Licenses,954,Square Kilometre,0,"Base Metals , Diamonds , Gold , Granite, PGM , Rare Earth Elements ",Spencon (U) Limited (100%),2016-01-17T00:00:00,96.1338,Exploration license,Active,
+508,Active,2013-03-20T00:00:00,EL1118,Active EL Licenses,955,Square Kilometre,0,"Base Metals , Berrylium , Tin ",VIIR metals &Refiners Uganda Ltd (100%),2016-03-19T00:00:00,5.3,Exploration license,Active,
+509,Active,2013-04-26T01:00:00,EL1136,Active EL Licenses,956,Square Kilometre,0,"Cobalt , Copper , Gold ",Mwendo Enterprises Ltd (100%),2016-04-25T01:00:00,499.9345,Exploration license,Active,
+510,Active,2013-03-13T00:00:00,EL1109,Active EL Licenses,958,Square Kilometre,0,"Base Metals , Gold ",Royalco Resources Limited (100%),2016-03-12T00:00:00,67.5,Exploration license,Active,
+511,Active,2014-01-09T00:00:00,EL1268,Active EL Licenses,966,Square Kilometre,0,Granite,Zamoplast Limited (100%),2017-01-08T00:00:00,18.64,Exploration license,Active,
+512,Active,2013-02-20T00:00:00,EL1090,Active EL Licenses,968,Square Kilometre,0,"Limestone , Marble ",DAO AFRICA LIMITED (100%),2016-02-19T00:00:00,40.7928,Exploration license,Active,
+513,Active,2014-05-21T01:00:00,EL1331,Active EL Licenses,972,Square Kilometre,0,"Base Metals , Gold ",Gilter's Mines (U) Ltd (100%),2017-05-20T01:00:00,19.4525,Exploration license,Active,
+514,Active,2014-04-24T01:00:00,EL1301,Active EL Licenses,974,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2017-04-23T01:00:00,290.1352,Exploration license,Active,
+515,Active,2013-08-12T01:00:00,EL1182,Active EL Licenses,975,Square Kilometre,0,"Base Metals , Gold ",Nalongo Estates (100%),2016-08-11T01:00:00,48.0,Exploration license,Active,
+516,Active,2014-06-10T01:00:00,EL1334,Active EL Licenses,976,Square Kilometre,0,"Base Metals , Copper , Gold , Nickel , Rare Earth Elements , Tungsten ",Mwendo Enterprises Ltd (100%),2017-06-09T01:00:00,132.75,Exploration license,Active,
+517,Active,2013-11-18T00:00:00,EL1231,Active EL Licenses,979,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-11-17T00:00:00,206.0627,Exploration license,Active,
+518,Active,2013-11-11T00:00:00,EL1227,Active EL Licenses,983,Square Kilometre,0,Marble ,Mechanised Agro (U) Limited (100%),2016-11-10T00:00:00,104.0,Exploration license,Active,
+519,Active,2013-09-04T01:00:00,EL1201,Active EL Licenses,984,Square Kilometre,0,"Base Metals , Gold ",Peter Mukiza (100%),2016-09-03T01:00:00,26.09,Exploration license,Active,
+520,Active,2013-08-01T01:00:00,EL1179,Active EL Licenses,985,Square Kilometre,0,"Base Metals , Gold , Phosphates , Rare Earth Elements , Uranium ",Uganda Hui Neng Mining Limited (100%),2016-07-31T01:00:00,192.26,Exploration license,Active,
+521,Active,2013-11-15T00:00:00,EL1229,Active EL Licenses,988,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2016-11-14T00:00:00,460.5125,Exploration license,Active,
+522,Active,2013-08-09T01:00:00,EL1187,Active EL Licenses,989,Square Kilometre,0,"Base Metals , Gold ",Aljouda Mining Co. Ltd (100%),2016-08-08T01:00:00,66.17,Exploration license,Active,
+523,Active,2013-10-31T00:00:00,EL1224,Active EL Licenses,991,Square Kilometre,0,"Gold , Iron Ore , Phosphates , Rare Earth Elements , Silver , Vermiculite ",Cupar Investments (U) Limited (100%),2016-10-30T01:00:00,187.159,Exploration license,Active,
+524,Active,2014-01-21T00:00:00,EL1270,Active EL Licenses,992,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2017-01-20T00:00:00,491.6489,Exploration license,Active,
+525,Active,2013-09-03T01:00:00,EL1198,Active EL Licenses,994,Square Kilometre,0,"Base Metals , Gold , PGM ",Royal African Mining Co. Limited (100%),2016-09-02T01:00:00,116.95,Exploration license,Active,
+526,Active,2013-11-18T00:00:00,EL1245,Active EL Licenses,996,Square Kilometre,0,"Base Metals , Gold , PGM ",African Rift Mineral Limited (100%),2016-11-17T00:00:00,229.369,Exploration license,Active,
+527,Active,2013-11-22T00:00:00,EL1248,Active EL Licenses,1005,Square Kilometre,0,"Base Metals , Gold , Silver ",TIBET HIMA MINING CO. LIMITED (100%),2016-11-21T00:00:00,211.6053,Exploration license,Active,
+528,Active,2013-09-13T01:00:00,EL1203,Active EL Licenses,1006,Square Kilometre,0,"Base Metals , Gold ",Aljouda Mining Co. Ltd (100%),2016-09-12T01:00:00,318.0,Exploration license,Active,
+529,Active,2013-05-08T01:00:00,EL1141,Active EL Licenses,1009,Square Kilometre,0,"Base Metals , Gold , PGM , Uranium ",Birungi Cephas Kyagenda (100%),2016-05-07T01:00:00,136.0,Exploration license,Active,
+530,Active,2013-12-13T00:00:00,EL1253,Active EL Licenses,1010,Square Kilometre,0,"Base Metals , Gold , PGM ",Askar Investments (U) Limited (100%),2016-12-12T00:00:00,290.0,Exploration license,Active,
+531,Active,2013-12-13T00:00:00,EL1255,Active EL Licenses,1011,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble , PGM ",Askar Investments (U) Limited (100%),2016-12-12T00:00:00,468.6,Exploration license,Active,
+532,Active,2013-12-13T00:00:00,EL1254,Active EL Licenses,1012,Square Kilometre,0,"Base Metals , Gold , PGM ",Askar Investments (U) Limited (100%),2016-12-12T00:00:00,268.8125,Exploration license,Active,
+533,Active,2013-09-04T01:00:00,EL1199,Active EL Licenses,1015,Square Kilometre,0,"Base Metals , Gold ",Aljouda Mining Co. Ltd (100%),2016-09-03T01:00:00,46.9,Exploration license,Active,
+534,Active,2014-02-13T00:00:00,EL1287,Active EL Licenses,1019,Square Kilometre,0,"Gold , Gypsum , Limestone ",Guostar Enterprises (U) Limited (100%),2017-02-12T00:00:00,497.8439,Exploration license,Active,
+535,Active,2013-10-14T01:00:00,EL1206,Active EL Licenses,1022,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble ",Aljouda Mining Co. Ltd (100%),2016-10-13T01:00:00,13.6425,Exploration license,Active,
+536,Active,2013-11-18T00:00:00,EL1236,Active EL Licenses,1026,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-11-17T00:00:00,130.0,Exploration license,Active,
+537,Active,2013-11-18T00:00:00,EL1234,Active EL Licenses,1028,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-11-17T00:00:00,244.0,Exploration license,Active,
+538,Active,2013-11-18T00:00:00,EL1237,Active EL Licenses,1029,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-11-17T00:00:00,126.0,Exploration license,Active,
+539,Active,2013-11-18T00:00:00,EL1235,Active EL Licenses,1032,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-11-17T00:00:00,306.0,Exploration license,Active,
+540,Active,2012-07-26T01:00:00,EL1003,Active EL Licenses,1034,Square Kilometre,0,"Base Metals , Gold ",John Mary Muyambi (Jr) (100%),2015-07-25T01:00:00,14.3016,Exploration license,Active,
+541,Active,2012-04-24T01:00:00,EL0984,Active EL Licenses,1035,Square Kilometre,0,"Base Metals , Tin ",John Mary Muyambi (Jr) (100%),2015-04-23T01:00:00,40.0,Exploration license,Active,
+542,Active,2012-05-21T01:00:00,EL0986,Active EL Licenses,1036,Square Kilometre,0,"Gold , Tin , Tungsten ",Kest Investments (U) Limited (100%),2015-05-20T01:00:00,17.2994,Exploration license,Active,
+543,Active,2013-10-14T01:00:00,EL1207,Active EL Licenses,1037,Square Kilometre,0,"Base Metals , Gold , Limestone , Marble ",Aljouda Mining Co. Ltd (100%),2016-10-13T01:00:00,15.0,Exploration license,Active,
+544,Active,2014-07-03T01:00:00,EL1357,Active EL Licenses,1039,Square Kilometre,0,"Base Metals , Iron Ore ",Steel & Tube Industries Limited (100%),2017-07-02T01:00:00,51.9575,Exploration license,Active,
+545,Active,2014-01-21T00:00:00,EL1273,Active EL Licenses,1044,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2017-01-20T00:00:00,470.5,Exploration license,Active,
+546,Active,2014-02-03T00:00:00,EL1285,Active EL Licenses,1047,Square Kilometre,0,"Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),2017-02-02T00:00:00,67.456,Exploration license,Active,
+547,Active,2014-02-03T00:00:00,EL1284,Active EL Licenses,1048,Square Kilometre,0,"Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),2017-02-02T00:00:00,58.5535,Exploration license,Active,
+548,Active,2014-01-09T00:00:00,EL1269,Active EL Licenses,1052,Square Kilometre,0,"Base Metals , Gold ",Aljouda Mining Co. Ltd (100%),2017-01-08T00:00:00,230.6531,Exploration license,Active,
+549,Active,2013-08-15T01:00:00,EL1193,Active EL Licenses,1055,Square Kilometre,0,"Base Metals , Precious Metals , Tin ",Aljouda Mining Co. Ltd (100%),2016-08-14T01:00:00,151.0,Exploration license,Active,
+550,Active,2013-11-29T00:00:00,EL1259,Active EL Licenses,1056,Square Kilometre,0,"Berrylium , Cassiterite , Columbite , Tantalite ",Beta Minerals Limited (100%),2016-11-28T00:00:00,11.52,Exploration license,Active,
+551,Active,2013-09-04T01:00:00,EL1200,Active EL Licenses,1058,Square Kilometre,0,"Base Metals , Gold ",Aljouda Mining Co. Ltd (100%),2016-09-03T01:00:00,52.425,Exploration license,Active,
+552,Active,2008-08-15T01:00:00,EL0367,Active EL Licenses,1059,Square Kilometre,0,"Base Metals , Gold , Uranium ",Budha Mining & Exploration (2009) Limited (100%),2013-08-14T01:00:00,195.0,Exploration license,Active,
+553,Active,2013-03-21T00:00:00,EL1119,Active EL Licenses,1060,Square Kilometre,0,Limestone ,Strategic Acquisitions Limited (100%),2016-03-20T00:00:00,8.9121,Exploration license,Active,
+554,Active,2013-11-18T00:00:00,EL1238,Active EL Licenses,1061,Square Kilometre,0,Base Metals ,Moon Mining Limited (100%),2016-11-17T00:00:00,30.5895,Exploration license,Active,
+555,Active,2012-08-17T01:00:00,EL1038,Active EL Licenses,1063,Square Kilometre,0,"Base Metals , Gold ",Louis Livingstone Luwalalira (100%),2015-08-16T01:00:00,26.2814,Exploration license,Active,
+556,Active,2013-12-19T00:00:00,EL1251,Active EL Licenses,1072,Square Kilometre,0,Gold ,AUC Mining (U) Limited (100%),2016-12-18T00:00:00,360.0,Exploration license,Active,
+557,Active,2013-12-19T00:00:00,EL1250,Active EL Licenses,1073,Square Kilometre,0,Gold ,AUC Mining (U) Limited (100%),2016-12-18T00:00:00,312.0,Exploration license,Active,
+558,Active,2013-08-20T01:00:00,EL1191,Active EL Licenses,1075,Square Kilometre,0,"Base Metals , Gold ",Dikku (U) Ltd (100%),2016-08-19T01:00:00,23.4225,Exploration license,Active,
+559,Active,2013-10-23T01:00:00,EL1218,Active EL Licenses,1076,Square Kilometre,0,"Base Metals , Gold ",Sino Minerals Investments Company Limited (100%),2016-10-22T01:00:00,24.0,Exploration license,Active,
+560,Active,2014-01-21T00:00:00,EL1279,Active EL Licenses,1081,Square Kilometre,0,"Base Metals , Tantalite ",Capital Minerals Limited (100%),2017-01-20T00:00:00,38.5362,Exploration license,Active,
+561,Active,2014-05-23T01:00:00,EL1333,Active EL Licenses,1082,Square Kilometre,0,"Base Metals , Tin ",First Mining Company Limited (100%),2017-05-22T01:00:00,0.0787,Exploration license,Active,
+562,Active,2014-01-21T00:00:00,EL1278,Active EL Licenses,1084,Square Kilometre,0,"Base Metals , Gold ",Paul Bonabantu (100%),2017-01-20T00:00:00,12.8625,Exploration license,Active,
+563,Active,2014-05-15T01:00:00,EL1332,Active EL Licenses,1088,Square Kilometre,0,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),2017-05-14T01:00:00,55.8,Exploration license,Active,
+564,Active,2013-11-18T00:00:00,EL1239,Active EL Licenses,1098,Square Kilometre,0,"Base Metals , Gold ",Clear water mining limited (100%),2016-11-17T00:00:00,7.0,Exploration license,Active,
+565,Active,2013-11-18T00:00:00,EL1240,Active EL Licenses,1099,Square Kilometre,0,"Base Metals , Gold ",Moon Mining Limited (100%),2016-11-17T00:00:00,193.0,Exploration license,Active,
+566,Active,2013-08-12T01:00:00,EL1183,Active EL Licenses,1101,Square Kilometre,0,"Base Metals , Gold ",Jiadao (U) Limited (100%),2016-08-11T01:00:00,102.5,Exploration license,Active,
+567,Active,2013-08-14T01:00:00,EL1188,Active EL Licenses,1102,Square Kilometre,0,"Base Metals , Gold ",Rakai Resources Limited (100%),2016-08-13T01:00:00,152.5,Exploration license,Active,
+568,Active,2013-11-19T00:00:00,EL1242,Active EL Licenses,1106,Square Kilometre,0,"Base Metals , Gold ",William  Babigumira (100%),2016-11-18T00:00:00,58.5,Exploration license,Active,
+569,Active,2014-04-11T01:00:00,EL1305,Active EL Licenses,1107,Square Kilometre,0,"Base Metals , Gold , Industrial Minerals ",Occhio Investments Ltd (100%),2017-04-10T01:00:00,491.1505,Exploration license,Active,
+570,Active,2014-05-06T01:00:00,EL1308,Active EL Licenses,1110,Square Kilometre,0,Iron Ore ,Roofings Limited (100%),2017-05-05T01:00:00,22.5,Exploration license,Active,
+571,Active,2014-06-20T01:00:00,EL1344,Active EL Licenses,1111,Square Kilometre,0,Iron Ore ,Roofings Limited (100%),2017-06-19T01:00:00,56.8,Exploration license,Active,
+572,Active,2013-02-27T00:00:00,EL1097,Active EL Licenses,1116,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Africa Rare Earth and Metals (U) Limited (100%),2016-02-26T00:00:00,74.6022,Exploration license,Active,
+573,Active,2013-05-28T01:00:00,EL1159,Active EL Licenses,1119,Square Kilometre,0,"Base Metals , Gold ",Infinity Minerals Limited (100%),2016-05-27T01:00:00,105.8,Exploration license,Active,
+574,Active,2014-04-16T01:00:00,EL1307,Active EL Licenses,1124,Square Kilometre,0,"Base Metals , Gold ",Gordon Wavamuno (100%),2017-04-15T01:00:00,371.5065,Exploration license,Active,
+575,Active,2014-02-18T00:00:00,EL1290,Active EL Licenses,1125,Square Kilometre,0,"Base Metals , Marble ",Capital Ventures International Limited (100%),2017-02-17T00:00:00,135.2,Exploration license,Active,
+576,Active,2014-05-06T01:00:00,EL1325,Active EL Licenses,1136,Square Kilometre,0,"Cassiterite , Tin ",Peter Mukiza (100%),2017-05-05T01:00:00,15.0,Exploration license,Active,
+577,Active,2014-05-15T01:00:00,EL1329,Active EL Licenses,1137,Square Kilometre,0,Granite,Aljouda Mining Co. Ltd (100%),2017-05-14T01:00:00,20.8848,Exploration license,Active,
+578,Active,2014-05-23T01:00:00,EL1335,Active EL Licenses,1142,Square Kilometre,0,Gypsum ,Marua Group  (100%),2017-05-22T01:00:00,22.4247,Exploration license,Active,
+579,Active,2014-03-03T00:00:00,EL1293,Active EL Licenses,1144,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Aquva International Ltd (100%),2017-03-02T00:00:00,14.1098,Exploration license,Active,
+580,Active,2014-03-17T00:00:00,EL1299,Active EL Licenses,1145,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Aquva International Ltd (100%),2017-03-16T00:00:00,3.7371,Exploration license,Active,
+581,Active,2014-03-03T00:00:00,EL1294,Active EL Licenses,1148,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Aquva International Ltd (100%),2017-03-02T00:00:00,1.54,Exploration license,Active,
+582,Active,2014-04-15T01:00:00,EL1306,Active EL Licenses,1150,Square Kilometre,0,"Base Metals , Gold ",Rift Valley Investments Limited (100%),2017-04-14T01:00:00,99.0,Exploration license,Active,
+583,Active,2014-06-19T01:00:00,EL1346,Active EL Licenses,1152,Square Kilometre,0,Iron Ore ,Cupar Investments (U) Limited (100%),2017-06-18T01:00:00,9.12,Exploration license,Active,
+584,Active,2014-05-09T01:00:00,EL1321,Active EL Licenses,1153,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2017-05-08T01:00:00,499.9288,Exploration license,Active,
+585,Active,2014-07-03T01:00:00,EL1356,Active EL Licenses,1158,Square Kilometre,0,"Base Metals , Tin ",First Mining Company Limited (100%),2017-07-02T01:00:00,0.153,Exploration license,Active,
+586,Active,2013-11-29T00:00:00,EL1228,Active EL Licenses,1164,Square Kilometre,0,"Iron Ore , Phosphates , Vermiculite ",Uganda Hui Neng Mining Limited (100%),2016-11-28T00:00:00,60.0747,Exploration license,Active,
+587,Active,2013-05-24T01:00:00,EL1154,Active EL Licenses,1166,Square Kilometre,0,"Iron Ore , Phosphates , Vermiculite ",Uganda Hui Neng Mining Limited (100%),2016-05-23T01:00:00,8.2179,Exploration license,Active,
+588,Active,2014-06-20T01:00:00,EL1350,Active EL Licenses,1167,Square Kilometre,0,Limestone ,Aquva International Ltd (100%),2017-06-19T01:00:00,14.1704,Exploration license,Active,
+589,Active,2014-05-30T01:00:00,EL1340,Active EL Licenses,1168,Square Kilometre,0,Silica Sand,CHENSHIA UGANDA (100%),2017-05-29T01:00:00,14.1749,Exploration license,Active,
+590,Active,2014-06-19T01:00:00,EL1348,Active EL Licenses,1175,Square Kilometre,0,"Base Metals , Cassiterite , Columbite , Tantalite , Tin ",Peter Mukiza (100%),2017-06-18T01:00:00,31.0,Exploration license,Active,
+591,Active,2014-05-21T01:00:00,EL1330,Active EL Licenses,1177,Square Kilometre,0,"Base Metals , Gold , PGM ",Pearl Mining (U) Limited (100%),2017-05-20T01:00:00,13.0784,Exploration license,Active,
+592,Active,2013-06-21T01:00:00,EL1168,Active EL Licenses,1180,Square Kilometre,0,"Copper , Gold ",Fang Min (100%),2016-06-20T01:00:00,216.0,Exploration license,Active,
+593,Active,2013-06-21T01:00:00,EL1169,Active EL Licenses,1182,Square Kilometre,0,Gold ,Fang Min (100%),2016-06-20T01:00:00,81.0,Exploration license,Active,
+594,Active,2013-06-21T01:00:00,EL1167,Active EL Licenses,1184,Square Kilometre,0,Gold ,Fang Min (100%),2016-06-20T01:00:00,55.4886,Exploration license,Active,
+595,Active,2014-07-01T01:00:00,EL1354,Active EL Licenses,1188,Square Kilometre,0,"Gold , Tin , Wolfram ",Rift Valley Mines Limited (100%),2017-06-30T01:00:00,7.7166,Exploration license,Active,
+596,Active,2013-10-02T01:00:00,EL1205,Active EL Licenses,1190,Square Kilometre,0,"Base Metals , Gold ",Nawata Mines Limited (100%),2016-10-01T01:00:00,41.72,Exploration license,Active,
+597,Active,2013-05-08T01:00:00,EL1145,Active EL Licenses,1191,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Uganda Hui Neng Mining Limited (100%),2016-05-07T01:00:00,355.0,Exploration license,Active,
+598,Active,2014-06-10T01:00:00,EL1337,Active EL Licenses,1194,Square Kilometre,0,"Base Metals , Gold ",Benon Rukundo (100%),2017-06-09T01:00:00,74.0431,Exploration license,Active,
+599,Active,2014-06-19T01:00:00,EL1343,Active EL Licenses,1195,Square Kilometre,0,Kaolin ,Asiid Enterprise Ltd (100%),2017-06-18T01:00:00,13.5,Exploration license,Active,
+600,Active,2014-05-22T01:00:00,EL1336,Active EL Licenses,1198,Square Kilometre,0,Silica Sand,Only You International Limited (100%),2017-05-21T01:00:00,309.8456,Exploration license,Active,
+601,Active,2013-11-15T00:00:00,EL1244,Active EL Licenses,1199,Square Kilometre,0,"Base Metals , Gold , Limestone ",Lokodo Simon (100%),2016-11-14T00:00:00,111.95,Exploration license,Active,
+602,Active,2013-11-08T00:00:00,EL1225,Active EL Licenses,1200,Square Kilometre,0,Phosphates ,Mechanised Agro (U) Limited (100%),2016-11-07T00:00:00,6.33,Exploration license,Active,
+603,Active,2014-07-04T01:00:00,EL1358,Active EL Licenses,1201,Square Kilometre,0,Pozzolana ,Marcovici Capital Limited (100%),2017-07-03T01:00:00,43.6,Exploration license,Active,
+604,Active,2013-05-08T01:00:00,EL1144,Active EL Licenses,1209,Square Kilometre,0,"Base Metals , PGM , Rare Earth Elements , Uranium ",Uganda Hui Neng Mining Limited (100%),2016-05-07T01:00:00,341.0254,Exploration license,Active,
+605,Active,2013-05-08T01:00:00,EL1143,Active EL Licenses,1210,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Uganda Hui Neng Mining Limited (100%),2016-05-07T01:00:00,480.0,Exploration license,Active,
+606,Active,2013-10-23T01:00:00,EL1217,Active EL Licenses,1212,Square Kilometre,0,Granite,Flux Enterprises (100%),2016-10-22T01:00:00,1.5203,Exploration license,Active,
+607,Active,2013-11-08T00:00:00,EL1226,Active EL Licenses,1213,Square Kilometre,0,Phosphates ,Mechanised Agro (U) Limited (100%),2016-11-07T00:00:00,11.3381,Exploration license,Active,
+608,Active,2014-02-05T00:00:00,EL1286,Active EL Licenses,1216,Square Kilometre,0,Phosphates ,Kest Investments (U) Limited (100%),2017-02-04T00:00:00,13.8948,Exploration license,Active,
+609,Active,2014-06-24T01:00:00,EL1351,Active EL Licenses,1222,Square Kilometre,0,"Base Metals , Columbite , Gold , Tantalite , Tin ",Tin Trade Company Limited (100%),2017-06-23T01:00:00,30.0,Exploration license,Active,
+610,Active,2013-09-04T01:00:00,EL1202,Active EL Licenses,1231,Square Kilometre,0,"Base Metals , Gold ",Peter Mukiza (100%),2016-09-03T01:00:00,199.465,Exploration license,Active,
+611,Active,2013-09-23T01:00:00,EL1204,Active EL Licenses,1258,Square Kilometre,0,Base Metals ,VVC Mining Co Ltd (100%),2016-09-22T01:00:00,136.8784,Exploration license,Active,
+612,Active,2013-07-08T01:00:00,EL1174,Active EL Licenses,1259,Square Kilometre,0,"Base Metals , Gold , PGM ",Andrew Kabiito Rubuubi (100%),2016-07-07T01:00:00,52.089,Exploration license,Active,
+613,Active,2013-12-13T00:00:00,EL1257,Active EL Licenses,1260,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Askar Investments (U) Limited (100%),2016-12-12T00:00:00,199.8237,Exploration license,Active,
+614,Active,2013-12-12T00:00:00,EL1258,Active EL Licenses,1261,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Askar Investments (U) Limited (100%),2016-12-11T00:00:00,47.3,Exploration license,Active,
+615,Active,2013-10-22T01:00:00,EL1212,Active EL Licenses,1272,Square Kilometre,0,"Base Metals , Gold , Silver ",TIBET HIMA MINING CO. LIMITED (100%),2016-10-21T01:00:00,389.55,Exploration license,Active,
+616,Active,2013-08-01T01:00:00,EL1178,Active EL Licenses,1275,Square Kilometre,0,"Base Metals , Phosphates , Rare Earth Elements , Uranium ",GUANGZHOU DONG SONG ENERGY GROUP CO.LIMITED (100%),2016-07-31T01:00:00,26.4673,Exploration license,Active,
+617,Active,2014-05-06T01:00:00,EL1324,Active EL Licenses,1277,Square Kilometre,0,"Base Metals , Columbite , Gold , Tantalite ",Mineral Research & Mines Limited (100%),2017-05-05T01:00:00,76.6,Exploration license,Active,
+618,Active,2013-12-12T00:00:00,EL1264,Active EL Licenses,1287,Square Kilometre,0,"Tin , Wolfram ",Marcovici Capital Limited (100%),2016-12-11T00:00:00,11.3828,Exploration license,Active,
+619,Active,2014-01-21T00:00:00,EL1272,Active EL Licenses,1288,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2017-01-20T00:00:00,427.0,Exploration license,Active,
+620,Active,2013-12-23T00:00:00,EL1267,Active EL Licenses,1289,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Royal African Mining Co. Limited (100%),2016-12-22T00:00:00,51.4975,Exploration license,Active,
+621,Active,2014-01-21T00:00:00,EL1271,Active EL Licenses,1292,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2017-01-20T00:00:00,499.38,Exploration license,Active,
+622,Active,2013-11-14T00:00:00,EL1243,Active EL Licenses,1293,Square Kilometre,0,Granite,Aljouda Mining Co. Ltd (100%),2016-11-13T00:00:00,9.995,Exploration license,Active,
+623,Active,2014-05-06T01:00:00,EL1318,Active EL Licenses,1294,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",GLOBAL MINING LTD (100%),2017-05-05T01:00:00,152.3425,Exploration license,Active,
+624,Active,2013-11-29T00:00:00,EL1252,Active EL Licenses,1298,Square Kilometre,0,"Base Metals , Copper , Gold , Nickel ",Welt Machnen Engineering Limited (100%),2016-11-28T00:00:00,258.2,Exploration license,Active,
+625,Active,2014-01-22T00:00:00,EL1280,Active EL Licenses,1299,Square Kilometre,0,"Base Metals , Gold , PGM , Rare Earth Elements ",Nalongo Estates (100%),2017-01-21T00:00:00,447.5,Exploration license,Active,
+626,Active,2014-01-22T00:00:00,EL1281,Active EL Licenses,1307,Square Kilometre,0,"Base Metals , Gold , PGM ",Messo Farmers Limited (100%),2017-01-21T00:00:00,85.2,Exploration license,Active,
+627,Active,2014-01-16T00:00:00,EL1277,Active EL Licenses,1313,Square Kilometre,0,"Base Metals , Gold ",GUANGZHOU DONG SONG ENERGY GROUP CO.LIMITED (100%),2017-01-15T00:00:00,66.1095,Exploration license,Active,
+628,Active,2014-03-03T00:00:00,EL1292,Active EL Licenses,1314,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Aquva International Ltd (100%),2017-03-02T00:00:00,27.0581,Exploration license,Active,
+629,Active,2014-03-03T00:00:00,EL1295,Active EL Licenses,1315,Square Kilometre,0,"Base Metals , Gold , Iron Ore ",Aquva International Ltd (100%),2017-03-02T00:00:00,24.5004,Exploration license,Active,
+630,Active,2014-06-19T01:00:00,EL1347,Active EL Licenses,1318,Square Kilometre,0,Iron Ore ,Cupar Investments (U) Limited (100%),2017-06-18T01:00:00,6.16,Exploration license,Active,
+631,Active,2014-06-20T01:00:00,EL1349,Active EL Licenses,1319,Square Kilometre,0,Manganese,Aquva International Ltd (100%),2017-06-19T01:00:00,74.7594,Exploration license,Active,
+632,Active,2014-05-09T01:00:00,EL1322,Active EL Licenses,1320,Square Kilometre,0,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),2017-05-08T01:00:00,499.6322,Exploration license,Active,
+633,Active,2014-05-29T01:00:00,EL1338,Active EL Licenses,1323,Square Kilometre,0,"Base Metals , Gold ",Basil R. Bataringaya (100%),2017-05-28T01:00:00,86.05,Exploration license,Active,
+634,Active,2011-06-14T01:00:00,EL0771,Active EL Licenses,1338,Square Kilometre,0,"Base Metals , Gold ",Sino Minerals Investments Company Limited (100%),2014-06-13T01:00:00,3.6934,Exploration license,Active,
+635,Active,2011-08-12T01:00:00,EL0821,Active EL Licenses,1353,Square Kilometre,0,"Base Metals , Gold ",Uganda Sino-Watson Minerals Company Limited (100%),2016-08-11T01:00:00,93.0,Exploration license,Active,
+636,Active,2009-10-26T00:00:00,EL0534,Active EL Licenses,1354,Square Kilometre,0,"Base Metals , Gold ",Uganda Sino-Watson Minerals Company Limited (100%),2016-10-25T01:00:00,88.6463,Exploration license,Active,
+637,Active,2011-06-27T01:00:00,EL0773,Active EL Licenses,1356,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2016-06-26T01:00:00,34.2,Exploration license,Active,
+638,Active,2011-06-14T01:00:00,EL0770,Active EL Licenses,1357,Square Kilometre,0,"Base Metals , Gold ",Sino Minerals Investments Company Limited (100%),2016-06-13T01:00:00,12.419,Exploration license,Active,
+639,Active,2014-08-21T01:00:00,EL1363,Active EL Licenses,1358,Square Kilometre,0,"Berrylium , Kaolin , Tantalite ",Galactic Minerals Limited (100%),2017-08-20T01:00:00,56.0,Exploration license,Active,
+640,Pending Renewal,2011-09-01T01:00:00,EL0826,Active EL Licenses,1362,Square Kilometre,0,Iron Ore ,Steel Rolling Mills Limited (100%),2014-08-31T01:00:00,24.3,Exploration license,Active,
+641,Active,2011-04-26T01:00:00,EL0756,Active EL Licenses,1367,Square Kilometre,0,"Base Metals , Copper , Gold ",Savanah Mines Limited (100%),2016-04-25T01:00:00,219.9522,Exploration license,Active,
+642,Active,2014-04-09T01:00:00,EL1304,Active EL Licenses,1368,Square Kilometre,0,"Gold , Tantalite , Tin ",Equator Metals Limited (100%),2017-04-08T01:00:00,3.05,Exploration license,Active,
+643,Active,2014-02-05T00:00:00,EL1283,Active EL Licenses,1377,Square Kilometre,0,"Base Metals , Geothermal ",Spencon (U) Limited (100%),2017-02-04T00:00:00,396.7973,Exploration license,Active,
+644,Active,2014-09-05T01:00:00,EL1367,Active EL Licenses,1378,Square Kilometre,0,Silica Sand,Supreme Resources (U) Limited (100%),2017-09-04T01:00:00,192.0,Exploration license,Active,
+645,Pending Renewal,2009-07-02T01:00:00,EL0452,Active EL Licenses,1379,Square Kilometre,0,"Base Metals , Gold ",Oryx Minerals Limited (100%),2014-07-01T01:00:00,91.0875,Exploration license,Active,
+646,Active,2007-11-14T00:00:00,EL0219,Active EL Licenses,1386,Square Kilometre,0,"Base Metals , Gold , PGM ",Oryx Minerals Limited (100%),2014-11-13T00:00:00,67.239,Exploration license,Active,
+647,Active,2008-11-21T00:00:00,RL0407,Active RL Licenses,455,Square Kilometre,3,,Tororo Cement Limited (100%),2013-11-20T00:00:00,2.0,Retention license,Active,
+648,Active,2013-02-11T00:00:00,RL1085,Active RL Licenses,864,Square Kilometre,3,Gold ,Roraima (U) Limited (100%),2016-02-10T00:00:00,11.9197,Retention license,Active,
+649,Active,2013-04-19T01:00:00,RL1133,Active RL Licenses,1121,Square Kilometre,3,Gold ,Oli Gold Muruli Limited (100%),2016-04-18T01:00:00,104.3,Retention license,Active,
+650,Active,2013-05-10T01:00:00,RL1149,Active RL Licenses,1156,Square Kilometre,3,Gold ,"Sino Minerals Investments Company Limited (60%), Aino Hope Empire Limited (40%)",2016-05-09T01:00:00,38.3839,Retention license,Active,
+651,Pending Renewal,2007-08-13T01:00:00,LL0205,Active LL Licenses,110,Hectare,2,Kaolin ,Kaolin Uganda Limited (100%),2013-08-12T01:00:00,6.125,Location license,Active,
+652,Active,2008-06-20T01:00:00,LL0349,Active LL Licenses,111,Hectare,2,,Geofrey Nzabonimpa (100%),2014-06-19T01:00:00,16.26,Location license,Active,
+653,Active,2008-10-23T01:00:00,LL0379,Active LL Licenses,112,Hectare,2,Wolfram ,Kisoro Financial Services Limited (100%),2014-10-22T01:00:00,15.25,Location license,Active,
+654,Active,2008-10-23T01:00:00,LL0380,Active LL Licenses,113,Hectare,2,Kaolin ,Nawata Mines Limited (100%),2014-10-22T01:00:00,15.9818,Location license,Active,
+655,Active,2009-01-12T00:00:00,LL0413,Active LL Licenses,114,Hectare,2,Hematite ,Industrial Minerals Limited (100%),2014-01-28T00:00:00,14.125,Location license,Active,
+656,Active,2009-01-12T00:00:00,LL0414,Active LL Licenses,115,Hectare,2,Hematite ,Industrial Minerals Limited (100%),2015-01-22T00:00:00,14.125,Location license,Active,
+657,Active,2009-01-22T00:00:00,LL0418,Active LL Licenses,116,Hectare,2,Limestone ,African Minerals  Limited (100%),2013-01-21T00:00:00,15.6,Location license,Active,
+658,Active,2009-01-22T00:00:00,LL0419,Active LL Licenses,117,Hectare,2,Limestone ,African Minerals  Limited (100%),2013-01-21T00:00:00,19.5,Location license,Active,
+659,Pending Renewal,2009-02-20T00:00:00,LL0427,Active LL Licenses,118,Hectare,2,Limestone ,Great Lakes Cement Limited (100%),2013-02-19T00:00:00,15.0,Location license,Active,
+660,Active,2009-02-20T00:00:00,LL0428,Active LL Licenses,119,Hectare,2,Limestone ,Great Lakes Cement Limited (100%),2013-02-19T00:00:00,15.0,Location license,Active,
+661,Active,2010-05-21T01:00:00,LL0618,Active LL Licenses,130,Hectare,2,,Geoffrey Lwanga & Sons Limited (100%),2014-05-20T01:00:00,14.125,Location license,Active,
+662,Active,2010-08-05T01:00:00,LL0674,Active LL Licenses,131,Hectare,2,Limestone ,Loeding Aweri Development Enterprising Limited (100%),2012-08-04T01:00:00,16.0,Location license,Active,
+663,Pending Renewal,2010-09-14T01:00:00,LL0688,Active LL Licenses,132,Hectare,2,"Base Metals , Gold ",Peter Bibangamba (100%),2012-09-13T01:00:00,14.6375,Location license,Active,
+664,Active,2010-10-19T01:00:00,LL0699,Active LL Licenses,133,Hectare,2,Pozzolana ,Nicewood Logistics Limited (100%),2012-10-18T01:00:00,15.7588,Location license,Active,
+665,Active,2010-10-20T01:00:00,LL0700,Active LL Licenses,134,Hectare,2,Pozzolana ,Nicewood Logistics Limited (100%),2012-10-19T01:00:00,15.6838,Location license,Active,
+666,Active,2010-12-20T00:00:00,LL0710,Active LL Licenses,135,Hectare,2,Kaolin ,Mate Mines Limited (100%),2014-12-19T00:00:00,14.9506,Location license,Active,
+667,Active,2011-04-29T01:00:00,LL0730,Active LL Licenses,137,Hectare,2,Kaolin ,Mate Mines Limited (100%),2013-04-28T01:00:00,11.9563,Location license,Active,
+668,Active,2011-12-01T00:00:00,LL0895,Active LL Licenses,144,Square Kilometre,2,,John Mary Muyambi (Jr) (100%),2013-11-30T00:00:00,0.1593,Location license,Active,
+669,Active,2011-12-15T00:00:00,LL0912,Active LL Licenses,146,Square Kilometre,2,Gold ,Simba Mines and Mineral Resources Limited (100%),2015-12-14T00:00:00,0.16,Location license,Active,
+670,Active,2006-08-03T01:00:00,LL0128,Active LL Licenses,448,Hectare,2,"Tin , Wolfram ",Elias Ahmed (100%),2014-08-02T01:00:00,14.5,Location license,Active,
+671,Active,2012-02-02T00:00:00,LL0911,Active LL Licenses,555,Hectare,2,Class I - Precious metals,Nawata Mines Limited (100%),2014-02-01T00:00:00,14.9631,Location license,Active,
+672,Active,2009-09-02T01:00:00,LL0502,Active LL Licenses,562,Hectare,2,Wolfram ,Majest-com Limited (100%),2015-09-01T01:00:00,12.045,Location license,Active,
+673,Active,2012-07-11T01:00:00,LL0997,Active LL Licenses,567,Hectare,2,Pozzolana ,X4 Limited (100%),2016-07-10T01:00:00,15.7938,Location license,Active,
+674,Active,2013-12-10T00:00:00,LL1261,Active LL Licenses,570,Hectare,2,"Class III - Non-precious minerals, Limestone ",Peter Lokwang (100%),2015-12-09T00:00:00,7.8622,Location license,Active,
+675,Active,2012-11-05T00:00:00,LL1062,Active LL Licenses,610,Hectare,2,"Class III - Non-precious minerals, Tantalite , Tin ",Rift Valley Investments Limited (100%),2014-11-04T00:00:00,16.0247,Location license,Active,
+676,Active,2012-05-25T01:00:00,LL0989,Active LL Licenses,715,Square Kilometre,2,Gold ,Busia United Small Scale Mining Association Limited (100%),2014-05-24T01:00:00,0.1324,Location license,Active,
+677,Active,2012-09-05T01:00:00,LL1042,Active LL Licenses,716,Square Kilometre,2,"Gold , Tin , Wolfram ",John Mary Muyambi (Jr) (100%),2014-09-04T01:00:00,0.09,Location license,Active,
+678,Active,2012-03-26T01:00:00,LL0970,Active LL Licenses,728,Hectare,2,"Class I - Precious metals, Class III - Non-precious minerals",Charlotte Kanabahita (100%),2014-03-25T00:00:00,15.0,Location license,Active,
+679,Active,2012-07-03T01:00:00,LL0991,Active LL Licenses,841,Hectare,2,Class III - Non-precious minerals,Zoek Limited (100%),2014-07-02T01:00:00,6.3588,Location license,Active,
+680,Active,2012-03-22T00:00:00,LL0969,Active LL Licenses,846,Hectare,2,"Class I - Precious metals, Class III - Non-precious minerals",John Mary Muyambi (Jr) (100%),2014-03-21T00:00:00,16.0125,Location license,Active,
+681,Active,2013-01-24T00:00:00,LL1074,Active LL Licenses,865,Square Kilometre,2,Gold ,Rift Valley Minerals Limited (100%),2015-01-23T00:00:00,0.1593,Location license,Active,
+682,Active,2013-10-17T01:00:00,LL1210,Active LL Licenses,898,Hectare,2,"Base Metals , Gold ",Sikander Meghani (100%),2015-10-16T01:00:00,8.75,Location license,Active,
+683,Active,2013-04-19T01:00:00,LL1132,Active LL Licenses,961,Square Kilometre,2,"Berrylium , Columbite , Tantalite , Tin ",Oli Gold Muruli Limited (100%),2015-04-18T01:00:00,0.1238,Location license,Active,
+684,Active,2013-08-30T01:00:00,LL1197,Active LL Licenses,970,Square Kilometre,2,Gold ,Rift Valley Minerals Limited (100%),2015-08-29T01:00:00,0.1584,Location license,Active,
+685,Active,2013-08-16T01:00:00,LL1195,Active LL Licenses,997,Square Kilometre,2,Granite,Welt Machnen Engineering Limited (100%),2015-08-15T01:00:00,0.1586,Location license,Active,
+686,Active,2013-10-17T01:00:00,LL1208,Active LL Licenses,1018,Square Kilometre,2,Granite,Samuel Sebabi (100%),2015-10-16T01:00:00,0.16,Location license,Active,
+687,Active,2012-02-07T00:00:00,LL0935,Active LL Licenses,1062,Hectare,2,Class III - Non-precious minerals,Godfrey Luwaga & Sons (100%),2014-02-06T00:00:00,16.0,Location license,Active,
+688,Active,2013-12-12T00:00:00,LL1265,Active LL Licenses,1126,Hectare,2,Tantalite ,BNT Mining Limited (100%),2015-12-11T00:00:00,10.9458,Location license,Active,
+689,Active,2014-04-29T01:00:00,LL1320,Active LL Licenses,1138,Square Kilometre,2,"Berrylium , Tin ",Megha  Minerals & Mines Limited  (100%),2016-04-28T01:00:00,0.16,Location license,Active,
+690,Active,2013-06-24T01:00:00,LL1171,Active LL Licenses,1146,Square Kilometre,2,Marble ,Jinja Marble Products (U) Limited (100%),2015-06-23T01:00:00,0.1592,Location license,Active,
+691,Active,2014-06-10T01:00:00,LL1342,Active LL Licenses,1154,Square Kilometre,2,Gypsum ,Great three (3) stars Limited (100%),2016-06-09T01:00:00,0.16,Location license,Active,
+692,Active,2013-06-25T01:00:00,LL1162,Active LL Licenses,1157,Square Kilometre,2,Gold ,Nawata Mines Limited (100%),2015-06-24T01:00:00,0.1494,Location license,Active,
+693,Active,2013-04-19T01:00:00,LL1130,Active LL Licenses,1162,Square Kilometre,2,"Berrylium , Columbite , Tantalite , Tin ",Oli Gold Muruli Limited (100%),2015-04-18T01:00:00,0.1596,Location license,Active,
+694,Active,2013-04-19T01:00:00,LL1131,Active LL Licenses,1163,Square Kilometre,2,"Berrylium , Columbite , Tantalite , Tin ",Oli Gold Muruli Limited (100%),2015-04-18T01:00:00,0.16,Location license,Active,
+695,Active,2014-05-06T01:00:00,LL1326,Active LL Licenses,1172,Square Kilometre,2,Pozzolana ,Seahorse International Limited (100%),2016-05-05T01:00:00,0.16,Location license,Active,
+696,Active,2014-04-29T01:00:00,LL1319,Active LL Licenses,1173,Square Kilometre,2,Iron Ore ,Kamuntu Investments Limited (100%),2016-04-28T01:00:00,0.1587,Location license,Active,
+697,Active,2014-06-26T01:00:00,LL1353,Active LL Licenses,1187,Square Kilometre,2,"Limestone , Marble ",Gulam Abdala (100%),2016-06-25T01:00:00,0.08,Location license,Active,
+698,Active,2013-08-16T01:00:00,LL1194,Active LL Licenses,1266,Square Kilometre,2,Granite,Welt Machnen Engineering Limited (100%),2015-08-15T01:00:00,0.159,Location license,Active,
+699,Active,2013-12-10T00:00:00,LL1260,Active LL Licenses,1280,Hectare,2,Class VI - Limestone and chalk,Peter Lokwang (100%),2015-12-09T00:00:00,7.958,Location license,Active,
+700,Active,2013-12-12T00:00:00,LL1262,Active LL Licenses,1285,Square Kilometre,2,Wolfram ,Care Moving Investment Limited (100%),2015-12-11T00:00:00,0.15,Location license,Active,
+701,Active,2013-12-12T00:00:00,LL1263,Active LL Licenses,1286,Square Kilometre,2,Wolfram ,Care Moving Investment Limited (100%),2015-12-11T00:00:00,0.15,Location license,Active,
+702,Active,2013-11-06T00:00:00,LL1223,Active LL Licenses,1290,Square Kilometre,2,Gold ,Sikander Meghani (100%),2015-11-05T00:00:00,0.15,Location license,Active,
+703,Active,2014-01-23T00:00:00,LL1282,Active LL Licenses,1300,Square Kilometre,2,Wolfram ,Seb & Company Mines Limited (100%),2016-01-22T00:00:00,0.16,Location license,Active,
+704,Pending Renewal,2012-08-23T01:00:00,LL1039,Active LL Licenses,1360,Square Kilometre,2,Class IV - Alluvial precious minerals/stones,George Onega (100%),2014-08-22T01:00:00,0.1606,Location license,Active,
+705,Application,,TN1078,Application ML Licenses,701,Square Kilometre,5,Marble ,Moroto Cement Industries (U) Limited (100%),,62.5228,Mining lease,Application,2011-07-21T15:34:21
+706,Application,,TN1271,Application ML Licenses,766,Hectare,5,Iron Ore ,Sino Minerals Investments Company Limited (100%),,5.679,Mining lease,Application,2012-03-06T01:55:00
+707,Application,,TN1502,Application ML Licenses,917,Square Kilometre,5,"Cobalt , Tin ",Euro Minerals Limited (100%),,40.0,Mining lease,Application,2012-09-10T05:40:30
+708,Application,,TN1738,Application ML Licenses,960,Square Kilometre,5,Gold ,Elegant Resources Limited (100%),,3.9078,Mining lease,Application,2013-04-08T14:46:00
+709,Application,,TN1786,Application ML Licenses,987,Hectare,5,"Base Metals , Wolfram ",Sino Minerals Investments Company Limited (100%),,3.2414,Mining lease,Application,2013-06-12T12:32:04
+710,Application,,TN1848,Application ML Licenses,1083,Square Kilometre,5,Tin ,SUN AND SAND MINES AND MINERALS LTD (100%),,20.3,Mining lease,Application,2013-09-24T13:18:35
+711,Application,,TN2029,Application ML Licenses,1380,Square Kilometre,5,"Base Metals , Iron Ore , Niobium , Phosphates , Rare Earth Elements ",GUANGZHOU DONG SONG ENERGY GROUP CO.LIMITED (100%),,1.1232,Mining lease,Application,2014-09-09T12:43:03
+712,Approved for Granting,,TN1709,Application ML Licenses,1382,Hectare,5,"Base Metals , Gold ",Sino Minerals Investments Company Limited (100%),,9.8877,Mining lease,Application,2013-03-07T10:23:00
+713,Application,,TN2020,Application EL Licenses,313,Square Kilometre,4,"Copper , Gold , Nickel ",Christella Company Limited (100%),,118.35,Exploration license,,2014-08-11T17:27:55
+714,Application,,TN1198,Application EL Licenses,321,Square Kilometre,4,Limestone ,Marua Group  (100%),,10.0,Exploration license,,2011-11-10T15:17:34
+715,Application,,TN2005,Application EL Licenses,550,Square Kilometre,4,"Base Metals , Columbite , Gold , Tantalite , Tin ",Tin Trade Company Limited (100%),,20.0325,Exploration license,,2014-07-14T17:32:06
+716,Application,,TN1339,Application EL Licenses,563,Square Kilometre,4,"Base Metals , Gold ",ASKL MINERAL PROSPECTORS LTD (100%),,20.8,Exploration license,,2012-04-12T16:16:05
+717,Application,,TN1325,Application EL Licenses,565,Square Kilometre,4,"Base Metals , Gold ",Joel Walehwa (100%),,20.8,Exploration license,,2012-04-10T11:50:00
+718,Application,,TN1713,Application EL Licenses,571,Square Kilometre,4,Gold ,Mineral Research & Mines Limited (100%),,271.5,Exploration license,,2013-04-05T14:53:00
+719,Application,,TN1745,Application EL Licenses,573,Square Kilometre,4,"Base Metals , Limestone ",Charlotte Kanabahita (100%),,3.2812,Exploration license,,2013-04-16T15:02:00
+720,Application,,TN1744,Application EL Licenses,574,Square Kilometre,4,"Base Metals , Gold , Limestone ",Melo (U) Ltd (100%),,19.8408,Exploration license,,2013-04-16T15:03:00
+721,Application,,TN1351,Application EL Licenses,578,Square Kilometre,4,"Base Metals , Diamonds , Gold , Rare Earth Elements , Uranium ",Great Lakes Mining Limited (100%),,253.7312,Exploration license,,2012-04-23T13:00:00
+722,Application,,TN1340,Application EL Licenses,583,Square Kilometre,4,"Base Metals , Gold ",Kirabira Stephen (100%),,55.0,Exploration license,,2012-04-10T04:45:00
+723,Application,,TN1311,Application EL Licenses,588,Square Kilometre,4,"Base Metals , Iron Ore ",GIL Enterprises Limited (100%),,36.0,Exploration license,,2012-02-27T10:00:00
+724,Application,, TN1377,Application EL Licenses,591,Square Kilometre,4,"Base Metals , Gold ",Royalco Resources Limited (100%),,138.36,Exploration license,,2012-05-21T10:00:18
+725,Application,,TN0903,Application EL Licenses,593,Square Kilometre,4,Gold ,,,288.0,Exploration license,,2010-09-23T12:41:00
+726,Application,,TN1376,Application EL Licenses,596,Square Kilometre,4,"Base Metals , Gold , Wolfram ",CHN Henan zhonghua Geology and Mines (U) Limited (100%),,36.0,Exploration license,,2012-04-19T12:25:04
+727,Application,,TN1373,Application EL Licenses,597,Square Kilometre,4,"Base Metals , Gold , Wolfram ",CHN Henan zhonghua Geology and Mines (U) Limited (100%),,33.9,Exploration license,,2012-04-19T10:00:00
+728,Application,,TN1374,Application EL Licenses,598,Square Kilometre,4,"Base Metals , Gold , Wolfram ",CHN Henan zhonghua Geology and Mines (U) Limited (100%),,36.0,Exploration license,,2012-04-18T12:59:19
+729,Application,,TN1393,Application EL Licenses,601,Square Kilometre,4,"Base Metals , Gold ",Nation Wide Constructions Services Limited (100%),,197.0924,Exploration license,,2012-06-01T11:33:22
+730,Application,,TN1302,Application EL Licenses,606,Square Kilometre,4,"Base Metals , Gold ",Mariam Mukalazi (100%),,320.0,Exploration license,,2012-04-20T16:00:29
+731,Application,,TN1365,Application EL Licenses,617,Square Kilometre,4,"Base Metals , Gold , Wolfram ",CHN Henan zhonghua Geology and Mines (U) Limited (100%),,36.0,Exploration license,,2012-04-16T10:00:00
+732,Application,,TN1381,Application EL Licenses,623,Square Kilometre,4,Limestone ,,,8.9306,Exploration license,,2012-06-14T15:43:55
+733,Application,,TN1394,Application EL Licenses,624,Square Kilometre,4,"Base Metals , Gold ",Moses Kamuntu (100%),,10.4591,Exploration license,,2012-06-04T13:04:00
+734,Application,,TN1388,Application EL Licenses,625,Square Kilometre,4,"Base Metals , Gold ",Nation Wide Constructions Services Limited (100%),,140.07,Exploration license,,2012-05-28T12:07:17
+735,Application,,TN1389,Application EL Licenses,627,Square Kilometre,4,"Base Metals , Gold ",Nation Wide Constructions Services Limited (100%),,100.0,Exploration license,,2012-05-25T12:55:14
+736,Application,,TN1418,Application EL Licenses,631,Square Kilometre,4,"Base Metals , PGM , Precious Metals ",Infinity Minerals Limited (100%),,262.0,Exploration license,,2012-06-21T03:40:00
+737,Application,,TN1440,Application EL Licenses,633,Square Kilometre,4,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Jan Mangal (U) Limited (100%),,260.0,Exploration license,,2012-07-16T02:25:25
+738,Application,,TN1432,Application EL Licenses,636,Square Kilometre,4,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Jan Mangal (U) Limited (100%),,364.0,Exploration license,,2012-07-16T04:00:00
+739,Application,,TN1445,Application EL Licenses,641,Square Kilometre,4,"Base Metals , Gold , PGM , Uranium ",Great Lakes Mining Limited (100%),,154.0,Exploration license,,2012-06-07T13:45:59
+740,Application,,TN1430,Application EL Licenses,644,Square Kilometre,4,"Base Metals , Tin , Wolfram ",RUSLA MINING AND MINERALS LIMITED (100%),,101.0,Exploration license,,2012-07-13T05:00:15
+741,Application,,TN1232,Application EL Licenses,687,Square Kilometre,4,"Base Metals , Gold ",Indiana Mining Limited (100%),,9.25,Exploration license,,2011-12-09T10:53:00
+742,Approved for Granting,,TN1015,Application EL Licenses,695,Square Kilometre,4,Iron Ore ,Cozumel Energy (U) Limited (100%),,4.0,Exploration license,,2011-06-14T17:00:25
+743,Approved for Granting,,TN1236,Application EL Licenses,696,Square Kilometre,4,"Base Metals , Gold ",Indiana Mining Limited (100%),,15.0,Exploration license,,2011-12-16T08:30:00
+744,Application,,TN1286,Application EL Licenses,708,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",Oli Gold Muruli Limited (100%),,33.0,Exploration license,,2012-03-28T11:00:00
+745,Application,,TN1347,Application EL Licenses,710,Square Kilometre,4,"Gold , Tin , Wolfram ",Royalco Resources Limited (100%),,32.85,Exploration license,,2012-04-24T11:04:26
+746,Application,,TN1298,Application EL Licenses,713,Square Kilometre,4,"Base Metals , PGM , Rare Earth Elements ",,,75.1772,Exploration license,,2012-04-10T11:30:00
+747,Approved for Granting,,TN1237,Application EL Licenses,724,Square Kilometre,4,"Base Metals , Gold ",Indiana Mining Limited (100%),,92.2,Exploration license,,2011-12-15T08:45:00
+748,Application,,TN1247,Application EL Licenses,732,Square Kilometre,4,"Gold , Iron Ore ",Baracat Minerals (U) Limited (100%),,56.0,Exploration license,,2012-01-13T09:32:30
+749,Application,,TN1442,Application EL Licenses,740,Square Kilometre,4,"Base Metals , Gold ",Fulin Mines Limited (100%),,33.915,Exploration license,,2012-07-12T06:20:43
+750,Application,,TN1458,Application EL Licenses,741,Square Kilometre,4,Base Metals ,Mineral Research & Mines Limited (100%),,3.3401,Exploration license,,2012-08-10T12:00:00
+751,Application,,TN1467,Application EL Licenses,759,Square Kilometre,4,"Base Metals , Gold ",Fulin Mines Limited (100%),,456.0,Exploration license,,2012-08-15T05:30:49
+752,Application,,TN1468,Application EL Licenses,760,Square Kilometre,4,"Base Metals , Gold ",Jiahao Mining (U) Limited (100%),,409.76,Exploration license,,2012-08-17T17:51:00
+753,Application,,TN1480,Application EL Licenses,762,Square Kilometre,4,"Base Metals , Gold , Tin , Wolfram ",Square Minerals Limited (100%),,64.5605,Exploration license,,2012-08-20T11:00:26
+754,Application,,TN1541,Application EL Licenses,770,Square Kilometre,4,"Base Metals , Tin ",Gilter's Mines (U) Ltd (100%),,88.0,Exploration license,,2012-10-22T04:25:46
+755,Application,,TN1532,Application EL Licenses,772,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,280.0,Exploration license,,2012-10-16T05:50:00
+756,Application,,TN1548,Application EL Licenses,773,Square Kilometre,4,"Base Metals , Gold ",Royalco Resources Limited (100%),,92.15,Exploration license,,2012-10-29T09:27:02
+757,Application,,TN1530,Application EL Licenses,776,Square Kilometre,4,"Base Metals , Gold ",Fulin Mines Limited (100%),,50.0,Exploration license,,2012-10-18T13:50:28
+758,Application,,TN1534,Application EL Licenses,777,Square Kilometre,4,"Base Metals , Gold ",Fulin Mines Limited (100%),,132.0,Exploration license,,2012-10-15T09:30:28
+759,Application,,TN1543,Application EL Licenses,778,Square Kilometre,4,"Base Metals , Tin ",Gilter's Mines (U) Ltd (100%),,168.9202,Exploration license,,2012-10-22T02:30:05
+760,Application,,TN1555,Application EL Licenses,781,Square Kilometre,4,"Cobalt , Copper , Gold ",Mwendo Enterprises Ltd (100%),,55.0,Exploration license,,2012-10-22T05:40:27
+761,Approved for Granting,,TN1556,Application EL Licenses,785,Square Kilometre,4,"Base Metals , Gold ",Sino Minerals Investments Company Limited (100%),,46.2437,Exploration license,,2012-11-02T03:21:30
+762,Application,,TN1518,Application EL Licenses,786,Square Kilometre,4,Dimension Stone ,Indo African Mining Limited (100%),,109.85,Exploration license,,2012-10-08T09:30:23
+763,Application,,TN1526,Application EL Licenses,789,Square Kilometre,4,"Base Metals , Gold ",Golden Chen Mining Co. Ltd (100%),,9.52,Exploration license,,2012-10-12T09:30:03
+764,Application,,TN2015,Application EL Licenses,792,Square Kilometre,4,"Base Metals , Gold ",Geopro Minerals Limited (100%),,34.3006,Exploration license,,2014-07-24T17:12:16
+765,Application,,TN1571,Application EL Licenses,794,Square Kilometre,4,"Base Metals , Gold ",Royalco Resources Limited (100%),,145.8,Exploration license,,2012-09-14T12:00:42
+766,Application,,TN1575,Application EL Licenses,795,Square Kilometre,4,"Gold , Limestone ",Pindoriya Devendra Kanjibhai (100%),,32.482,Exploration license,,2012-11-13T03:05:21
+767,Application,,TN1575,Application EL Licenses,796,Square Kilometre,4,"Gold , Limestone ",Pindoriya Devendra Kanjibhai (100%),,32.482,Exploration license,,2012-11-13T03:05:21
+768,Application,,TN0982,Application EL Licenses,797,Square Kilometre,4,"Base Metals , Industrial Minerals ",Gimnat International (U) Limited (100%),,55.0,Exploration license,,2011-04-10T13:30:17
+769,Application,,TN1523,Application EL Licenses,798,Square Kilometre,4,"Base Metals , Gold ",Golden Chen Mining Co. Ltd (100%),,66.0,Exploration license,,2012-10-11T11:04:49
+770,Application,,TN1525,Application EL Licenses,799,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,355.28,Exploration license,,2012-10-16T11:30:26
+771,Application,,TN1547,Application EL Licenses,801,Square Kilometre,4,Copper ,Lora International Co. Ltd (100%),,16.5955,Exploration license,,2012-10-16T10:30:54
+772,Application,,TN1524,Application EL Licenses,804,Square Kilometre,4,"Base Metals , Gold , Wolfram ",FLD Mining (U) Limited (100%),,156.0,Exploration license,,2012-10-17T12:30:08
+773,Application,,TN1464,Application EL Licenses,815,Square Kilometre,4,"Base Metals , Iron Ore ",Great Lakes Mining Limited (100%),,36.0,Exploration license,,2012-08-14T05:00:30
+774,Application,,TN1461,Application EL Licenses,817,Square Kilometre,4,"Base Metals , Diamonds , Gold , Rare Earth Elements , Uranium ",Great Lakes Mining Limited (100%),,253.7312,Exploration license,,2012-08-10T04:30:01
+775,Application,,TN1284,Application EL Licenses,832,Square Kilometre,4,"Base Metals , Iron Ore ",Great Lakes Mining Limited (100%),,36.0,Exploration license,,2012-03-23T14:45:59
+776,Application,,TN1331,Application EL Licenses,837,Square Kilometre,4,"Base Metals , Columbite , Limestone ",Oli Gold Muruli Limited (100%),,18.547,Exploration license,,2012-04-16T10:49:28
+777,Application,,TN1494,Application EL Licenses,843,Square Kilometre,4,"Base Metals , Gold ",Clear water mining limited (100%),,95.0,Exploration license,,2012-09-07T10:15:59
+778,Application,,TN1472,Application EL Licenses,844,Square Kilometre,4,"Base Metals , Gold ",Fulin Mines Limited (100%),,471.1656,Exploration license,,2012-08-15T05:30:18
+779,Application,,TN1663,Application EL Licenses,847,Square Kilometre,4,Rare Earth Elements ,Tembo Steels (U) Limited (100%),,74.0814,Exploration license,,2013-01-09T09:22:34
+780,Pending Area Change Acceptance,,TN1401,Application EL Licenses,854,Square Kilometre,4,"Base Metals , Gold , Tin ",Muhabura Esterblishments Limited (100%),,13.0,Exploration license,,2012-06-06T03:40:14
+781,Application,,TN1607,Application EL Licenses,859,Square Kilometre,4,"Cobalt , Copper , Gold , Nickel , Platinum ",Rwenzori Copper & Nickel Limited (100%),,13.0,Exploration license,,2012-12-05T02:45:04
+782,Application,,TN1610,Application EL Licenses,861,Square Kilometre,4,"Limestone , Marble ",Cozumel Energy (U) Limited (100%),,51.0,Exploration license,,2012-11-29T03:50:00
+783,Application,,TN1565,Application EL Licenses,868,Square Kilometre,4,"Base Metals , Gold , Limestone , Marble , PGM ",Askar Investments (U) Limited (100%),,409.76,Exploration license,,2012-11-01T10:15:17
+784,Application,,TN1613,Application EL Licenses,870,Square Kilometre,4,"Base Metals , Gold ",Mata Mining Limited (100%),,28.8538,Exploration license,,2012-12-06T16:00:51
+785,Application,,TN1411,Application EL Licenses,875,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",Muhabura Esterblishments Limited (100%),,19.52,Exploration license,,2012-06-15T11:00:00
+786,Application,,TN1595,Application EL Licenses,878,Square Kilometre,4,"Base Metals , Gold ",East African Mining Limited (100%),,55.955,Exploration license,,2012-11-22T04:30:00
+787,Application,,TN1641,Application EL Licenses,880,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",Jiahao Mining (U) Limited (100%),,6.3082,Exploration license,,2013-01-08T09:30:00
+788,Application,,TN1569,Application EL Licenses,881,Square Kilometre,4,"Base Metals , Gold , Granite",United African Mines Company Limited (100%),,37.5,Exploration license,,2012-11-09T03:00:00
+789,Application,,TN1640,Application EL Licenses,882,Square Kilometre,4,"Base Metals , Gold ",Jiahao Mining (U) Limited (100%),,128.0,Exploration license,,2013-01-04T12:40:00
+790,Application,,TN1646,Application EL Licenses,883,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",Jiahao Mining (U) Limited (100%),,18.8325,Exploration license,,2013-01-07T08:45:00
+791,Application,,TN1567,Application EL Licenses,888,Square Kilometre,4,"Base Metals , Gold , Granite",United African Mines Company Limited (100%),,88.0,Exploration license,,2012-11-07T12:05:00
+792,Application,,TN1568,Application EL Licenses,889,Square Kilometre,4,"Base Metals , Gold , Granite",United African Mines Company Limited (100%),,72.0,Exploration license,,2012-11-07T12:05:00
+793,Application,,TN1446,Application EL Licenses,890,Square Kilometre,4,Granite,Universal Granites and Marble Limited (100%),,52.5,Exploration license,,2012-07-30T11:40:03
+794,Application,,TN1410,Application EL Licenses,891,Square Kilometre,4,"Base Metals , Copper , Gold , Iron Ore ",Hilltop Minerals & Metals Limited (100%),,20.25,Exploration license,,2012-06-13T05:30:20
+795,Application,,TN1679,Application EL Licenses,892,Square Kilometre,4,"Base Metals , Tin ",Jiahao Mining (U) Limited (100%),,1.4317,Exploration license,,2013-01-31T10:05:00
+796,Application,,TN1693,Application EL Licenses,894,Square Kilometre,4,"Berrylium , Columbite , Tantalite , Tin ",Mwendo Enterprises Ltd (100%),,169.0,Exploration license,,2013-02-19T12:10:00
+797,Application,,TN1697,Application EL Licenses,902,Square Kilometre,4,"Berrylium , Coltan , Gold , Tin ",Almich Limited (100%),,65.0,Exploration license,,2013-02-20T09:30:00
+798,Approved for Granting,,TN1694,Application EL Licenses,903,Square Kilometre,4,"Gold , Precious Metals ",Golan Mining Company Limited (100%),,189.0,Exploration license,,2013-01-24T04:55:00
+799,Application,,TN1681,Application EL Licenses,904,Square Kilometre,4,"Base Metals , Gold ",Jiahao Mining (U) Limited (100%),,104.5893,Exploration license,,2013-01-31T11:07:00
+800,Application,,TN1695,Application EL Licenses,905,Square Kilometre,4,"Base Metals , Gold ",MCB Resources Limited (100%),,104.5893,Exploration license,,2013-02-21T12:00:00
+801,Application,,TN1620,Application EL Licenses,906,Square Kilometre,4,Gold ,Gemstones International Limited (100%),,113.96,Exploration license,,2012-12-14T12:00:00
+802,Application,,TN1690,Application EL Licenses,907,Square Kilometre,4,"Base Metals , Gold ",GTN Limited (100%),,362.0,Exploration license,,2013-02-07T12:00:00
+803,Application,,TN1704,Application EL Licenses,908,Square Kilometre,4,"Base Metals , Gold ",GTN Limited (100%),,354.25,Exploration license,,2013-02-26T09:00:00
+804,Application,,TN1703,Application EL Licenses,909,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",GTN Limited (100%),,269.575,Exploration license,,2013-02-25T03:00:00
+805,Application,,TN1578,Application EL Licenses,911,Square Kilometre,4,"Cobalt , Copper ",Fang Min (100%),,16.391,Exploration license,,2012-11-20T11:06:36
+806,Application,,TN1707,Application EL Licenses,913,Square Kilometre,4,"Base Metals , Gold , Limestone ",MCB Resources Limited (100%),,19.8408,Exploration license,,2013-03-04T09:26:00
+807,Pending Area Change Acceptance,,TN1580,Application EL Licenses,914,Square Kilometre,4,"Cobalt , Copper , Nickel ",Fang Min (100%),,28.8,Exploration license,,2012-11-20T11:00:28
+808,Application,,TN1576,Application EL Licenses,915,Square Kilometre,4,"Berrylium , Iron Ore , Tin ",Fang Min (100%),,11.9351,Exploration license,,2012-11-20T11:09:47
+809,Application,,TN1675,Application EL Licenses,921,Square Kilometre,4,Granite,Uganda Heng Yi Ltd (100%),,7.9108,Exploration license,,2012-12-24T04:00:00
+810,Application,,TN1479,Application EL Licenses,935,Square Kilometre,4,"Base Metals , Gold , Tin , Wolfram ",Square Minerals Limited (100%),,22.8975,Exploration license,,2012-08-20T11:00:39
+811,Pending Area Change Acceptance,,TN1493,Application EL Licenses,936,Square Kilometre,4,"Base Metals , Gold ",Infinity Minerals Limited (100%),,88.5112,Exploration license,,2012-09-06T05:00:20
+812,Application,,TN1726,Application EL Licenses,938,Square Kilometre,4,"Base Metals , Gold ",Elizabeth Karungi (100%),,272.0,Exploration license,,2013-03-15T10:03:16
+813,Approved for Granting,,TN1511,Application EL Licenses,952,Square Kilometre,4,"Base Metals , Gold , Limestone ",Emmanuel Kyoyeta (100%),,39.8408,Exploration license,,2012-09-27T10:00:00
+814,Application,,TN1504,Application EL Licenses,957,Square Kilometre,4,"Base Metals , Gold ",Indo African Mining Limited (100%),,76.3,Exploration license,,2012-09-25T08:30:00
+815,Application,,TN1734,Application EL Licenses,959,Square Kilometre,4,"Berrylium , Coltan , Gold , Tin ",Sikander Meghani (100%),,160.85,Exploration license,,2013-04-05T12:03:00
+816,Application,,TN1715,Application EL Licenses,962,Square Kilometre,4,"Base Metals , Gold ",Blackstone Ichiban Limited (100%),,187.4998,Exploration license,,2013-03-12T10:27:00
+817,Application,,TN1717,Application EL Licenses,963,Square Kilometre,4,"Cobalt , Copper , Gold ",Mwendo Enterprises Ltd (100%),,93.7408,Exploration license,,2013-03-14T14:02:44
+818,Application,,TN1501,Application EL Licenses,964,Square Kilometre,4,Limestone ,Kala Minerals Development Limited (100%),,50.05,Exploration license,,2012-08-27T11:00:35
+819,Application,,TN1500,Application EL Licenses,965,Square Kilometre,4,"Base Metals , Gold ",Kala Minerals Development Limited (100%),,247.7775,Exploration license,,2012-08-27T14:00:02
+820,Application,,TN0979,Application EL Licenses,967,Square Kilometre,4,"Base Metals , Gold , Vermiculite ",Gimnat International (U) Limited (100%),,99.0745,Exploration license,,2011-04-11T04:04:00
+821,Application,,TN1531,Application EL Licenses,973,Square Kilometre,4,"Base Metals , Gold ",Gilter's Mines (U) Ltd (100%),,110.0,Exploration license,,2012-10-17T10:00:29
+822,Application,,TN1904,Application EL Licenses,977,Square Kilometre,4,"Base Metals , Gold ",Almich Limited (100%),,109.59,Exploration license,,2014-01-09T11:34:35
+823,Application,,TN1540,Application EL Licenses,978,Square Kilometre,4,"Base Metals , Limestone ",Sino Minerals Investments Company Limited (100%),,19.1346,Exploration license,,2012-10-24T11:35:10
+824,Application,,TN1776,Application EL Licenses,980,Square Kilometre,4,"Base Metals , Gold ",Kazibwe Moses (100%),,56.0697,Exploration license,,2013-05-24T11:45:48
+825,Application,,TN1780,Application EL Licenses,982,Square Kilometre,4,Marble ,Mechanised Agro (U) Limited (100%),,165.0,Exploration license,,2013-05-30T12:36:01
+826,Application,,TN1710,Application EL Licenses,986,Square Kilometre,4,"Base Metals , Gold ",Sikander Meghani (100%),,13.3867,Exploration license,,2013-03-05T13:55:06
+827,Application,,TN1787,Application EL Licenses,990,Square Kilometre,4,Dimension Stone ,Cupar Investments (U) Limited (100%),,10.0,Exploration license,,2013-06-14T13:27:21
+828,Application,,TN1775,Application EL Licenses,993,Square Kilometre,4,"Base Metals , Gold ",Kazibwe Moses (100%),,29.685,Exploration license,,2013-05-24T11:40:39
+829,Application,,TN2018,Application EL Licenses,998,Square Kilometre,4,Silica Sand,Only You International Limited (100%),,33.1538,Exploration license,,2014-08-06T11:16:22
+830,Application,,TN1711,Application EL Licenses,1000,Square Kilometre,4,"Gold , Limestone ",Beatrice Akissa Locker (100%),,96.0,Exploration license,,2013-03-05T13:56:26
+831,Application,,TN1797,Application EL Licenses,1001,Square Kilometre,4,"Base Metals , Geothermal , Gold , Limestone , Pozzolana ",Gids Consults Limited (100%),,197.6539,Exploration license,,2013-07-03T10:31:02
+832,Application,,TN1798,Application EL Licenses,1002,Square Kilometre,4,"Base Metals , Tin , Wolfram ",Emmanuel Kyoyeta (100%),,56.1458,Exploration license,,2013-07-03T13:17:41
+833,Application,,TN1612,Application EL Licenses,1004,Square Kilometre,4,"Limestone , Marble ",KIBOKO CEMENT INDUSTRIES LIMITED (100%),,41.44,Exploration license,,2012-12-04T04:00:00
+834,Application,,TN1618,Application EL Licenses,1007,Square Kilometre,4,"Base Metals , Gold , Tin ",Andrew Kabiito Rubuubi (100%),,5.89,Exploration license,,2012-12-10T16:00:00
+835,Application,,TN2019,Application EL Licenses,1008,Square Kilometre,4,"Base Metals , Precious Metals ",Sipa Exploration (U) Limited (100%),,142.6456,Exploration license,,2014-08-08T15:22:17
+836,Application,,TN1808,Application EL Licenses,1016,Square Kilometre,4,"Base Metals , Diamonds , Gold , Rare Earth Elements ",Discovery Minerals Limited (100%),,22.2231,Exploration license,,2013-07-25T10:29:00
+837,Application,,TN1825,Application EL Licenses,1017,Square Kilometre,4,"Base Metals , Gold ",Kapex Ltd (100%),,54.2,Exploration license,,2013-08-21T16:36:54
+838,Application,,TN1821,Application EL Licenses,1020,Square Kilometre,4,"Gold , Gypsum , Limestone ",Guostar Enterprises (U) Limited (100%),,317.0,Exploration license,,2013-08-19T10:13:48
+839,Application,,TN1823,Application EL Licenses,1021,Square Kilometre,4,"Gold , Gypsum , Limestone ",Guostar Enterprises (U) Limited (100%),,458.6382,Exploration license,,2013-08-19T10:16:58
+840,Application,,TN1830,Application EL Licenses,1023,Square Kilometre,4,"Limestone , Marble ",Cozumel Energy (U) Limited (100%),,9.4377,Exploration license,,2013-09-03T15:30:29
+841,Application,,TN1558,Application EL Licenses,1024,Square Kilometre,4,"Base Metals , Gold ",Mata Mining Limited (100%),,4.6725,Exploration license,,2012-11-09T09:30:00
+842,Application,,TN1596,Application EL Licenses,1025,Square Kilometre,4,Iron Ore ,Tembo Steels (U) Limited (100%),,7.9865,Exploration license,,2012-11-26T11:00:37
+843,Application,,TN1624,Application EL Licenses,1027,Square Kilometre,4,Iron Ore ,Tembo Steels (U) Limited (100%),,7.449,Exploration license,,2012-12-18T12:20:19
+844,Application,,TN1560,Application EL Licenses,1030,Square Kilometre,4,"Base Metals , Gold ",Mata Mining Limited (100%),,4.6991,Exploration license,,2012-11-09T01:30:03
+845,Application,,TN1559,Application EL Licenses,1031,Square Kilometre,4,"Base Metals , Gold ",Mata Mining Limited (100%),,64.26,Exploration license,,2012-11-08T03:00:28
+846,Application,,TN1606,Application EL Licenses,1033,Square Kilometre,4,Gold ,Tembo Steels (U) Limited (100%),,43.2371,Exploration license,,2012-12-04T04:18:50
+847,Application,,TN1832,Application EL Licenses,1038,Square Kilometre,4,"Base Metals , Gold ",Kapex Ltd (100%),,99.6,Exploration license,,2013-09-04T13:20:48
+848,Application,,TN1654,Application EL Licenses,1040,Square Kilometre,4,"Gold , Limestone ",Brian Ochieng Tefro (100%),,50.935,Exploration license,,2013-01-08T11:00:00
+849,Application,,TN1837,Application EL Licenses,1041,Square Kilometre,4,"Base Metals , Gold ",Sikander Meghani (100%),,26.3432,Exploration license,,2013-09-12T12:21:45
+850,Application,,TN1844,Application EL Licenses,1042,Square Kilometre,4,"Base Metals , Gold , PGM , Rare Earth Elements ",Rockinol (U) Limited (100%),,84.0,Exploration license,,2013-09-19T10:30:35
+851,Application,,TN1655,Application EL Licenses,1045,Square Kilometre,4,"Gold , Limestone ",Brian Ochieng Tefro (100%),,50.0,Exploration license,,2013-01-08T11:00:00
+852,Application,,TN1582,Application EL Licenses,1046,Square Kilometre,4,"Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),,38.7125,Exploration license,,2012-11-16T12:05:00
+853,Application,,TN1552,Application EL Licenses,1049,Square Kilometre,4,"Base Metals , Gold ",FLD Mining (U) Limited (100%),,324.472,Exploration license,,2012-10-22T04:00:00
+854,Application,,TN1549,Application EL Licenses,1050,Square Kilometre,4,"Base Metals , Gold ",FLD Mining (U) Limited (100%),,133.9,Exploration license,,2012-10-22T04:30:30
+855,Application,,TN1551,Application EL Licenses,1051,Square Kilometre,4,"Base Metals , Gold ",FLD Mining (U) Limited (100%),,424.0,Exploration license,,2012-10-22T04:30:00
+856,Application,,TN1815,Application EL Licenses,1053,Square Kilometre,4,"Base Metals , Gold ",Chui Resources Ltd (100%),,189.2,Exploration license,,2013-07-29T12:02:45
+857,Application,,TN1807,Application EL Licenses,1057,Square Kilometre,4,Iron Ore ,Roofings Rolling Mills Ltd (100%),,11.1412,Exploration license,,2013-07-23T17:20:06
+858,Application,,TN1644,Application EL Licenses,1065,Square Kilometre,4,"Base Metals , Gold ",FLD Mining (U) Limited (100%),,54.5918,Exploration license,,2013-01-03T03:45:00
+859,Application,,TN1643,Application EL Licenses,1071,Square Kilometre,4,"Base Metals , Gold ",FLD Mining (U) Limited (100%),,109.25,Exploration license,,2013-01-03T03:45:00
+860,Application,,TN1566,Application EL Licenses,1074,Square Kilometre,4,"Base Metals , Gold ",Berkeley Reef Limited (100%),,67.5,Exploration license,,2012-11-08T02:00:00
+861,Application,,TN1639,Application EL Licenses,1077,Square Kilometre,4,"Base Metals , Gold ",Jiahao Mining (U) Limited (100%),,118.16,Exploration license,,2013-01-03T03:45:00
+862,Application,,TN1642,Application EL Licenses,1078,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",Jiahao Mining (U) Limited (100%),,58.25,Exploration license,,2013-01-08T09:30:00
+863,Application,,TN1850,Application EL Licenses,1079,Square Kilometre,4,"Base Metals , Tin ",B-ONE LIMITED (100%),,24.9185,Exploration license,,2013-10-10T14:03:01
+864,Application,,TN 1851,Application EL Licenses,1080,Square Kilometre,4,"Base Metals , Copper , Gold , Rare Earth Elements , Tungsten ",Mwendo Enterprises Ltd (100%),,139.91,Exploration license,,2013-10-14T14:14:55
+865,Application,,TN1666,Application EL Licenses,1086,Square Kilometre,4,"Base Metals , Gold ",Gilter's Mines (U) Ltd (100%),,100.0,Exploration license,,2013-01-14T11:37:00
+866,Application,,TN1626,Application EL Licenses,1087,Square Kilometre,4,"Base Metals , Gold ",King of Kings Mining Company Limited (100%),,55.0,Exploration license,,2012-12-20T02:00:00
+867,Application,,TN1665,Application EL Licenses,1089,Square Kilometre,4,"Base Metals , Gold ",Jiahao Mining (U) Limited (100%),,442.0,Exploration license,,2013-01-07T10:55:00
+868,Application,,TN1668,Application EL Licenses,1090,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,88.0,Exploration license,,2013-01-11T11:01:44
+869,Application,,TN1670,Application EL Licenses,1091,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,159.61,Exploration license,,2013-01-14T12:00:00
+870,Application,,TN1671,Application EL Licenses,1093,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,12.0,Exploration license,,2013-01-10T11:31:30
+871,Pending Area Change Acceptance,,TN1856,Application EL Licenses,1097,Square Kilometre,4,Iron Ore ,Tembo Steels (U) Limited (100%),,95.85,Exploration license,,2013-10-24T12:18:23
+872,Application,,TN1652,Application EL Licenses,1100,Square Kilometre,4,"Base Metals , Gold ",Clear water mining limited (100%),,33.82,Exploration license,,2013-01-08T12:30:00
+873,Application,,TN1648,Application EL Licenses,1103,Square Kilometre,4,Pozzolana ,Emmanuel Kyoyeta (100%),,84.15,Exploration license,,2013-01-10T11:25:01
+874,Application,,TN1650,Application EL Licenses,1104,Square Kilometre,4,"Base Metals , Gold ",Clear water mining limited (100%),,180.0,Exploration license,,2013-01-08T02:15:00
+875,Application,,TN1608,Application EL Licenses,1105,Square Kilometre,4,"Base Metals , Gold ",William  Babigumira (100%),,60.0,Exploration license,,2012-12-03T11:05:00
+876,Application,,TN1859,Application EL Licenses,1108,Square Kilometre,4,"Base Metals , Gold , Industrial Minerals ",Occhio Investments Ltd (100%),,314.3256,Exploration license,,2013-10-30T15:21:35
+877,Application,,TN1860,Application EL Licenses,1109,Square Kilometre,4,"Base Metals , Tin ",Pearl Mineral Development Ltd (100%),,49.2121,Exploration license,,2013-11-04T13:01:20
+878,Application,,TN1867,Application EL Licenses,1113,Square Kilometre,4,Gold ,Nawal Mining Ltd (100%),,335.2,Exploration license,,2013-11-18T12:29:48
+879,Application,,TN1869,Application EL Licenses,1115,Square Kilometre,4,"Base Metals , Gold ",Sikander Meghani (100%),,42.8625,Exploration license,,2013-11-25T13:21:38
+880,Application,,TN1512,Application EL Licenses,1118,Square Kilometre,4,"Base Metals , Gold ",Precious Mining (U) Limited (100%),,220.0,Exploration license,,2012-09-26T10:00:00
+881,Application,,TN1871,Application EL Licenses,1120,Square Kilometre,4,"Columbite , Gold , Tantalite ",Almich Limited (100%),,50.8195,Exploration license,,2013-11-25T13:24:13
+882,Application,,TN1885,Application EL Licenses,1127,Square Kilometre,4,"Base Metals , Gold ",Lynks Mineral Resources Ltd (100%),,276.0,Exploration license,,2013-12-05T16:11:00
+883,Application,,TN1887,Application EL Licenses,1128,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,253.0,Exploration license,,2013-12-05T16:02:22
+884,Application,,TN1890,Application EL Licenses,1129,Square Kilometre,4,Granite,Aljouda Mining Co. Ltd (100%),,37.5135,Exploration license,,2013-12-09T15:19:55
+885,Application,,TN1891,Application EL Licenses,1130,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,44.0,Exploration license,,2013-12-10T13:26:26
+886,Application,,TN1892,Application EL Licenses,1131,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,18.4649,Exploration license,,2013-12-10T13:25:04
+887,Application,,TN1892,Application EL Licenses,1132,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,18.4649,Exploration license,,2013-12-10T13:25:04
+888,Application,,TN1870,Application EL Licenses,1134,Square Kilometre,4,"Base Metals , Gold ",Sikander Meghani (100%),,76.9125,Exploration license,,2013-11-25T13:23:48
+889,Application,,TN1894,Application EL Licenses,1135,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,56.0,Exploration license,,2013-12-17T12:14:41
+890,Application,,TN1900,Application EL Licenses,1139,Square Kilometre,4,"Base Metals , Coltan , Tin ",Almich Limited (100%),,85.2,Exploration license,,2014-01-02T13:04:39
+891,Application,,TN1901,Application EL Licenses,1140,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,280.0,Exploration license,,2014-01-03T11:59:29
+892,Application,,TN1902,Application EL Licenses,1141,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,40.0,Exploration license,,2014-01-03T11:57:10
+893,Application,,TN1903,Application EL Licenses,1143,Square Kilometre,4,"Base Metals , Gold ",Almich Limited (100%),,40.913,Exploration license,,2014-01-09T11:32:43
+894,Application,,TN1577,Application EL Licenses,1147,Square Kilometre,4,"Cobalt , Copper , Gold ",Fang Min (100%),,58.5,Exploration license,,2012-11-20T11:10:12
+895,Application,,TN1911,Application EL Licenses,1149,Square Kilometre,4,"Base Metals , Gold ",Malibu Holdings Limited (100%),,20.0,Exploration license,,2014-01-30T12:11:03
+896,Application,,TN1925,Application EL Licenses,1151,Square Kilometre,4,Silica Sand,CHENSHIA UGANDA (100%),,21.2925,Exploration license,,2014-03-07T14:43:52
+897,Application,,TN1945,Application EL Licenses,1155,Square Kilometre,4,"Base Metals , Berrylium , Gold , Tantalite , Tungsten ",Mwendo Enterprises Ltd (100%),,30.0,Exploration license,,2014-04-08T13:59:57
+898,Application,,TN1914,Application EL Licenses,1159,Square Kilometre,4,"Limestone , Pozzolana ",Industrial Minerals Limited (100%),,16.0,Exploration license,,2014-02-13T16:04:25
+899,Application,,TN1915,Application EL Licenses,1160,Square Kilometre,4,"Base Metals , Granite",Mechanised Agro (U) Limited (100%),,29.4,Exploration license,,2014-02-17T15:38:06
+900,Application,,TN1916,Application EL Licenses,1161,Square Kilometre,4,Granite,Mechanised Agro (U) Limited (100%),,0.1575,Exploration license,,2014-02-17T15:40:26
+901,Application,,TN1749,Application EL Licenses,1165,Square Kilometre,4,"Base Metals , Gold , Limestone ",Bireseki William (100%),,41.2516,Exploration license,,2013-04-24T16:10:00
+902,Application,,TN1927,Application EL Licenses,1169,Square Kilometre,4,"Base Metals , Gold ",Yanol Uganda Limited (100%),,28.2,Exploration license,,2014-03-12T12:06:42
+903,Application,,TN1931,Application EL Licenses,1170,Square Kilometre,4,"Base Metals , Gold ",Benon Rukundo (100%),,61.394,Exploration license,,2014-03-20T11:29:33
+904,Application,,TN1922,Application EL Licenses,1171,Square Kilometre,4,"Base Metals , Gold ",Paul Bonabantu (100%),,0.2102,Exploration license,,2014-03-03T13:28:11
+905,Application,,TN1924,Application EL Licenses,1174,Square Kilometre,4,"Base Metals , Gold ",Sino Minerals Investments Company Limited (100%),,0.2102,Exploration license,,2014-03-03T16:16:50
+906,Application,,TN1923,Application EL Licenses,1176,Square Kilometre,4,"Base Metals , Gold ",Paul Bonabantu (100%),,30.9591,Exploration license,,2014-03-03T13:29:59
+907,Application,,TN1930,Application EL Licenses,1178,Square Kilometre,4,"Base Metals , Gold , PGM , Rare Earth Elements ",ABM Logistics (100%),,92.0418,Exploration license,,2014-03-18T14:35:07
+908,Application,,TN1585,Application EL Licenses,1181,Square Kilometre,4,"Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),,13.9535,Exploration license,,2012-11-20T15:44:56
+909,Application,,TN1584,Application EL Licenses,1183,Square Kilometre,4,"Copper , Gold , Tungsten ",Mwendo Enterprises Ltd (100%),,108.0,Exploration license,,2012-11-20T15:41:17
+910,Application,,TN1746,Application EL Licenses,1185,Square Kilometre,4,"Base Metals , Gold , Rare Earth Elements ",Mata Mining Limited (100%),,112.5709,Exploration license,,2013-04-22T10:50:39
+911,Application,,TN1746,Application EL Licenses,1186,Square Kilometre,4,"Base Metals , Gold , Rare Earth Elements ",Mata Mining Limited (100%),,112.5709,Exploration license,,2013-04-22T10:50:39
+912,Application,,TN1938,Application EL Licenses,1189,Square Kilometre,4,"Base Metals , Cassiterite , Columbite , Tantalite ",Peter Mukiza (100%),,31.5,Exploration license,,2014-03-27T11:38:28
+913,Application,,TN1943,Application EL Licenses,1192,Square Kilometre,4,Pozzolana ,Hima Cement  Limited (100%),,0.8,Exploration license,,2014-04-04T13:32:47
+914,Application,,TN1947,Application EL Licenses,1193,Square Kilometre,4,Pozzolana ,Hillmarks Limited (100%),,5.8,Exploration license,,2014-04-09T14:39:28
+915,Application,,TN1946,Application EL Licenses,1196,Square Kilometre,4,Pozzolana ,Industrial Minerals Limited (100%),,1.4,Exploration license,,2014-04-09T13:35:35
+916,Application,,TN1948,Application EL Licenses,1197,Square Kilometre,4,"Base Metals , Gold ",Nawal Mining Ltd (100%),,157.8247,Exploration license,,2014-04-09T16:35:01
+917,Application,,TN1951,Application EL Licenses,1202,Square Kilometre,4,Pozzolana ,Seahorse International Limited (100%),,43.6,Exploration license,,2014-04-14T16:58:53
+918,Application,,TN1955,Application EL Licenses,1204,Square Kilometre,4,"Base Metals , Gold ",Willies Eximp Traders Limited (100%),,40.0,Exploration license,,2014-04-23T12:48:39
+919,Application,,TN1956,Application EL Licenses,1205,Square Kilometre,4,"Base Metals , Gold ",Darmack Mining Limited (100%),,104.277,Exploration license,,2014-04-24T16:55:13
+920,Application,,TN1957,Application EL Licenses,1206,Square Kilometre,4,Gypsum ,Petra Development Services Limited (100%),,38.5,Exploration license,,2014-04-24T17:00:33
+921,Application,,TN1960,Application EL Licenses,1207,Square Kilometre,4,"Base Metals , Gold ",Pramukh Steel Limited (100%),,118.35,Exploration license,,2014-04-25T16:15:42
+922,Application,,TN1961,Application EL Licenses,1208,Square Kilometre,4,"Base Metals , Gold ",Pramukh Steel Limited (100%),,78.5,Exploration license,,2014-04-25T16:43:55
+923,Application,,TN1770,Application EL Licenses,1215,Square Kilometre,4,Phosphates ,Kest Investments (U) Limited (100%),,2.4,Exploration license,,2013-05-20T14:10:58
+924,Application,,TN1773,Application EL Licenses,1217,Square Kilometre,4,"Limestone , Marble ",KIBOKO CEMENT INDUSTRIES LIMITED (100%),,41.44,Exploration license,,2013-05-20T17:33:28
+925,Application,,TN1964,Application EL Licenses,1218,Square Kilometre,4,Pozzolana ,Hillmarks Limited (100%),,12.346,Exploration license,,2014-04-29T17:09:55
+926,Application,,TN1964,Application EL Licenses,1219,Square Kilometre,4,Pozzolana ,Hillmarks Limited (100%),,12.346,Exploration license,,2014-04-29T17:09:55
+927,Application,,TN1969,Application EL Licenses,1220,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,290.326,Exploration license,,2014-05-14T14:04:10
+928,Application,,TN1970,Application EL Licenses,1221,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,467.67,Exploration license,,2014-05-14T15:06:35
+929,Application,,TN1971,Application EL Licenses,1223,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,458.3775,Exploration license,,2014-05-14T15:12:15
+930,Application,,TN1965,Application EL Licenses,1225,Square Kilometre,4,"Base Metals , Gold ",Niki Rush Mining Group Limited (100%),,43.7582,Exploration license,,2014-05-12T17:28:17
+931,Application,,TN1967,Application EL Licenses,1226,Square Kilometre,4,"Base Metals , Gold ",Niki Rush Mining Group Limited (100%),,60.75,Exploration license,,2014-05-13T13:17:35
+932,Application,,TN1966,Application EL Licenses,1227,Square Kilometre,4,Gypsum ,Gypsum Mines Limited (100%),,38.5,Exploration license,,2014-05-13T12:24:27
+933,Application,,TN1953,Application EL Licenses,1228,Square Kilometre,4,Iron Ore ,Steel & Tube Industries Limited (100%),,270.5231,Exploration license,,2014-04-16T11:46:18
+934,Application,,TN1968,Application EL Licenses,1229,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,484.1688,Exploration license,,2014-05-14T14:01:56
+935,Application,,TN1972,Application EL Licenses,1230,Square Kilometre,4,Granite,Grace Muwanguzi Kyeyune (100%),,4.0,Exploration license,,2014-05-20T16:40:06
+936,Application,,TN1784,Application EL Licenses,1232,Square Kilometre,4,"Base Metals , Gold ",Peter Mukiza (100%),,280.43,Exploration license,,2013-06-06T14:22:45
+937,Application,,TN1973,Application EL Licenses,1233,Square Kilometre,4,"Base Metals , Gold ",ASKL MINERAL PROSPECTORS LTD (100%),,136.4401,Exploration license,,2014-05-22T16:05:57
+938,Application,,TN1975,Application EL Licenses,1234,Square Kilometre,4,"Gold , Limestone ",Development Services Kigezi (DESK) Limited (100%),,235.9875,Exploration license,,2014-05-28T12:08:06
+939,Application,,TN1991,Application EL Licenses,1240,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,499.226,Exploration license,,2014-06-12T17:49:28
+940,Application,,TN1992,Application EL Licenses,1241,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,496.836,Exploration license,,2014-06-12T17:45:13
+941,Application,,TN1981,Application EL Licenses,1243,Square Kilometre,4,Geothermal ,Kapex Ltd (100%),,113.3001,Exploration license,,2014-06-05T12:13:53
+942,Application,,TN2017,Application EL Licenses,1244,Square Kilometre,4,Silica Sand,Only You International Limited (100%),,39.5298,Exploration license,,2014-08-06T11:14:59
+943,Application,,TN1982,Application EL Licenses,1245,Square Kilometre,4,Geothermal ,Kapex Ltd (100%),,175.797,Exploration license,,2014-06-05T12:15:26
+944,Application,,TN1974,Application EL Licenses,1248,Square Kilometre,4,"Base Metals , Gold ",Lynks Mineral Resources Ltd (100%),,96.75,Exploration license,,2014-05-23T10:22:10
+945,Application,,TN1983,Application EL Licenses,1249,Square Kilometre,4,Geothermal ,Kapex Ltd (100%),,379.5,Exploration license,,2014-06-05T12:17:22
+946,Application,,TN1993,Application EL Licenses,1251,Square Kilometre,4,"Gold , Industrial Minerals , Pozzolana ",Seahorse International Limited (100%),,48.6,Exploration license,,2014-06-18T17:30:57
+947,Application,,TN1994,Application EL Licenses,1252,Square Kilometre,4,"Base Metals , Diamonds , Gold , Iron Ore ",Oli Gold Muruli Limited (100%),,26.2226,Exploration license,,2014-06-19T15:42:51
+948,Application,,TN1996,Application EL Licenses,1253,Square Kilometre,4,Iron Ore ,Tembo Steels (U) Limited (100%),,270.5231,Exploration license,,2014-06-23T14:07:00
+949,Application,,TN2000,Application EL Licenses,1254,Square Kilometre,4,"Industrial Minerals , Limestone ",Kampala Cement Company Ltd (100%),,20.0,Exploration license,,2014-07-03T11:55:27
+950,Application,,TN2002,Application EL Licenses,1255,Square Kilometre,4,"Base Metals , Gold ",Richard Henry Kaijuka (100%),,93.0,Exploration license,,2014-07-03T16:21:30
+951,Application,,TN2001,Application EL Licenses,1256,Square Kilometre,4,"Base Metals , Gold ",Richard Henry Kaijuka (100%),,226.0,Exploration license,,2014-07-03T11:15:19
+952,Application,,TN2004,Application EL Licenses,1257,Square Kilometre,4,"Base Metals , Gold ",Rakai Resources Limited (100%),,499.1,Exploration license,,2014-07-04T14:12:32
+953,Application,,TN2011,Application EL Licenses,1262,Square Kilometre,4,"Base Metals , Tin ",Development Services Kigezi (DESK) Limited (100%),,58.2327,Exploration license,,2014-07-18T11:14:34
+954,Application,,TN2013,Application EL Licenses,1263,Square Kilometre,4,"Columbite , Gold , Rare Earth Elements , Tantalite , Tin ",Aljouda Mining Co. Ltd (100%),,23.0666,Exploration license,,2014-07-18T11:19:31
+955,Application,,TN2012,Application EL Licenses,1264,Square Kilometre,4,"Columbite , Gold , Rare Earth Elements , Tantalite , Tin ",Aljouda Mining Co. Ltd (100%),,24.0,Exploration license,,2014-07-18T11:17:43
+956,Application,,TN1712,Application EL Licenses,1265,Square Kilometre,4,"Gold , Limestone ",Edith Joy Akissa (100%),,89.25,Exploration license,,2013-03-05T13:58:03
+957,Application,,TN1114,Application EL Licenses,1267,Square Kilometre,4,Dimension Stone ,Building  Majesties Limited (100%),,1.0,Exploration license,,2011-09-26T10:28:16
+958,Application,,TN1814,Application EL Licenses,1268,Square Kilometre,4,"Base Metals , Gold ",Chui Resources Ltd (100%),,162.0,Exploration license,,2013-07-29T12:04:05
+959,Application,,TN2006,Application EL Licenses,1269,Square Kilometre,4,"Base Metals , Pozzolana ",Big Picture Corporation (100%),,370.675,Exploration license,,2014-07-07T17:35:22
+960,Application,,TN2010,Application EL Licenses,1270,Square Kilometre,4,"Gold , Iron Ore ",Kamuntu Investments Limited (100%),,21.3562,Exploration license,,2014-07-10T14:07:51
+961,Application,,TN1811,Application EL Licenses,1273,Square Kilometre,4,"Base Metals , Gold , PGM ",African Rift Mineral Limited (100%),,101.0023,Exploration license,,2013-07-26T10:14:00
+962,Application,,TN1813,Application EL Licenses,1274,Square Kilometre,4,"Base Metals , Gold ",Rakai Resources Limited (100%),,492.8209,Exploration license,,2013-07-26T17:35:40
+963,Application,,TN1817,Application EL Licenses,1276,Square Kilometre,4,"Base Metals , Gold ",Uganed Holdings Ltd (100%),,4.2101,Exploration license,,2013-08-01T11:16:48
+964,Application,,TN1819,Application EL Licenses,1278,Square Kilometre,4,"Base Metals , Gold ",Uganed Holdings Ltd (100%),,81.6004,Exploration license,,2013-08-12T11:52:26
+965,Approved for Granting,,TN1803,Application EL Licenses,1279,Square Kilometre,4,"Base Metals , Coltan , Gold ",Mineral Research & Mines Limited (100%),,10.6875,Exploration license,,2013-07-16T16:01:29
+966,Application,,TN1822,Application EL Licenses,1281,Square Kilometre,4,"Gold , Gypsum , Limestone ",Guostar Enterprises (U) Limited (100%),,413.0,Exploration license,,2013-08-19T10:15:27
+967,Application,,TN1828,Application EL Licenses,1283,Square Kilometre,4,"Base Metals , Gold , Tin ",Fang Min (100%),,49.8156,Exploration license,,2013-09-02T12:55:28
+968,Application,,TN1833,Application EL Licenses,1284,Square Kilometre,4,"Base Metals , Iron Ore ",Steel Rolling Mills Limited (100%),,51.9575,Exploration license,,2013-09-04T11:45:32
+969,Application,,TN1853,Application EL Licenses,1295,Square Kilometre,4,"Base Metals , Gold ",Paul Bonabantu (100%),,52.0427,Exploration license,,2013-10-16T11:06:04
+970,Application,,TN1854,Application EL Licenses,1296,Square Kilometre,4,"Base Metals , Gold ",King of Kings Mining Company Limited (100%),,326.75,Exploration license,,2013-10-22T11:40:57
+971,Application,,TN1857,Application EL Licenses,1297,Square Kilometre,4,"Base Metals , Gold ",Sungura E'S Trading and Mining Co. Ltd (100%),,22.5,Exploration license,,2013-10-25T11:47:58
+972,Application,,TN1877,Application EL Licenses,1301,Square Kilometre,4,Granite,Aljouda Mining Co. Ltd (100%),,10.0,Exploration license,,2013-11-29T12:44:03
+973,Application,,TN1878,Application EL Licenses,1302,Square Kilometre,4,"Base Metals , Gold ",Yusumuga Autos (U) Ltd (100%),,209.43,Exploration license,,2013-11-29T15:46:58
+974,Application,,TN1872,Application EL Licenses,1303,Square Kilometre,4,"Base Metals , Gold ",Gordon Wavamuno (100%),,352.066,Exploration license,,2013-11-27T15:32:22
+975,Application,,TN1873,Application EL Licenses,1304,Square Kilometre,4,"Base Metals , Gold ",Gordon Wavamuno (100%),,171.872,Exploration license,,2013-11-27T15:30:04
+976,Application,,TN1879,Application EL Licenses,1305,Square Kilometre,4,"Base Metals , Gold ",Lynks Mineral Resources Ltd (100%),,146.0,Exploration license,,2013-11-29T16:38:27
+977,Application,,TN1881,Application EL Licenses,1306,Square Kilometre,4,"Base Metals , Gold ",Paul Bonabantu (100%),,0.1462,Exploration license,,2013-11-29T16:26:42
+978,Application,,TN1880,Application EL Licenses,1308,Square Kilometre,4,"Base Metals , Gold ",Lynks Mineral Resources Ltd (100%),,155.0,Exploration license,,2013-11-29T16:37:21
+979,Application,,TN1883,Application EL Licenses,1309,Square Kilometre,4,"Base Metals , Gold ",Lynks Mineral Resources Ltd (100%),,155.0,Exploration license,,2013-12-05T16:08:57
+980,Application,,TN1884,Application EL Licenses,1310,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,86.5,Exploration license,,2013-12-05T16:10:54
+981,Application,,TN1886,Application EL Licenses,1311,Square Kilometre,4,"Base Metals , Gold ",Lynks Mineral Resources Ltd (100%),,252.0,Exploration license,,2013-12-05T16:05:08
+982,Application,,TN1888,Application EL Licenses,1312,Square Kilometre,4,"Base Metals , Gold ",Blaze Metals Resources Ashant Limited (100%),,121.5,Exploration license,,2013-12-05T16:04:45
+983,Application,,TN1910,Application EL Licenses,1316,Square Kilometre,4,"Base Metals , Gold ",Malibu Holdings Limited (100%),,25.0,Exploration license,,2014-01-30T12:02:04
+984,Application,,TN1912,Application EL Licenses,1317,Square Kilometre,4,"Base Metals , Gold ",Malibu Holdings Limited (100%),,56.0,Exploration license,,2014-01-30T12:04:05
+985,Application,,TN1954,Application EL Licenses,1321,Square Kilometre,4,"Base Metals , Gold , Limestone , Pozzolana ",Supercom Interantional Limited (100%),,56.492,Exploration license,,2014-04-17T16:09:01
+986,Application,,TN1958,Application EL Licenses,1322,Square Kilometre,4,"Base Metals , Gold ",Pramukh Steel Limited (100%),,483.0,Exploration license,,2014-04-25T16:43:09
+987,Application,,TN1959,Application EL Licenses,1324,Square Kilometre,4,"Base Metals , Gold ",Pramukh Steel Limited (100%),,100.0,Exploration license,,2014-04-25T16:44:54
+988,Application,,TN1978,Application EL Licenses,1325,Square Kilometre,4,Limestone ,Steel & Tube Industries Limited (100%),,235.9875,Exploration license,,2014-06-04T13:09:24
+989,Application,,TN1988,Application EL Licenses,1327,Square Kilometre,4,"Coltan , Tin , Wolfram ",Richard Henry Kaijuka (100%),,2.2954,Exploration license,,2014-06-12T17:27:47
+990,Application,,TN1989,Application EL Licenses,1329,Square Kilometre,4,"Coltan , Tin , Wolfram ",Richard Henry Kaijuka (100%),,117.0,Exploration license,,2014-06-12T17:26:35
+991,Application,,TN1990,Application EL Licenses,1330,Square Kilometre,4,"Coltan , Tin , Wolfram ",Richard Henry Kaijuka (100%),,0.9319,Exploration license,,2014-06-12T17:30:04
+992,Application,,TN2003,Application EL Licenses,1331,Square Kilometre,4,"Base Metals , Gold ",Richard Henry Kaijuka (100%),,210.0,Exploration license,,2014-07-03T16:23:16
+993,Application,,TN1997,Application EL Licenses,1332,Square Kilometre,4,"Base Metals , Gold ",Mt. Moroto Minerals Limited (100%),,483.7817,Exploration license,,2014-06-24T17:05:36
+994,Application,,TN1998,Application EL Licenses,1333,Square Kilometre,4,"Base Metals , Gold , Pozzolana ",Aquva International Ltd (100%),,33.466,Exploration license,,2014-06-26T16:59:53
+995,Application,,TN1999,Application EL Licenses,1334,Square Kilometre,4,Industrial Minerals ,Kampala Cement Company Ltd (100%),,25.8,Exploration license,,2014-07-02T12:33:19
+996,Application,,TN2008,Application EL Licenses,1335,Square Kilometre,4,"Base Metals , Cobalt , Copper , Gold , Nickel ",African Quest Resources Ltd (100%),,276.1219,Exploration license,,2014-07-09T17:22:02
+997,Application,,TN2009,Application EL Licenses,1336,Square Kilometre,4,"Base Metals , Cobalt , Copper , Gold , Nickel ",African Quest Resources Ltd (100%),,500.0,Exploration license,,2014-07-09T10:23:18
+998,Application,,TN2022,Application EL Licenses,1337,Square Kilometre,4,"Base Metals , Bentonite , Berrylium , Columbite , Diamonds , Gold , Limestone , Rare Earth Elements , Tantalite , Tin ",Prosper Woodworks (100%),,89.5,Exploration license,,2014-08-14T15:11:08
+999,Application,,TN2023,Application EL Licenses,1340,Square Kilometre,4,"Base Metals , Gold , Marble ",Jajoe Financial Services International Limited (100%),,21.0,Exploration license,,2014-08-19T12:01:58
+1000,Application,,TN1935,Application EL Licenses,1355,Square Kilometre,4,"Base Metals , Gold ",Atuhaire Victor & Sons Limited (100%),,16.8,Exploration license,,2014-03-26T16:17:48
+1001,Application,,TN2025,Application EL Licenses,1359,Square Kilometre,4,"Base Metals , Gold , Industrial Minerals , Rare Earth Elements ",Mutono Investments Limited (100%),,220.2535,Exploration license,,2014-08-22T14:12:20
+1002,Application,,TN2026,Application EL Licenses,1361,Square Kilometre,4,"Base Metals , Gold , PGM , Rare Earth Elements , Uranium ",Big Picture Corporation (100%),,83.1287,Exploration license,,2014-08-25T10:13:17
+1003,Application,,TN2027,Application EL Licenses,1363,Square Kilometre,4,"Base Metals , Gold ",STEPHEN BANGUMYA (100%),,95.543,Exploration license,,2014-08-27T11:53:44
+1004,Application,,TN2024,Application EL Licenses,1364,Square Kilometre,4,"Base Metals , Gold ",Petstone Holdings Limited (100%),,31.348,Exploration license,,2014-08-21T11:53:53
+1005,Application,,TN1673,Application EL Licenses,1366,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,382.0,Exploration license,,2013-01-14T11:40:00
+1006,Approved for Granting,,TN1533,Application EL Licenses,1374,Square Kilometre,4,"Base Metals , Gold ",Jovena Mines (U) Limited (100%),,100.9736,Exploration license,,2012-10-18T04:00:31
+1007,Approved for Granting,,TN1812,Application EL Licenses,1375,Square Kilometre,4,"Base Metals , Gold ",Rakai Resources Limited (100%),,421.5714,Exploration license,,2013-07-26T17:34:57
+1008,Approved for Granting,,TN1764,Application EL Licenses,1376,Square Kilometre,4,Gypsum ,Kapex Ltd (100%),,55.0,Exploration license,,2013-05-15T10:47:06
+1009,Approved for Granting,,TN2014,Application EL Licenses,1381,Square Kilometre,4,"Base Metals , Columbite , Gold , Tantalite , Tin ",Tin Trade Company Limited (100%),,1.6994,Exploration license,,2014-07-23T15:19:29
+1010,Application,,TN2030,Application EL Licenses,1383,Square Kilometre,4,"Base Metals , Precious Metals ",African Quest Resources Ltd (100%),,30.4147,Exploration license,,2014-09-10T16:10:50
+1011,Application,,TN2031,Application EL Licenses,1384,Square Kilometre,4,"Base Metals , Gold , Iron Ore ",Mark Ongom Oloya (100%),,100.0,Exploration license,,2014-09-10T13:48:17
+1012,Application,,TN1723,Application RL Licenses,944,Square Kilometre,7,"Columbite , Tantalite ",Picfare Industries Limited (100%),,7.92,Retention license,Application,2013-03-18T16:10:00
+1013,Application,,TN1107,Application LL Licenses,569,Square Kilometre,6,Pozzolana ,Rift Valley Minerals Limited (100%),,0.161,Location license,Application,2011-08-08T12:00:13
+1014,Application,,TN1327,Application LL Licenses,709,Square Kilometre,6,Class VI - Limestone and chalk,Oli Gold Muruli Limited (100%),,0.078,Location license,Application,2012-04-16T10:04:30
+1015,Application,,TN1474,Application LL Licenses,754,Square Kilometre,6,Granite,Robert Kirya Mutiibwa (100%),,0.15,Location license,Application,2012-08-15T11:40:25
+1016,Application,,TN1475,Application LL Licenses,755,Square Kilometre,6,Granite,Robert Kirya Mutiibwa (100%),,0.1575,Location license,Application,2012-08-06T11:50:40
+1017,Application,,TN1443,Application LL Licenses,757,Square Kilometre,6,"Base Metals , Gold , Wolfram ",RUSLA MINING AND MINERALS LIMITED (100%),,0.149,Location license,Application,2012-07-20T12:30:26
+1018,Application,,TN1538,Application LL Licenses,783,Square Kilometre,6,Granite,Robert Kirya Mutiibwa (100%),,0.16,Location license,Application,2012-10-12T09:30:18
+1019,Application,,TN1537,Application LL Licenses,793,Square Kilometre,6,Granite,Robert Kirya Mutiibwa (100%),,0.16,Location license,Application,2012-10-12T09:30:20
+1020,Application,,TN1611,Application LL Licenses,802,Square Kilometre,6,Limestone ,BBK Foods and Beverages (U) Ltd (100%),,0.1594,Location license,Application,2012-11-01T16:00:18
+1021,Application,,TN1685,Application LL Licenses,895,Square Kilometre,6,Limestone ,Violla K. Bamusede (100%),,0.0798,Location license,Application,2013-02-06T12:45:00
+1022,Application,,TN1684,Application LL Licenses,896,Square Kilometre,6,Limestone ,Violla K. Bamusede (100%),,0.0798,Location license,Application,2013-02-06T13:00:00
+1023,Application,,TN1691,Application LL Licenses,900,Square Kilometre,6,Granite,Prosper Woodworks (100%),,0.1591,Location license,Application,2013-02-18T08:30:00
+1024,Application,,TN1692,Application LL Licenses,1123,Square Kilometre,6,Granite,Prosper Woodworks (100%),,0.1591,Location license,Application,2013-02-18T08:30:00
+1025,Application,,TN1722,Application LL Licenses,1133,Square Kilometre,6,Granite,Samuel Sebabi (100%),,0.1597,Location license,Application,2013-03-18T12:15:00
+1026,Application,,TN1917,Application LL Licenses,1179,Square Kilometre,6,Limestone ,Kwatampora Alex Binego (100%),,0.0797,Location license,Application,2014-02-18T15:36:07
+1027,Application,,TN1976,Application LL Licenses,1224,Square Kilometre,6,"Manganese, Tantalite , Tin ",Equator Metals Limited (100%),,0.1585,Location license,Application,2014-05-29T15:25:48
+1028,Application,,TN1979,Application LL Licenses,1235,Square Kilometre,6,Class VI - Limestone and chalk,Bithaba Foundation Investment Ltd (100%),,0.0799,Location license,Application,2014-06-04T14:48:05
+1029,Application,,TN1984,Application LL Licenses,1236,Square Kilometre,6,Gold ,Kitumbi Kayonza Miners Ass. Ltd (100%),,0.1336,Location license,Application,2014-06-05T12:19:40
+1030,Application,,TN1985,Application LL Licenses,1237,Square Kilometre,6,Gold ,Kitumbi Kayonza Miners Ass. Ltd (100%),,0.1336,Location license,Application,2014-06-05T12:21:04
+1031,Application,,TN1980,Application LL Licenses,1238,Square Kilometre,6,Class VI - Limestone and chalk,Bithaba Foundation Investment Ltd (100%),,0.0799,Location license,Application,2014-06-04T14:47:28
+1032,Application,,TN1986,Application LL Licenses,1239,Square Kilometre,6,Gold ,Kitumbi Kayonza Miners Ass. Ltd (100%),,0.1364,Location license,Application,2014-06-05T12:22:32
+1033,Application,,TN1762,Application LL Licenses,1246,Square Kilometre,6,Gold ,Oli Gold Muruli Limited (100%),,0.16,Location license,Application,2013-05-14T11:02:04
+1034,Application,,TN2016,Application LL Licenses,1250,Square Kilometre,6,Pozzolana ,Automu Electronics Co. Ltd (100%),,0.15,Location license,Application,2014-07-31T16:11:45
+1035,Application,,TN1836,Application LL Licenses,1291,Square Kilometre,6,Gold ,Sikander Meghani (100%),,0.16,Location license,Application,2013-09-11T16:47:59
+1036,Application,,TN1977,Application LL Licenses,1326,Square Kilometre,6,Tin ,Byarugaba William and Family Investments Limited (100%),,0.1602,Location license,Application,2014-06-02T17:52:08
+1037,Application,,TN1987,Application LL Licenses,1328,Square Kilometre,6,"Tin , Wolfram ",Richard Henry Kaijuka (100%),,0.1598,Location license,Application,2014-06-12T17:24:27
+1038,Application,,TN2028,Application LL Licenses,1365,Square Kilometre,6,Pozzolana ,Hillmarks Limited (100%),,0.16,Location license,Application,2014-08-27T16:31:20
